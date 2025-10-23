@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -10,7 +19,7 @@
             "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true,
-            "pr_info": "<p>{{ product.metafields.custom.short_text.value }}<\/p>",
+            "pr_info": "<p>{{ product.metafields.custom.short_text.value }}</p>",
             "line": true,
             "line_top": "md:tw-mt-12",
             "line_bottom": "md:tw-mb-2"
@@ -85,6 +94,7 @@
         },
         "anchor_DWTAQW": {
           "type": "anchor",
+          "disabled": true,
           "settings": {
             "title": "Specifications",
             "anchor_id": "Specification (img)"
@@ -106,6 +116,7 @@
         },
         "drawer_NiEjcP": {
           "type": "drawer",
+          "disabled": true,
           "settings": {
             "title": "Specs",
             "content": ""
@@ -113,6 +124,7 @@
         },
         "anchor_8VjwmL": {
           "type": "anchor",
+          "disabled": true,
           "settings": {
             "title": "What's In The Box",
             "anchor_id": "whats-in-the-box-txt"
@@ -120,10 +132,11 @@
         },
         "collapsible_tab_Lt8myP": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
             "page": "",
             "liquid": ""
           }
@@ -185,7 +198,7 @@
         "content_9grYEm": {
           "type": "content",
           "settings": {
-            "content": "<h1><strong>Please note: <\/strong><\/h1><p><br\/>There may be a difference of 0~5 cm between measured and actual data.<\/p>"
+            "content": "<h1><strong>Please note: </strong></h1><p><br/>There may be a difference of 0~5 cm between measured and actual data.</p>"
           }
         },
         "table_aCTBik": {
@@ -204,8 +217,8 @@
         "img_rmqdEK": {
           "type": "img",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/1_6.png",
-            "img_3": "shopify:\/\/shop_images\/1_8.png"
+            "img_1": "shopify://shop_images/1_6.png",
+            "img_3": "shopify://shop_images/1_8.png"
           }
         }
       },
@@ -227,7 +240,7 @@
           "settings": {
             "icon": "rocket",
             "heading": "Shipping Information",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#b45309",
@@ -242,7 +255,7 @@
           "settings": {
             "icon": "headphone",
             "heading": "Customer Support",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#0369a1",
@@ -257,7 +270,7 @@
           "settings": {
             "icon": "chat_bubble",
             "heading": "FAQ’s",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#be123c",
@@ -272,7 +285,7 @@
           "settings": {
             "icon": "phone",
             "heading": "Contact Us",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#4d7c0f",
@@ -291,7 +304,7 @@
       ],
       "settings": {
         "heading": "Need help?",
-        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.<\/p>"
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
     "collage": {
@@ -300,7 +313,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -322,7 +335,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -344,7 +357,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -366,7 +379,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": true,
@@ -399,7 +412,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
         "button_label": "View more",
         "button_link": "",
         "button_external": false,
@@ -428,7 +441,7 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/image.jpg",
+            "img_1": "shopify://shop_images/image.jpg",
             "tab_con": "Establishment",
             "title": "Establishment：Specially designed1\nfor off - road adventures.",
             "content": "The adventurous off-road genes of jasionbike were born with X-Hunter, defining what a bicycle can achieve in adventure and off-roading. It symbolizes jasionbike's bold innovation. X-Hunter integrates sports and leisure, allowing consumers to adapt perfectly to any scene. It represents rugged durability and unparalleled performance, urging you to embark on new paths and embrace the thrill of the unknown."
@@ -437,8 +450,8 @@
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/image_1.jpg",
-            "img_2": "shopify:\/\/shop_images\/image.jpg",
+            "img_1": "shopify://shop_images/image_1.jpg",
+            "img_2": "shopify://shop_images/image.jpg",
             "tab_con": "Design",
             "title": "Hydraulic Disc Brakes",
             "content": "The advanced hydraulic disc brakes provide reliable braking power for enhanced safety and control during your rides."
@@ -447,8 +460,8 @@
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/image.jpg",
-            "img_2": "shopify:\/\/shop_images\/EB7_2.0-3.jpg",
+            "img_1": "shopify://shop_images/image.jpg",
+            "img_2": "shopify://shop_images/EB7_2.0-3.jpg",
             "tab_con": "Finished Product",
             "title": "Add a Pop of Color to Your Ride",
             "content": "There are 4 color options of Ranger S: merlot-red, stone-blue, shark-grey, metallic-sand. Choose the one you like and ride in style."
@@ -457,8 +470,8 @@
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/image_1.jpg",
-            "img_2": "shopify:\/\/shop_images\/image.jpg",
+            "img_1": "shopify://shop_images/image_1.jpg",
+            "img_2": "shopify://shop_images/image.jpg",
             "tab_con": "Craftsmanship",
             "title": "Specially designed for off - road adventures.",
             "content": "The Ranger S ebike features a Safety Certified Battery (UL2849 Standard) with a capacity of 692Wh. It can provide reliable power for a versatile and eco-friendly ride."
@@ -481,6 +494,7 @@
         "item_nKfTj6",
         "item_Y4Ak7p"
       ],
+      "disabled": true,
       "settings": {
         "color_text": "",
         "color_background": "",
@@ -501,7 +515,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Designed, Assembled, <\/p><p>& Certified in Europe<\/p><p><\/p>",
+            "heading": "<p>Designed, Assembled, </p><p>& Certified in Europe</p><p></p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -511,7 +525,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The synergy of the customized motor and torque sensor ensures optimal efficiency, enabling an impressive 80-mile range on a single charge. Enhanced by the Shimano 8-speed gear shift system, it tackles diverse terrains with ease. Start an ebike tour now!<\/p>",
+            "text": "<p>The synergy of the customized motor and torque sensor ensures optimal efficiency, enabling an impressive 80-mile range on a single charge. Enhanced by the Shimano 8-speed gear shift system, it tackles diverse terrains with ease. Start an ebike tour now!</p>",
             "text_size": "subtext-sm",
             "text_max_size": 32,
             "text_color": "#000000",
@@ -524,7 +538,7 @@
         "text_BbLhqQ": {
           "type": "text",
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -540,22 +554,23 @@
         "text",
         "text_BbLhqQ"
       ],
+      "disabled": true,
       "settings": {
         "img_placeholder": true,
-        "image": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+        "image": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
         "image_height": "750px",
         "image_width": "medium",
         "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": true,
-        "image_mobile": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+        "image_mobile": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
         "image_height_mobile": "300px",
         "text_alignment_mobile": "left",
         "color_text": "#171717",
         "color_background": "rgba(0,0,0,0)",
-        "bg_img": "shopify:\/\/shop_images\/image.png",
-        "bg_img_mb": "shopify:\/\/shop_images\/66adaf5ce49d17f79468311434a3f249.png",
+        "bg_img": "shopify://shop_images/image.png",
+        "bg_img_mb": "shopify://shop_images/66adaf5ce49d17f79468311434a3f249.png",
         "gradient_background": "",
         "color_background_2": "rgba(0,0,0,0)",
         "gradient_background_2": "",
@@ -579,7 +594,7 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Comfort or Cargo?<\/p><p>\u2028Customize Your Ride!<\/p>",
+            "heading": "<p>Comfort or Cargo?</p><p> Customize Your Ride!</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -602,7 +617,7 @@
         "text_P7YzCp": {
           "type": "text",
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -618,9 +633,10 @@
         "text_rA7CmC",
         "text_P7YzCp"
       ],
+      "disabled": true,
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
+        "image": "shopify://shop_images/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -654,7 +670,7 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Comfort or Cargo?<\/p><p>\u2028Customize Your Ride!<\/p>",
+            "heading": "<p>Comfort or Cargo?</p><p> Customize Your Ride!</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -677,7 +693,7 @@
         "text_cHMnAd": {
           "type": "text",
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -693,9 +709,10 @@
         "text_Lg8THC",
         "text_cHMnAd"
       ],
+      "disabled": true,
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/image_87b0e5a4-03fe-4e3a-9f9a-47ec50d980d3.jpg",
+        "image": "shopify://shop_images/image_87b0e5a4-03fe-4e3a-9f9a-47ec50d980d3.jpg",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -725,10 +742,11 @@
     },
     "video_BjHb7i": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "transparent_header": false,
-        "video": "shopify:\/\/files\/videos\/悍马视频.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/悍马视频.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
@@ -754,7 +772,7 @@
             "horizontal": 50,
             "vertical_mobile": 22,
             "horizontal_mobile": 17,
-            "modal_img": "shopify:\/\/shop_images\/test_1.png",
+            "modal_img": "shopify://shop_images/test_1.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -768,7 +786,7 @@
             "horizontal": 37,
             "vertical_mobile": 50,
             "horizontal_mobile": 50,
-            "modal_img": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+            "modal_img": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -778,15 +796,16 @@
         "hotspot_t7dNQN",
         "hotspot_RtLe4E"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
-        "image_mobile": "shopify:\/\/shop_images\/test.png",
+        "image": "shopify://shop_images/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
+        "image_mobile": "shopify://shop_images/test.png",
         "heading": "Details you’ll fall in love with",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Every detail has been carefully crafted to captivate<\/p>",
+        "description": "<p>Every detail has been carefully crafted to captivate</p>",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -810,18 +829,18 @@
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "NEW: Torque Sensor",
             "title_sz": "h3",
-            "content": "Utilizing torque sensing pedal assist ensures a beautifully responsive ride feels and there's virtually zero latency. Translate your every movement into smooth motor power. <b>(1000W Version Only)\n<\/b>",
+            "content": "Utilizing torque sensing pedal assist ensures a beautifully responsive ride feels and there's virtually zero latency. Translate your every movement into smooth motor power. <b>(1000W Version Only)\n</b>",
             "author": "RVdaydream"
           }
         },
         "item_efmfGR": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "Hydraulic Disc Brakes",
             "title_sz": "h3",
@@ -832,7 +851,7 @@
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "400 lbs Payload Capacity",
             "title_sz": "h3",
@@ -843,7 +862,7 @@
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -854,7 +873,7 @@
         "item_BEWmqD": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -866,7 +885,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -878,7 +897,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
+            "img": "shopify://shop_images/test_2_6480eac8-95b3-4b9e-b37f-e80cc8524569.png",
             "date": "",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -896,6 +915,7 @@
         "item_ewmnnU",
         "item_bbFPRL"
       ],
+      "disabled": true,
       "settings": {
         "pw-overflow-hidden": true,
         "columns": 4,
@@ -931,8 +951,8 @@
         "video_CdhUFd": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "cover_image": "shopify:\/\/shop_images\/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify://shop_images/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -943,15 +963,15 @@
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h4",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
+            "avatar": "shopify://shop_images/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
             "author": "RVdaydream"
           }
         },
         "video_ddPNFB": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=Y7tO69rdA3I",
-            "cover_image": "shopify:\/\/shop_images\/image_87b0e5a4-03fe-4e3a-9f9a-47ec50d980d3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Y7tO69rdA3I",
+            "cover_image": "shopify://shop_images/image_87b0e5a4-03fe-4e3a-9f9a-47ec50d980d3.jpg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -962,16 +982,16 @@
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h4",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
+            "avatar": "shopify://shop_images/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
             "author": "RVdaydream"
           }
         },
         "video_nAJUWq": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/修改2.mp4",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "cover_image": "shopify:\/\/shop_images\/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
+            "video": "shopify://files/videos/修改2.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "cover_image": "shopify://shop_images/image_1_c0f2dba2-f85f-4e6c-9523-a4be281fd67d.jpg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -982,14 +1002,14 @@
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h4",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
+            "avatar": "shopify://shop_images/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
             "author": "RVdaydream"
           }
         },
         "video_h66XiD": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -1000,15 +1020,15 @@
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h4",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
+            "avatar": "shopify://shop_images/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
             "author": "RVdaydream"
           }
         },
         "video_4tbFaF": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/修改2.mp4",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video": "shopify://files/videos/修改2.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -1019,7 +1039,7 @@
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h4",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
+            "avatar": "shopify://shop_images/image_446041e2-2f27-4bbc-9d9e-939967bddb8b.png",
             "author": "RVdaydream"
           }
         },
@@ -1027,7 +1047,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+            "img": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
             "date": "Jun 29, 2024",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -1044,6 +1064,7 @@
         "video_4tbFaF",
         "item_tb6W4z"
       ],
+      "disabled": true,
       "settings": {
         "pw-overflow-hidden": true,
         "columns": 3,
@@ -1080,7 +1101,7 @@
           "type": "img_list",
           "settings": {
             "order_title": "Geometry (txt&img)",
-            "img": "shopify:\/\/shop_images\/test_9162f141-d7f0-4782-8325-c87a10c3f8b7.png",
+            "img": "shopify://shop_images/test_9162f141-d7f0-4782-8325-c87a10c3f8b7.png",
             "img_w": 40,
             "list": "|SIZE (mm)|One Size\nA|Effective top tube|480\nB|Seat tube length|480\nC|Head tube|480\nD|Steering angle|480\nE|Seat tube angle|480\nF|Chainstay|457",
             "item_justify": "tw-justify-between",
@@ -1093,7 +1114,7 @@
           "settings": {
             "order_title": "Specification (txt)",
             "img_w": 50,
-            "list": "|Bottom Bracket |Fully-concealed Bottom Bracket\n|Frame |6061 Aluminium Frame\n|Front Fork |SR SUNTOUR Suspension Front Fork\n|Crankset |Gates CDX Crankset\n|Drivetrain |Single-speed Drivetrain<br>Gates CDN Carbon Belt\n|Tires |CST Puncture-proof 700*48C size Tires\n|Bottom Bracket |Fully-concealed Bottom Bracket\n|Wheels |28\" Aluminium Rims\n|Brake |TEKTRO Hydraulic Disc Brakes\n|Drivetrain |Single-speed Drivetrain<br>Gates CDN Carbon Belt\n|Tires |CST Puncture-proof 700*48C size Tires\n|Bottom Bracket |Fully-concealed Bottom Bracket\n|Weight* |Net weight: 19 kg (excluding all accessories)<br> Full weight: 23 kg (including all accessories) <br>Permissible Max. Weight: 145 kg|*All stated weight numbers have a +\/- 3%-5% tolerance. Net weight includes the battery but excludes all accessories. Full weight includes the battery and all accessories.",
+            "list": "|Bottom Bracket |Fully-concealed Bottom Bracket\n|Frame |6061 Aluminium Frame\n|Front Fork |SR SUNTOUR Suspension Front Fork\n|Crankset |Gates CDX Crankset\n|Drivetrain |Single-speed Drivetrain<br>Gates CDN Carbon Belt\n|Tires |CST Puncture-proof 700*48C size Tires\n|Bottom Bracket |Fully-concealed Bottom Bracket\n|Wheels |28\" Aluminium Rims\n|Brake |TEKTRO Hydraulic Disc Brakes\n|Drivetrain |Single-speed Drivetrain<br>Gates CDN Carbon Belt\n|Tires |CST Puncture-proof 700*48C size Tires\n|Bottom Bracket |Fully-concealed Bottom Bracket\n|Weight* |Net weight: 19 kg (excluding all accessories)<br> Full weight: 23 kg (including all accessories) <br>Permissible Max. Weight: 145 kg|*All stated weight numbers have a +/- 3%-5% tolerance. Net weight includes the battery but excludes all accessories. Full weight includes the battery and all accessories.",
             "item_justify": "tw-justify-left",
             "list_border": true,
             "list_col": "2"
@@ -1103,7 +1124,7 @@
           "type": "img_list",
           "settings": {
             "order_title": "What's In The Box (img)",
-            "img": "shopify:\/\/shop_images\/Valentine_s-Day1.png",
+            "img": "shopify://shop_images/Valentine_s-Day1.png",
             "img_w": 50,
             "list": "",
             "item_justify": "tw-justify-between",
@@ -1117,6 +1138,7 @@
         "img_list_QVkBjk",
         "img_list_LHUEbm"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Specifications and parameters",
         "heading_size": "title-sm",
@@ -1148,7 +1170,7 @@
           "type": "question",
           "settings": {
             "title": "1. What areas do you ship to?",
-            "text": "<p>We offer shipping services to most countries within the European Union (excluding Malta, Cyprus, Iceland, and the EU Outermost Regions) as well as the United Kingdom. At this time, we do not deliver to P.O. boxes.<\/p>",
+            "text": "<p>We offer shipping services to most countries within the European Union (excluding Malta, Cyprus, Iceland, and the EU Outermost Regions) as well as the United Kingdom. At this time, we do not deliver to P.O. boxes.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1157,7 +1179,7 @@
           "type": "question",
           "settings": {
             "title": "2. Do you offer free shipping?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1166,7 +1188,7 @@
           "type": "question",
           "settings": {
             "title": "3. What is the Jasion warranty period?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1175,7 +1197,7 @@
           "type": "question",
           "settings": {
             "title": "4. What should I do if my e-bike is damaged during shipping?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1184,7 +1206,7 @@
           "type": "question",
           "settings": {
             "title": "5. What is the return policy?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1193,7 +1215,7 @@
           "type": "question",
           "settings": {
             "title": "6. What is the return and exchange process?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1202,7 +1224,7 @@
           "type": "question",
           "settings": {
             "title": "7. How to find the e-bike that fits me?",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1217,6 +1239,7 @@
         "question_qtF3Vm",
         "question_gH97gL"
       ],
+      "disabled": true,
       "settings": {
         "style": "tw-default-faq",
         "heading": "Frequently asked questions",
@@ -1255,7 +1278,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1264,7 +1287,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1273,7 +1296,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1282,7 +1305,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1291,7 +1314,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1300,7 +1323,7 @@
           "type": "contact",
           "settings": {
             "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us<\/p>",
+            "text": "<p>Don't hestitate to contact us</p>",
             "show_phone": false,
             "avatar_height": 60,
             "highlighted_text": "none",
@@ -1324,7 +1347,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs<\/a> page to find out more.<\/p>",
+        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
@@ -1350,6 +1373,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_limit": 6,
         "columns": 4,

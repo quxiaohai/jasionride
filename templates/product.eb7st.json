@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -10,7 +19,7 @@
             "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true,
-            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}<\/strong><\/p>",
+            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
             "line_top": "md:tw-mt-12",
             "line_bottom": "md:tw-mb-2"
@@ -193,7 +202,7 @@
           "type": "content",
           "disabled": true,
           "settings": {
-            "content": "<h1><strong>Please note: <\/strong><\/h1><p><br\/>There may be a difference of 0~5 cm between measured and actual data.<\/p>"
+            "content": "<h1><strong>Please note: </strong></h1><p><br/>There may be a difference of 0~5 cm between measured and actual data.</p>"
           }
         },
         "table_aCTBik": {
@@ -213,8 +222,8 @@
           "type": "img",
           "disabled": true,
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/1_6.png",
-            "img_3": "shopify:\/\/shop_images\/1_8.png"
+            "img_1": "shopify://shop_images/1_6.png",
+            "img_3": "shopify://shop_images/1_8.png"
           }
         }
       },
@@ -236,7 +245,7 @@
           "settings": {
             "icon": "rocket",
             "heading": "Local Warehouse",
-            "text": "<p>On your doorstep in just 2-4 days across 49 states.<\/p>",
+            "text": "<p>On your doorstep in just 2-4 days across 49 states.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#b45309",
@@ -251,7 +260,7 @@
           "settings": {
             "icon": "headphone",
             "heading": "A+ Customer Service",
-            "text": "<p>24-Hour Online Customer Service.<\/p>",
+            "text": "<p>24-Hour Online Customer Service.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#0369a1",
@@ -267,7 +276,7 @@
           "settings": {
             "icon": "chat_bubble",
             "heading": "FAQ’s",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#be123c",
@@ -283,7 +292,7 @@
           "settings": {
             "icon": "none",
             "heading": "Information",
-            "text": "<p>Share contact information, store details, and brand content with your customers.<\/p>",
+            "text": "<p>Share contact information, store details, and brand content with your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#fafafa",
@@ -298,7 +307,7 @@
           "settings": {
             "icon": "phone",
             "heading": "Contact Us",
-            "text": "<ul><li><strong>Contact Email: <\/strong>support@jasionbike.com<\/li><li><strong>Contact Phone：<\/strong>(+1) 888-825-6366<\/li><\/ul>",
+            "text": "<ul><li><strong>Contact Email: </strong>support@jasionbike.com</li><li><strong>Contact Phone：</strong>(+1) 888-825-6366</li></ul>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#4d7c0f",
@@ -318,7 +327,7 @@
       ],
       "settings": {
         "heading": "Need help?",
-        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.<\/p>"
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
     "collage": {
@@ -327,7 +336,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -349,7 +358,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -371,7 +380,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -393,7 +402,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": true,
@@ -426,7 +435,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
         "button_label": "View more",
         "button_link": "",
         "button_external": false,
@@ -455,7 +464,7 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Establishment_620x620_22a2e52e-8f82-4b03-a0d9-c7211dabf5cf.png",
+            "img_1": "shopify://shop_images/Establishment_620x620_22a2e52e-8f82-4b03-a0d9-c7211dabf5cf.png",
             "tab_con": "Establishment",
             "title": "Establishment：Jasion EB7 ST – Your Comfortable Companion for City Travel",
             "content": "Responding to consumer demand, EB7 ST was born. With the success and high acclaim of the 2.0 model in the market, the ST model was conceived. Unlike EB7 2.0, this model features a lower frame height, completely changing traditional standards while achieving a harmonious balance between power and sophistication, marking a milestone in urban commuting."
@@ -464,7 +473,7 @@
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Design_620x620_a69a55c7-8bb5-4ffd-911d-0109972a999c.png",
+            "img_1": "shopify://shop_images/Design_620x620_a69a55c7-8bb5-4ffd-911d-0109972a999c.png",
             "tab_con": "Design",
             "title": "Design",
             "content": "A co-creation between Jasion and consumers, the EB7 ST's design is more about listening to consumers' voices and suggestions. The initial intention of the ST is to better serve consumers. With its lower frame and seat height, children, elderly, and individuals with leg injuries can all enjoy the joy of riding. ST is not just a mode of transportation but also a companion, accompanying you to feel the wind and freedom."
@@ -473,7 +482,7 @@
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Craftsmanship_620x620_669f1aa9-b732-409c-b3c5-4dbab0061329.png",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_669f1aa9-b732-409c-b3c5-4dbab0061329.png",
             "tab_con": "Craftsmanship",
             "title": "Craftsmanship",
             "content": "In the structural design and load-bearing tests of the low-frame chassis, Jasion conducted over 3000 collision tests to find a balance point. Every curve and component of EB7 ST reflects precise engineering and meticulous craftsmanship. To ensure the peace of mind of more users, we use 7075-T6 aluminum alloy material, making it a vehicle that promises perfect durability and reliability."
@@ -482,7 +491,7 @@
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Finished_Product_620x620_84e7fa92-795b-484f-b212-e004508e700b.jpg",
+            "img_1": "shopify://shop_images/Finished_Product_620x620_84e7fa92-795b-484f-b212-e004508e700b.jpg",
             "tab_con": "Finished Product",
             "title": "Finished Product",
             "content": "EB7 ST is not just an electric bicycle but also a partner that can give you freedom. It is a choice of lifestyle, leading you into unknown adventures and redefining new freedom for you. Confident and stylish riding, let EB7 ST redefine the way you explore urban landscapes, one journey at a time."
@@ -544,7 +553,7 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>This uniquely designed electric bike boasts a powerful 850W motor, 20\"x3\" wide tires, and dual shock absorbers, providing you with a smooth and powerful riding experience.<br\/><br\/><\/p>",
+            "text": "<p>This uniquely designed electric bike boasts a powerful 850W motor, 20\"x3\" wide tires, and dual shock absorbers, providing you with a smooth and powerful riding experience.<br/><br/></p>",
             "text_size": "subtext-sm",
             "text_max_size": 16,
             "text_font": "body",
@@ -561,12 +570,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1920_800_a940a019-f928-4458-8b88-c1616fc46e16.jpg",
+        "image": "shopify://shop_images/1920_800_a940a019-f928-4458-8b88-c1616fc46e16.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/390_320_bde72bb9-6241-49ce-ab5a-2c1b5e30bb1b.jpg",
+        "image_mobile": "shopify://shop_images/390_320_bde72bb9-6241-49ce-ab5a-2c1b5e30bb1b.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -593,7 +602,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>85Nm High Torque <br\/>Folding Fat Tire E-Bike<\/p><p><\/p>",
+            "heading": "<p>85Nm High Torque <br/>Folding Fat Tire E-Bike</p><p></p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "text",
@@ -603,7 +612,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.<\/p>",
+            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_color": "#000000",
@@ -617,7 +626,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -636,20 +645,20 @@
       "disabled": true,
       "settings": {
         "img_placeholder": true,
-        "image": "shopify:\/\/shop_images\/1920_800-3.jpg",
+        "image": "shopify://shop_images/1920_800-3.jpg",
         "image_height": "750px",
         "image_width": "medium",
         "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": true,
-        "image_mobile": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+        "image_mobile": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
         "image_height_mobile": "300px",
         "text_alignment_mobile": "left",
         "color_text": "#171717",
         "color_background": "rgba(0,0,0,0)",
-        "bg_img": "shopify:\/\/shop_images\/1920_800-3.jpg",
-        "bg_img_mb": "shopify:\/\/shop_images\/390_600.jpg",
+        "bg_img": "shopify://shop_images/1920_800-3.jpg",
+        "bg_img_mb": "shopify://shop_images/390_600.jpg",
         "gradient_background": "",
         "color_background_2": "rgba(0,0,0,0)",
         "gradient_background_2": "",
@@ -673,7 +682,7 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>750W Brushless Motor Power<\/p>",
+            "heading": "<p>750W Brushless Motor Power</p>",
             "heading_size": "title-xs",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -697,7 +706,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -715,8 +724,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/电机-1_c7736209-e02b-48e0-a261-b142152d835f.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电机-1_c7736209-e02b-48e0-a261-b142152d835f.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -750,7 +759,7 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>High Energy Density, 55-Mile Range<\/p>",
+            "heading": "<p>High Energy Density, 55-Mile Range</p>",
             "heading_size": "title-xs",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -774,7 +783,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -792,8 +801,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/电池1440-1_836e6924-d8cd-4218-ba77-6faaaecfa1dc.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电池1440-1_836e6924-d8cd-4218-ba77-6faaaecfa1dc.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -825,13 +834,13 @@
       "type": "video",
       "settings": {
         "transparent_header": false,
-        "video": "shopify:\/\/files\/videos\/EB7  800.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/EB7  800.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "image_height": "adapt",
-        "video_mobile": "shopify:\/\/files\/videos\/EB7.mp4",
+        "video_mobile": "shopify://files/videos/EB7.mp4",
         "video_url_mobile": "",
         "image_height_mobile": "adapt",
         "padding_top": 60,
@@ -847,7 +856,7 @@
         "heading_r4mdLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Take It Anywhere<\/p>",
+            "heading": "<p>Take It Anywhere</p>",
             "heading_size": "title-xs",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -874,8 +883,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/产品安装_1876890c-478b-4526-9957-c94ac7c4b07f.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/产品安装_1876890c-478b-4526-9957-c94ac7c4b07f.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -909,7 +918,7 @@
         "heading_4mWDW7": {
           "type": "heading",
           "settings": {
-            "heading": "<p>A Smooth, Comfortable Ride<\/p>",
+            "heading": "<p>A Smooth, Comfortable Ride</p>",
             "heading_size": "title-xs",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -949,8 +958,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/减震.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/减震.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -984,7 +993,7 @@
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_86782632-662b-45b2-a105-3004ce194534.jpg",
+            "img": "shopify://shop_images/460x460_86782632-662b-45b2-a105-3004ce194534.jpg",
             "date": "",
             "title": "20\" x 3\" Puncture-Resistant Tires",
             "title_sz": "h4",
@@ -995,7 +1004,7 @@
         "item_efmfGR": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_5bd25852-4c15-43ae-bb0d-04451e028703.jpg",
+            "img": "shopify://shop_images/460x460_5bd25852-4c15-43ae-bb0d-04451e028703.jpg",
             "date": "",
             "title": "Headlight&Taillight",
             "title_sz": "h4",
@@ -1006,7 +1015,7 @@
         "item_BEWmqD": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Shimano_7_460x460_127303b6-6b32-49da-a16d-d88c160ac296.jpg",
+            "img": "shopify://shop_images/Shimano_7_460x460_127303b6-6b32-49da-a16d-d88c160ac296.jpg",
             "date": "",
             "title": "Shimano 7-Speed",
             "title_sz": "h4",
@@ -1017,7 +1026,7 @@
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_51efd758-330e-4619-a053-796d3b7b8b22.jpg",
+            "img": "shopify://shop_images/460x460_51efd758-330e-4619-a053-796d3b7b8b22.jpg",
             "date": "",
             "title": "Dual Suspension",
             "title_sz": "h4",
@@ -1028,7 +1037,7 @@
         "item_HLcweJ": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_a451a98c-29ee-4098-85d3-27fa88b2a0d6.jpg",
+            "img": "shopify://shop_images/460x460_a451a98c-29ee-4098-85d3-27fa88b2a0d6.jpg",
             "date": "",
             "title": "Dual Disc Brake System",
             "title_sz": "h4",
@@ -1039,7 +1048,7 @@
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_3b622103-9ea1-40a8-9b17-2611f762d4d2.jpg",
+            "img": "shopify://shop_images/460x460_3b622103-9ea1-40a8-9b17-2611f762d4d2.jpg",
             "date": "",
             "title": "Ergonomic Seat",
             "title_sz": "h4",
@@ -1050,7 +1059,7 @@
         "item_bbFPRL": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_9912ba05-0dbd-489e-a32d-d0368f2ffc0c.jpg",
+            "img": "shopify://shop_images/460x460_9912ba05-0dbd-489e-a32d-d0368f2ffc0c.jpg",
             "date": "",
             "title": "Foldable Pedal Design",
             "title_sz": "h4",
@@ -1061,7 +1070,7 @@
         "item_ewmnnU": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_7b3b479a-5f78-4038-a17c-f018433b3c4d.jpg",
+            "img": "shopify://shop_images/460x460_7b3b479a-5f78-4038-a17c-f018433b3c4d.jpg",
             "date": "",
             "title": "Foldable Electric Bike",
             "title_sz": "h3",
@@ -1135,7 +1144,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -1152,12 +1161,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1920_600_05a07300-d183-4f48-a7d1-c714e07d1a59.jpg",
+        "image": "shopify://shop_images/1920_600_05a07300-d183-4f48-a7d1-c714e07d1a59.jpg",
         "image_height": "adapt",
         "content_width": "medium",
         "content_position": "md:items-start md:justify-center",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/390_320_5b28582f-b334-4a14-a4c1-d284bd34c4cd.jpg",
+        "image_mobile": "shopify://shop_images/390_320_5b28582f-b334-4a14-a4c1-d284bd34c4cd.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-start justify-center",
         "text_alignment_mobile": "center",
@@ -1190,7 +1199,7 @@
             "horizontal": 50,
             "vertical_mobile": 22,
             "horizontal_mobile": 17,
-            "modal_img": "shopify:\/\/shop_images\/test_1.png",
+            "modal_img": "shopify://shop_images/test_1.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1204,7 +1213,7 @@
             "horizontal": 37,
             "vertical_mobile": 50,
             "horizontal_mobile": 50,
-            "modal_img": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+            "modal_img": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1216,14 +1225,14 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
-        "image_mobile": "shopify:\/\/shop_images\/test.png",
+        "image": "shopify://shop_images/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
+        "image_mobile": "shopify://shop_images/test.png",
         "heading": "Details you’ll fall in love with",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Every detail has been carefully crafted to captivate<\/p>",
+        "description": "<p>Every detail has been carefully crafted to captivate</p>",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -1248,7 +1257,7 @@
           "type": "img_list",
           "settings": {
             "order_title": "Geometry",
-            "img": "shopify:\/\/shop_images\/EB5_Roamer_ST_600_400.jpg",
+            "img": "shopify://shop_images/EB5_Roamer_ST_600_400.jpg",
             "img_w": 40,
             "list": "|SIZE (inch)|One Size\nA|Handlebar Length|24.8''\nB|Seat tube length|6.3''\nC|Chainstay|17.3''\nD|Ground Clearance|5.9''\nE|Wheelbase|44.5''\nF|Total Lengthy|68''\nG|Wheel Diameter|22''\nH|Handlebar Height from Floor|46''\nI|Minimum Seat Height from Floor|28.4''\nJ|Maximum Seat Height from Floor|43''\nK|Folded Size|36*21*29",
             "item_justify": "tw-justify-between",
@@ -1261,7 +1270,7 @@
           "settings": {
             "order_title": "Specifications",
             "img_w": 50,
-            "list": "|Motor|850W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 55 Miles\n|Battery |48V 10Ah\n|Controller |48V \/ 10A\n|Tires|20'' x 3'' Fat Tire\n|Rider Heught|5'1'' - 6'2''\n|Pedal Assist|0-5 Level\n|Weight|62 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "list": "|Motor|850W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 55 Miles\n|Battery |48V 10Ah\n|Controller |48V / 10A\n|Tires|20'' x 3'' Fat Tire\n|Rider Heught|5'1'' - 6'2''\n|Pedal Assist|0-5 Level\n|Weight|62 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
             "item_justify": "tw-justify-left",
             "list_border": false,
             "list_col": "2"
@@ -1272,7 +1281,7 @@
           "disabled": true,
           "settings": {
             "order_title": "What's In The Box (img)",
-            "img": "shopify:\/\/shop_images\/Valentine_s-Day1.png",
+            "img": "shopify://shop_images/Valentine_s-Day1.png",
             "img_w": 50,
             "list": "",
             "item_justify": "tw-justify-between",
@@ -1287,14 +1296,14 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify:\/\/shop_images\/EB7_ST_500x500_a267ab2c-33cf-44ce-899c-4d83c2d1188b.png",
-            "img_2": "shopify:\/\/shop_images\/EB7_ST_500x500-7.png",
-            "img_3": "shopify:\/\/shop_images\/EB7_ST_500x500-6.png",
-            "img_4": "shopify:\/\/shop_images\/EB7_ST_500x500-5.png",
-            "img_5": "shopify:\/\/shop_images\/EB7_ST_500x500-4.png",
-            "img_6": "shopify:\/\/shop_images\/EB7_ST_500x500-3.png",
-            "img_7": "shopify:\/\/shop_images\/EB7_ST_500x500-2.png",
-            "img_8": "shopify:\/\/shop_images\/EB7_ST_500x500-1.png"
+            "img_1": "shopify://shop_images/EB7_ST_500x500_a267ab2c-33cf-44ce-899c-4d83c2d1188b.png",
+            "img_2": "shopify://shop_images/EB7_ST_500x500-7.png",
+            "img_3": "shopify://shop_images/EB7_ST_500x500-6.png",
+            "img_4": "shopify://shop_images/EB7_ST_500x500-5.png",
+            "img_5": "shopify://shop_images/EB7_ST_500x500-4.png",
+            "img_6": "shopify://shop_images/EB7_ST_500x500-3.png",
+            "img_7": "shopify://shop_images/EB7_ST_500x500-2.png",
+            "img_8": "shopify://shop_images/EB7_ST_500x500-1.png"
           }
         }
       },
@@ -1334,90 +1343,90 @@
         "video_ddPNFB": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=fZWVNnee6K4",
+            "video_url": "https://www.youtube.com/watch?v=fZWVNnee6K4",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=fZWVNnee6K4",
+            "video_url_mobile": "https://www.youtube.com/watch?v=fZWVNnee6K4",
             "image_height_mobile": "auto",
-            "date": "2024\/5\/25",
+            "date": "2024/5/25",
             "title": "Full-suspension Folding Ebike | JASION EB7 ST Review",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_11.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_11.jpg",
             "author": "Ennovation"
           }
         },
         "video_h66XiD": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=mVjyVNYtKRc",
+            "video_url": "https://www.youtube.com/watch?v=mVjyVNYtKRc",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=mVjyVNYtKRc",
+            "video_url_mobile": "https://www.youtube.com/watch?v=mVjyVNYtKRc",
             "image_height_mobile": "auto",
-            "date": "2023\/9\/13",
+            "date": "2023/9/13",
             "title": "My bike has 3 wheels! 😇🚲 How many does yours have?",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/unnamed_3.jpg",
+            "avatar": "shopify://shop_images/unnamed_3.jpg",
             "author": "2 in a Zoo"
           }
         },
         "video_nAJUWq": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=56H3tjV9zkI&t=11s",
+            "video_url": "https://www.youtube.com/watch?v=56H3tjV9zkI&t=11s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=56H3tjV9zkI&t=11s",
+            "video_url_mobile": "https://www.youtube.com/watch?v=56H3tjV9zkI&t=11s",
             "image_height_mobile": "auto",
-            "date": "2024\/5\/23",
+            "date": "2024/5/23",
             "title": "Jasion EB7 Foldable e-Bike Review",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_12.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_12.jpg",
             "author": "E-Ryders"
           }
         },
         "video_4tbFaF": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=2_nA-c2yLKg",
+            "video_url": "https://www.youtube.com/watch?v=2_nA-c2yLKg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=2_nA-c2yLKg",
+            "video_url_mobile": "https://www.youtube.com/watch?v=2_nA-c2yLKg",
             "image_height_mobile": "auto",
-            "date": "2023\/8\/16",
+            "date": "2023/8/16",
             "title": "Neighborhood Tour on our New Electric Bike | Jasion EB7 eBike | Indian Vlogger in Dallas",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_13.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_13.jpg",
             "author": "Our American Dream"
           }
         },
         "video_Ma77wA": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=dlVIoMf9WP0&t=58s",
+            "video_url": "https://www.youtube.com/watch?v=dlVIoMf9WP0&t=58s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=dlVIoMf9WP0&t=58s",
+            "video_url_mobile": "https://www.youtube.com/watch?v=dlVIoMf9WP0&t=58s",
             "image_height_mobile": "auto",
-            "date": "2023\/9\/18",
+            "date": "2023/9/18",
             "title": "Returning Home to Amish Country Pennsylvania (and Gifting My Parents a Jasion E-Bike!)",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_14.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_14.jpg",
             "author": "Natalie's Passport"
           }
         }
@@ -1465,7 +1474,7 @@
           "type": "question",
           "settings": {
             "title": "1. What's your shipping policy?",
-            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<\/p><p>We provide UPS, USPS, and FedEx shipping services.  We DO NOT ship to PO BOXES.<\/p><p>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<\/p><p>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.<\/p><p>Want to know more about shipping policies, please check more details on our <a href=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\" title=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\">Shipping Policy Page<\/a>.<\/p>",
+            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.</p><p>We provide UPS, USPS, and FedEx shipping services.  We DO NOT ship to PO BOXES.</p><p>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.</p><p>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1474,7 +1483,7 @@
           "type": "question",
           "settings": {
             "title": "2. What's your warranty policy?",
-            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and\/or workmanship( all free accessories are not covered).<br\/><br\/>We will replace any component that is defective or damaged in materials and\/or workmanship( including the damage in the processing of shipment).<br\/><br\/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com<\/strong>.<\/p><p>Want to know more about warranty policies, please check more details on our <a href=\"\/pages\/warranty\" title=\"Warranty\">Warranty Policy Page<\/a>.<\/p>",
+            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1483,7 +1492,7 @@
           "type": "question",
           "settings": {
             "title": "3. What's your return&refund policy?",
-            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.<\/p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.<\/p><p>You can always contact us for any return questions at <strong>support@jasionbike.com<\/strong>.<\/p>",
+            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1492,7 +1501,7 @@
           "type": "question",
           "settings": {
             "title": "4. Does my height suit EB7 2.0?",
-            "text": "<p>The recommended rider height is 5'1\"-6'2\".<\/p>",
+            "text": "<p>The recommended rider height is 5'1\"-6'2\".</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1501,7 +1510,7 @@
           "type": "question",
           "settings": {
             "title": "5. How long does it take to fully charge the battery?",
-            "text": "<p>It will take 4-5 hours.<\/p>",
+            "text": "<p>It will take 4-5 hours.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1510,7 +1519,7 @@
           "type": "question",
           "settings": {
             "title": "6. How long will it take for my shipment to arrive?",
-            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.<\/p>",
+            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1519,7 +1528,7 @@
           "type": "question",
           "settings": {
             "title": "7. What is the difference between EB7 2.0 and EB7 ST?",
-            "text": "<p>The EB7 ST has a new design step-through with a lower span than before, it is more suitable for older people or people with physical limitations to ride.<\/p>",
+            "text": "<p>The EB7 ST has a new design step-through with a lower span than before, it is more suitable for older people or people with physical limitations to ride.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1528,7 +1537,7 @@
           "type": "question",
           "settings": {
             "title": "8. Does my Jasion ebike come pre-assembled?",
-            "text": "<p>Your e-bike arrives 95% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https:\/\/www.youtube.com\/watch?v=xLlYP_xKCAU\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=xLlYP_xKCAU\">YouTube Channel<\/a>.<\/p>",
+            "text": "<p>Your e-bike arrives 95% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=xLlYP_xKCAU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=xLlYP_xKCAU\">YouTube Channel</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1537,7 +1546,7 @@
           "type": "question",
           "settings": {
             "title": "9. What is the maximum speed of each PAS level?",
-            "text": "<ul><li>PAS1 Top speed 16mph<\/li><li>PAS2 Top speed 18mph<\/li><li>PAS3 Top speed 20mph<\/li><li>PAS4 Top speed 23mph<\/li><li>PAS5 Top speed 28mph<\/li><\/ul>",
+            "text": "<ul><li>PAS1 Top speed 16mph</li><li>PAS2 Top speed 18mph</li><li>PAS3 Top speed 20mph</li><li>PAS4 Top speed 23mph</li><li>PAS5 Top speed 28mph</li></ul>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1592,7 +1601,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1601,7 +1610,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1610,7 +1619,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1619,7 +1628,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1628,7 +1637,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1637,7 +1646,7 @@
           "type": "contact",
           "settings": {
             "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us<\/p>",
+            "text": "<p>Don't hestitate to contact us</p>",
             "show_phone": false,
             "avatar_height": 60,
             "highlighted_text": "none",
@@ -1661,7 +1670,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs<\/a> page to find out more.<\/p>",
+        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,

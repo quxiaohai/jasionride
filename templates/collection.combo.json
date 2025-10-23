@@ -15,8 +15,8 @@
         "image_AJgPLH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1920x400.jpg",
-            "image_mobile": "shopify://shop_images/460x630.jpg",
+            "image": "shopify://shop_images/1920x400_18de9675-bf98-42e3-a45f-b11565cf4e9c.jpg",
+            "image_mobile": "shopify://shop_images/460x630_fa56a23e-b2dc-4334-ab31-11f7abd2955d.jpg",
             "heading": "Electric Bikes",
             "heading_size": "title-sm",
             "heading_tag": "h2",
@@ -50,7 +50,7 @@
         "color_button_background": "#ffffff",
         "color_button_gradient": "",
         "color_overlay": "#171717",
-        "overlay_opacity": 20,
+        "overlay_opacity": 0,
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
@@ -149,65 +149,65 @@
             "overlay_opacity": 0
           }
         },
-        "page_navigation_aKxjVd": {
+        "page_navigation_4gmJVW": {
           "type": "page_navigation",
           "settings": {
-            "button_label": " Electric Bikes",
+            "button_label": "Electric Bikes",
             "button_url": "shopify://collections/electric-bike"
           }
         },
-        "page_navigation_jV7Uer": {
+        "page_navigation_VHimHM": {
           "type": "page_navigation",
           "settings": {
             "button_label": "Combo Sale",
             "button_url": "shopify://collections/combo-sale"
           }
         },
-        "page_navigation_77R4gj": {
+        "page_navigation_Hbm87a": {
           "type": "page_navigation",
           "settings": {
             "button_label": "Folding Ebike",
             "button_url": "shopify://collections/folding-ebike"
           }
         },
-        "page_navigation_6kyD6P": {
+        "page_navigation_MAMeX9": {
           "type": "page_navigation",
           "settings": {
             "button_label": "Fat Tire Ebike",
             "button_url": "shopify://collections/fat-tire-ebike"
           }
         },
-        "page_navigation_iPpPjp": {
+        "page_navigation_E69Wj4": {
           "type": "page_navigation",
           "settings": {
             "button_label": "Cruiser Ebike",
             "button_url": "shopify://collections/cruiser-ebike"
           }
         },
-        "page_navigation_X8TMRr": {
+        "page_navigation_jaVYT4": {
           "type": "page_navigation",
           "settings": {
             "button_label": "Step Over Electric Bike",
             "button_url": "shopify://collections/step-over-electric-bikes"
           }
         },
-        "page_navigation_pjbkpB": {
+        "page_navigation_P8HKdW": {
           "type": "page_navigation",
           "settings": {
-            "button_label": "Step Through Ebikes",
+            "button_label": "Step Through Ebike",
             "button_url": "shopify://collections/step-through-ebikes"
           }
         }
       },
       "block_order": [
         "promotion",
-        "page_navigation_aKxjVd",
-        "page_navigation_jV7Uer",
-        "page_navigation_77R4gj",
-        "page_navigation_6kyD6P",
-        "page_navigation_iPpPjp",
-        "page_navigation_X8TMRr",
-        "page_navigation_pjbkpB"
+        "page_navigation_4gmJVW",
+        "page_navigation_VHimHM",
+        "page_navigation_Hbm87a",
+        "page_navigation_MAMeX9",
+        "page_navigation_E69Wj4",
+        "page_navigation_jaVYT4",
+        "page_navigation_P8HKdW"
       ],
       "settings": {
         "layout": "1",

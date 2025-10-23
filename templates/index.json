@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_hb_WLJBe8": {
@@ -6,16 +15,16 @@
         "image_cYcyz7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2banner-1920x700-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/banner_1_390x520_a2c66f85-bb86-4656-814a-66c8a0e83de8.jpg",
-            "heading": "Redefine Urban Commutes with Ease",
+            "image": "shopify://shop_images/1Hunter_Pro_d8cb980f-7810-43aa-829d-f6ca7ce1ab03.jpg",
+            "image_mobile": "shopify://shop_images/1Hunter_Pro_M_7350ef3e-e12d-472d-bb3e-640403cf4ec0.jpg",
+            "heading": "",
             "heading_size": "title-md",
             "heading_tag": "h2",
-            "subheading": "It's Riding Season! Prep your ebike for spring.",
+            "subheading": "",
             "subh_before": true,
             "text_size": "subtext-md",
             "button_label": "Explore more",
-            "button_link": "shopify:\/\/products\/jasion-x-hunter",
+            "button_link": "shopify://products/hunter-pro-combo",
             "button_style": "primary",
             "button_external": false,
             "button_icon": false
@@ -24,15 +33,34 @@
         "image_UxKiWT": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1banner-1920x700.jpg",
-            "heading": "Build For Every Adventure",
+            "image": "shopify://shop_images/2X_Hunter_6962ecbc-fd98-434d-9650-2e3eed6bd861.jpg",
+            "image_mobile": "shopify://shop_images/2X_Hunter_M_a6fb5956-f9d1-4519-a0d0-4e6484936e99.jpg",
+            "heading": "",
             "heading_size": "title-md",
             "heading_tag": "h2",
-            "subheading": "Group Rides This Spring!\nStarting at $699 per unit.",
+            "subheading": "",
             "subh_before": true,
             "text_size": "subtext-md",
             "button_label": "",
-            "button_link": "shopify:\/\/products\/jasion-x-hunter",
+            "button_link": "shopify://products/jasion®-combo-sale-x-hunter-2",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_F7kDtH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3RetroVolt_Pro_53b66051-9137-4068-bfd2-cba47133523e.jpg",
+            "image_mobile": "shopify://shop_images/3RetroVolt_Pro_M.jpg",
+            "heading": "",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "subheading": "",
+            "subh_before": true,
+            "text_size": "subtext-md",
+            "button_label": "",
+            "button_link": "shopify://products/retrovolt-pro",
             "button_style": "primary",
             "button_external": false,
             "button_icon": false
@@ -41,13 +69,14 @@
       },
       "block_order": [
         "image_cYcyz7",
-        "image_UxKiWT"
+        "image_UxKiWT",
+        "image_F7kDtH"
       ],
       "settings": {
         "autoplay": false,
         "autoplay_speed": 5,
         "show_navigation": true,
-        "image_height": "700px",
+        "image_height": "adapt",
         "content_pw": false,
         "content_position": "center",
         "content_width": "small",
@@ -76,7 +105,7 @@
           "type": "collection",
           "settings": {
             "collection": "folding-ebike",
-            "image": "shopify:\/\/shop_images\/Folding_E-bikes_460x550_16fc278e-abd4-403c-addd-f0ea62552985.jpg",
+            "image": "shopify://shop_images/Folding_E-bikes_460x550_16fc278e-abd4-403c-addd-f0ea62552985.jpg",
             "title": "Folding Ebike",
             "description": "",
             "overlay_content": true,
@@ -89,7 +118,7 @@
           "type": "collection",
           "settings": {
             "collection": "fat-tire-ebike",
-            "image": "shopify:\/\/shop_images\/Off_Roading_460x550_7360ac53-d3a5-4008-80cc-0c91451e9256.jpg",
+            "image": "shopify://shop_images/Off_Roading_460x550_7360ac53-d3a5-4008-80cc-0c91451e9256.jpg",
             "title": "Fat Tire Ebike",
             "description": "",
             "overlay_content": true,
@@ -102,7 +131,7 @@
           "type": "collection",
           "settings": {
             "collection": "cruiser-ebike",
-            "image": "shopify:\/\/shop_images\/1City_E-bikes_460x550_58b695eb-d87b-4210-8cb5-4d6f91811101.jpg",
+            "image": "shopify://shop_images/1City_E-bikes_460x550_58b695eb-d87b-4210-8cb5-4d6f91811101.jpg",
             "title": "Cruiser Ebike",
             "description": "",
             "overlay_content": true,
@@ -159,9 +188,9 @@
             "row_size": 2,
             "subheading": "",
             "heading": "Commuter &City",
-            "link": "shopify:\/\/products\/jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st",
+            "link": "shopify://products/jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st",
             "invert_subheading_heading": false,
-            "image": "shopify:\/\/shop_images\/1City_E-bikes_460x550_91a94133-0d30-404c-aabf-6b1633fdb20b.jpg",
+            "image": "shopify://shop_images/1City_E-bikes_460x550_91a94133-0d30-404c-aabf-6b1633fdb20b.jpg",
             "content_position": "md:items-center md:justify-center",
             "text_alignment": "center",
             "content_position_mobile": "items-end justify-start",
@@ -173,7 +202,7 @@
             "gradient_highlight": "",
             "color_overlay": "#171717",
             "overlay_opacity": 10,
-            "image_hover": "shopify:\/\/shop_images\/City_E-bikes_460x550_87a0e41b-1e08-426a-9281-7737af875976.jpg",
+            "image_hover": "shopify://shop_images/City_E-bikes_460x550_87a0e41b-1e08-426a-9281-7737af875976.jpg",
             "color_text_hover": "",
             "color_highlight_hover": "",
             "gradient_highlight_hover": "",
@@ -188,9 +217,9 @@
             "row_size": 2,
             "subheading": "",
             "heading": "Folding",
-            "link": "shopify:\/\/products\/combo-sale-eb7-eb7st",
+            "link": "shopify://products/combo-sale-eb7-eb7st",
             "invert_subheading_heading": false,
-            "image": "shopify:\/\/shop_images\/Folding_E-bikes_460x550_77ee7812-bd2f-4e84-a5df-8912932326ac.jpg",
+            "image": "shopify://shop_images/Folding_E-bikes_460x550_77ee7812-bd2f-4e84-a5df-8912932326ac.jpg",
             "content_position": "md:items-center md:justify-center",
             "text_alignment": "center",
             "content_position_mobile": "items-end justify-start",
@@ -202,7 +231,7 @@
             "gradient_highlight": "",
             "color_overlay": "#171717",
             "overlay_opacity": 10,
-            "image_hover": "shopify:\/\/shop_images\/Folding_E-bikes_460x550_af10b5ce-2798-4e5f-ac64-118fc56dbe4d.jpg",
+            "image_hover": "shopify://shop_images/Folding_E-bikes_460x550_af10b5ce-2798-4e5f-ac64-118fc56dbe4d.jpg",
             "color_text_hover": "",
             "color_highlight_hover": "",
             "gradient_highlight_hover": "",
@@ -217,9 +246,9 @@
             "row_size": 2,
             "subheading": "",
             "heading": "Off Roading",
-            "link": "shopify:\/\/products\/jasion®-combo-sale-x-hunter-2",
+            "link": "shopify://products/jasion®-combo-sale-x-hunter-2",
             "invert_subheading_heading": false,
-            "image": "shopify:\/\/shop_images\/Off_Roading_460x550_c760394d-3f50-48bc-8499-56f5ad914e68.jpg",
+            "image": "shopify://shop_images/Off_Roading_460x550_c760394d-3f50-48bc-8499-56f5ad914e68.jpg",
             "content_position": "md:items-center md:justify-center",
             "text_alignment": "center",
             "content_position_mobile": "items-end justify-start",
@@ -231,7 +260,7 @@
             "gradient_highlight": "",
             "color_overlay": "#171717",
             "overlay_opacity": 10,
-            "image_hover": "shopify:\/\/shop_images\/Off_Roading_460x550_838a3ef0-88e3-4f0f-bb7c-30f77e780e51.jpg",
+            "image_hover": "shopify://shop_images/Off_Roading_460x550_838a3ef0-88e3-4f0f-bb7c-30f77e780e51.jpg",
             "color_text_hover": "",
             "color_highlight_hover": "",
             "gradient_highlight_hover": "",
@@ -285,7 +314,7 @@
         "products": [
           "hunter-pro",
           "jasion-x-hunter",
-          "thunder",
+          "retrovolt-pro",
           "hunter-pro-combo"
         ],
         "product_limit": 8,
@@ -335,7 +364,7 @@
         "text_GpVDjA": {
           "type": "text",
           "settings": {
-            "text": "<p>At Jasion, we’re a team of bike enthusiasts and innovators committed to creating a greener, more sustainable world through e-bikes.<\/p>",
+            "text": "<p>At Jasion, we’re a team of bike enthusiasts and innovators committed to creating a greener, more sustainable world through e-bikes.</p>",
             "text_size": "subtext-sm",
             "text_max_size": 52,
             "text_font": "body",
@@ -348,7 +377,7 @@
           "type": "button",
           "settings": {
             "button_label": "Explore more",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify://pages/about-us",
             "button_style": "primary",
             "button_size": "md",
             "button_external": false,
@@ -363,12 +392,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1440x500-1.jpg",
+        "image": "shopify://shop_images/1440x500-1.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/3_350x520_0db66925-0ff7-48f0-9ffd-631314b45508.jpg",
+        "image_mobile": "shopify://shop_images/3_350x520_0db66925-0ff7-48f0-9ffd-631314b45508.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -433,7 +462,7 @@
       ],
       "settings": {
         "transparent_header": false,
-        "video": "shopify:\/\/files\/videos\/Jasion混剪 v2.mp4",
+        "video": "shopify://files/videos/新首页视频混剪.mp4",
         "video_url": "",
         "description": "",
         "enable_video_autoplay": true,
@@ -464,116 +493,173 @@
     "multicolumn_slide_hb_9xwaqy": {
       "type": "multicolumn-slide-hb",
       "blocks": {
+        "video_jC9Wz8": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=QoEAwFFhoPw",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=QoEAwFFhoPw",
+            "image_height_mobile": "auto",
+            "date": "",
+            "title": "Like A Super73.. But a THIRD of The Price?! | Jasion Retrovolt Pro Review",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_31.jpg",
+            "author": "Raspy Rides"
+          }
+        },
+        "video_cG883Q": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=ZR8N-TV_4AA",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=ZR8N-TV_4AA",
+            "image_height_mobile": "auto",
+            "date": "",
+            "title": "1,194 people have given this bike a 4.5 star rating",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_19_4822d1f8-0ef3-4412-be58-74adb7c5dc82.jpg",
+            "author": "Electric Revolution"
+          }
+        },
+        "video_DMmQWM": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=tUCTZ6lS1n0",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=tUCTZ6lS1n0",
+            "image_height_mobile": "auto",
+            "date": "",
+            "title": "The JasionBike Thunder…1,500 Watts and 30 MPH for UNDER $1,000! Get out and Live Electric Life!",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_30_3f2af141-68db-493a-9e33-58455ff17cf2.jpg",
+            "author": "IMBruceECLECTIC"
+          }
+        },
         "video_VMWpRU": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=Sa0JeRX-YfY&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=5",
+            "video_url": "https://www.youtube.com/watch?v=Sa0JeRX-YfY&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=5",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2024\/12\/18",
+            "date": "",
             "title": "JASION X-Hunter Ebike Review - NEWEST UPGRADED VERSION",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/483484232_122189012252250183_2874798791765895331_n.jpg",
+            "avatar": "shopify://shop_images/483484232_122189012252250183_2874798791765895331_n.jpg",
             "author": "Papa`s Product Reviews"
           }
         },
         "video_MU3xzG": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=FTCK4ppjSOE",
+            "video_url": "https://www.youtube.com/watch?v=FTCK4ppjSOE",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2024\/10\/2",
+            "date": "",
             "title": "BEST CHEAP BUDGET FOLDING EBike WIth Full Suspension?",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile.jpg",
+            "avatar": "shopify://shop_images/channels4_profile.jpg",
             "author": "HeroesNStuff"
           }
         },
         "video_tPEBaE": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=lQj5bcSygpU",
+            "video_url": "https://www.youtube.com/watch?v=lQj5bcSygpU",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2024\/5\/20",
+            "date": "",
             "title": "Super Commuter Deal for $839! 28MPH Class 3 Speed Throttle",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/unnamed.jpg",
+            "avatar": "shopify://shop_images/unnamed.jpg",
             "author": "EbikeProducts"
           }
         },
         "video_QzEdDj": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=MSzZbfAp5lA&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
+            "video_url": "https://www.youtube.com/watch?v=MSzZbfAp5lA&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2024\/9\/25",
+            "date": "",
             "title": "My Honest Review | Jasion X-Hunter Full Suspension eBike Review",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_2.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_2.jpg",
             "author": "Eric Hernandez"
           }
         },
         "video_6FAaH4": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
+            "video_url": "https://www.youtube.com/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2023\/2\/18",
+            "date": "",
             "title": "EBIKE REVIEW - Jasion EB7 Foldable E-Bike - Under $900",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_3.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_3.jpg",
             "author": "Our Everyday Getaway"
           }
         },
         "video_DXmRVj": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_yhKgb4bdTg&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=9",
+            "video_url": "https://www.youtube.com/watch?v=_yhKgb4bdTg&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=9",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "",
             "image_height_mobile": "auto",
-            "date": "2024\/7\/11",
+            "date": "",
             "title": "I MADE IT GO FAST! | Assembly & Test Ride",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/unnamed_1.jpg",
+            "avatar": "shopify://shop_images/unnamed_1.jpg",
             "author": "Zophie Reviews"
           }
         }
       },
       "block_order": [
+        "video_jC9Wz8",
+        "video_cG883Q",
+        "video_DMmQWM",
         "video_VMWpRU",
         "video_MU3xzG",
         "video_tPEBaE",
@@ -617,7 +703,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-6.png",
+            "logo": "shopify://shop_images/logo-6.png",
             "content": "“ Experience a new level of commuting and cargo-carrying with Jasion's e-bike. It's the ideal blend of power, style, and efficiency, making every ride an adventure. ”"
           }
         },
@@ -625,7 +711,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-5.png",
+            "logo": "shopify://shop_images/logo-5.png",
             "content": "\"Redefines urban mobility with EB7 2.0 Plus sleek design and impressive performance, it's the perfect choice for commuters and adventure seekers alike.\""
           }
         },
@@ -633,7 +719,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-2.png",
+            "logo": "shopify://shop_images/logo-2.png",
             "content": "\"Jasion's X-Hunter Plus is a game-changer for your daily rides. Whether you're commuting or exploring, it offers a smooth and electrifying journey.\""
           }
         },
@@ -641,7 +727,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-3.png",
+            "logo": "shopify://shop_images/logo-3.png",
             "content": "\"Elevate your riding experience with Jasion's e-bike. Its innovative design, robust features, and eco-friendly nature make it the top choice for eco-conscious riders.\""
           }
         },
@@ -649,7 +735,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo_c411ac3c-fe8d-4939-bc4c-383c081f3b17.png",
+            "logo": "shopify://shop_images/logo_c411ac3c-fe8d-4939-bc4c-383c081f3b17.png",
             "content": "\"They sets a new standard for city and trail riding. It's a harmonious blend of power and elegance, revolutionizes your commute!\""
           }
         },
@@ -657,7 +743,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-7.png",
+            "logo": "shopify://shop_images/logo-7.png",
             "content": "\"Jasion's e-bike is your ticket to a greener, faster, and more exhilarating commute. Get ready to explore the city and beyond with this innovative ride.\""
           }
         },
@@ -665,7 +751,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-4.png",
+            "logo": "shopify://shop_images/logo-4.png",
             "content": "\"Transforms your commute with electric. Discover the perfect blend of power, style, and efficiency for an exciting journey.\""
           }
         },
@@ -673,63 +759,66 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-1.png",
+            "logo": "shopify://shop_images/logo-1.png",
             "content": "\"Best ebike ever! Use Jasion's ebike to experience a harmonious mix of power, style, and efficiency that turns every ride into an adventure.\""
           }
         },
         "item_Fr7adz": {
           "type": "item",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/17_d18b8a80-b117-4310-88f2-6b100da98f66.jpg",
+            "logo": "shopify://shop_images/17_d18b8a80-b117-4310-88f2-6b100da98f66.jpg",
             "content": "If you're more concerned about safety than commute distance, you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more."
           }
         },
         "item_d9mbPE": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/13_a0d80e66-f94d-4abf-b27c-c916227ce211.jpg",
+            "logo": "shopify://shop_images/13_a0d80e66-f94d-4abf-b27c-c916227ce211.jpg",
             "content": "The Jasion Roamer is a great option for those seeking a dependable, budget-friendly e-bike for urban travel. It stands out for its balanced performance, comfortable ride… and stylish exterior with a sleek design, a glossy finish, and a premium feel. The bike stands out for its balanced performance, super, super-stylish design, and comfortable ride. The sleek frame, complemented by the semi-integrated battery and glossy finish, provides a modern look."
           }
         },
         "item_e38mdg": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/11_373d8ad8-a427-498b-a573-d5f3c6177e4f.jpg",
+            "logo": "shopify://shop_images/11_373d8ad8-a427-498b-a573-d5f3c6177e4f.jpg",
             "content": "For riders seeking the freedom to go further, faster, and with complete confidence, the Thunder offers a balance of innovation and reliability that makes it more than just an eBike—it’s a new way of experiencing the road, the trail, and everything in between.By addressing common concerns such as range anxiety, braking precision, and ergonomic comfort, Jasion creates a product that feels purpose-built for modern riders."
           }
         },
         "item_RjwgEk": {
           "type": "item",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/1_d8d5b432-a2cf-4618-ab82-cd7bdc2d5081.jpg",
+            "logo": "shopify://shop_images/1_d8d5b432-a2cf-4618-ab82-cd7bdc2d5081.jpg",
             "content": "Users enjoy the long battery life and smooth ride. They also like the compact design, which works well for city commuting. The user-friendly controls make day-to-day operations simple and efficient."
           }
         },
         "item_3DXRPX": {
           "type": "item",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/10_6aae2d06-af81-4b21-8523-ef881b99b552.jpg",
+            "logo": "shopify://shop_images/10_6aae2d06-af81-4b21-8523-ef881b99b552.jpg",
             "content": "Don't worry about riding at night as this bike has bright LED headlights, rear reflectors and reflective strips on the tires so you'll be seen even in the dark."
           }
         },
         "item_A8XaWU": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "logo": "shopify:\/\/shop_images\/8_e24dda30-bc1f-4523-b239-87baf5e5f0ef.jpg",
+            "logo": "shopify://shop_images/8_e24dda30-bc1f-4523-b239-87baf5e5f0ef.jpg",
             "content": "In terms of performance, the EB5 performs admirably on both paved roads and easy trails. It offers a smooth ride and handles well on various terrains. The battery life is impressive, especially when used in the lower assist levels. I found that the battery could last for multiple trips, making it a practical and efficient tool for daily commuting."
           }
         },
         "item_CKWEnN": {
           "type": "item",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/9_e2a6b433-24e6-4fb5-abe6-8ae7c0948eec.jpg",
+            "logo": "shopify://shop_images/9_e2a6b433-24e6-4fb5-abe6-8ae7c0948eec.jpg",
             "content": "This fat tire bike has everything you need to take on your next adventure: integrated lights, shock-absorption fat tires, and a lightning-quick twist throttle for a boost."
           }
         },
         "item_wCHnWC": {
           "type": "item",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/7_14314d07-a41a-4125-ba28-ba9d5bc15afc.jpg",
+            "logo": "shopify://shop_images/7_14314d07-a41a-4125-ba28-ba9d5bc15afc.jpg",
             "content": "The powerful 750W high-speed motor provides this electric bike with a max speed of up to 22 mph. Ride on a variety of terrains and switch from pure electric mode to pedal-assist mode and classic bike mode."
           }
         }
@@ -775,6 +864,46 @@
         "full_width": false,
         "rounded": false
       }
+    },
+    "blog_posts_KtUgBt": {
+      "type": "blog-posts",
+      "name": "t:sections.blog-posts.presets.name",
+      "settings": {
+        "blog": "blogs",
+        "post_limit": 3,
+        "columns": 3,
+        "carousel_on_desktop": false,
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "landscape",
+        "show_tags": false,
+        "show_date": true,
+        "show_comments": false,
+        "show_author": false,
+        "show_excerpt": true,
+        "heading": "Blog posts",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
     }
   },
   "order": [
@@ -785,6 +914,7 @@
     "image_with_text_overlay_yYMYWm",
     "video-with-text-overlay",
     "multicolumn_slide_hb_9xwaqy",
-    "press_hb_qgne4Q"
+    "press_hb_qgne4Q",
+    "blog_posts_KtUgBt"
   ]
 }
