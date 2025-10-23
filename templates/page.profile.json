@@ -42,7 +42,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Tel your story",
+            "heading": "<p>Tel your story</p>",
             "heading_size": "title-xl tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
