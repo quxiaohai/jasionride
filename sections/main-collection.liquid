@@ -169,10 +169,10 @@
             <div class="collection__content flex">
                 {%- if enable_filtering and filter_type == 'sidebar' and collection.all_products_count > 0 -%}
                     <div class="hidden xl:block" id="FacetFiltersContainer">
-                        {%- if coll_list.size > 0 -%}
-                            {% render 'collection-menu', list: coll_list %}
-                        {%- endif -%}
                         <sticky-element class="facets__scroll block sticky top-0">
+                            {%- if coll_list.size > 0 -%}
+                                {% render 'collection-menu', list: coll_list %}
+                            {%- endif -%}
                             {%- render 'facets',
                                     context: 'sidebar',
                                     results: collection,
