@@ -54,10 +54,12 @@
 {%- endif -%}
 {%- if media_type == 'icon' -%}
     {% if mobile_img != blank %}
-        <img src="{{ mobile_img | image_url: width: mobile_size }}" loading="lazy" class="{{ mobile_cls }}" alt="{{ mb_alt }}"/>
+        <img src="{{ mobile_img | image_url: width: mobile_size }}" loading="lazy" class="{{ mobile_cls }}"
+             alt="{{ mb_alt }}"/>
     {% endif %}
     {%- if desktop_img != blank -%}
-        <img src="{{ desktop_img | image_url: width: desktop_size }}" loading="lazy" class="{{ desktop_cls }}" alt="{{ pc_alt }}"/>
+        <img src="{{ desktop_img | image_url: width: desktop_size }}" loading="lazy" class="{{ desktop_cls }}"
+             alt="{{ pc_alt }}"/>
     {%- endif -%}
 {%- elsif request.design_mode or preload -%}
     <media-element
@@ -79,6 +81,7 @@
                         height="{{ mobile_img.height }}"
                 >
             {%- endif -%}
+            {%- assign desktop_cls = 'image ' | append: mobile_class -%}
             {%- if desktop_img != blank -%}
                 {{- desktop_img | image_url: width: desktop_size | image_tag: alt: pc_alt, class: desktop_cls -}}
             {%- endif -%}
@@ -95,7 +98,7 @@
             {%- if mobile_img != blank -%}
                 <source
                         media="(max-width: 1023px)"
-                        class="image mobile-done {{ mobile_class }}"
+                        class="image {{ mobile_class }}"
                         {% if mobile_height != blank %}
                             style="height: {{ mobile_height }}vw;"
                         {% endif %}
@@ -108,6 +111,7 @@
                 >
             {%- endif -%}
             {%- if desktop_img != blank -%}
+                {%- assign desktop_cls = 'image ' | append: mobile_class -%}
                 {{-
                 desktop_img
                 | image_url: width: desktop_size

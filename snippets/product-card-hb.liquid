@@ -36,7 +36,7 @@
   <div class="{% if slide_card %}tw-slide-card{% endif %} card product-card product-card-hb tw-pb-6 product-card--{{ settings.card_style }}{% if settings.card_border_thickness > 0 %} product-card--thickness{% endif %}{% unless featured_media %} no-media{% endunless %}{% if product.available and show_quick_add and mobile_quick_add %} mobile:with-quick-add{% endif %} flex flex-col leading-none relative overflow-hidden">
     
     
-    <div class="product-card__content md:tw-p-8 tw-pb-4 tw-p-4 flex flex-col{% if featured_media %} justify-start text-{{ settings.card_text_alignment }}{% else %} justify-center items-center absolute top-0 left-0 w-full h-full{% endif %}">
+    <div class="product-card__content md:tw-p-4 tw-pb-4 tw-p-4 flex flex-col{% if featured_media %} justify-start text-{{ settings.card_text_alignment }}{% else %} justify-center items-center absolute top-0 left-0 w-full h-full{% endif %}">
       {%- if show_vendor -%}
         <div class="product-card__top w-full">
           <span class="sr-only">{{ 'general.accessibility.vendor' | t }}</span>
@@ -325,17 +325,17 @@
     </div>
     {%- endif -%}
 
-    <div class="product-card__footer md:tw-p-8 tw-p-4 md:tw-pb-0 tw-pb-0">
-      <div class="tw-flex tw-justify-between md:tw-items-center tw-mb-4 md:tw-gap-4 tw-gap-1 tw-items-center">
+    <div class="product-card__footer md:tw-p-4 tw-p-4 md:tw-pb-0 tw-pb-0">
+      <div style="--fluid-base-to-xl: 16px; --fluid-sm-to-base: 16px;" class="tw-flex tw-justify-between md:tw-items-center tw-mb-4 md:tw-gap-1 tw-gap-1 tw-items-center">
         {%- render 'product-price', product: product, class: 'flex gap-2 md:gap-1d5 tw-align-baseline' -%}
-        <a href="{{ product.url }}" class="button button--primary tw-px-5 tw-py-2 md:tw-text-sm  button--blur {% if slide_card %}tw-text-xs{% else %} tw-text-sm{% endif %}" is="hover-link">
+        <a href="{{ product.url }}" class="button button--primary tw-px-4 tw-py-2 md:tw-text-sm  button--blur {% if slide_card %}tw-text-xs{% else %} tw-text-sm{% endif %}" is="hover-link">
           <span class="btn-text">{{- 'products.product.read_more' | t -}}</span>
         </a>
       </div>
       {%- assign specs = product.metafields.custom.specifications.value | default : false -%}
       {% if specs and enable_specs %}
         <div class="product-icons ">
-          <div class="tw-grid tw-grid-cols-4 md:tw-gap-6 tw-gap-1">
+          <div class="tw-grid tw-grid-cols-2 md:tw-gap-2 tw-gap-1">
             {% for i in ( 0..specs.title_list.value.size ) limit: section.settings.specs_limit %}
               {% if specs.title_list.value[i] != blank %}
               <div class="product-icon tw-col-span-1">
