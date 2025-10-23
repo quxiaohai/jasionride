@@ -187,14 +187,14 @@
         "page_navigation_X8TMRr": {
           "type": "page_navigation",
           "settings": {
-            "button_label": "Step Over Ebike",
+            "button_label": "Step Over Electric Bike",
             "button_url": "shopify://collections/step-over-electric-bikes"
           }
         },
         "page_navigation_pjbkpB": {
           "type": "page_navigation",
           "settings": {
-            "button_label": "Step Through Ebike",
+            "button_label": "Step Through Ebikes",
             "button_url": "shopify://collections/step-through-ebikes"
           }
         }

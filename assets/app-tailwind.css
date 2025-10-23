@@ -219,3 +219,11 @@ html.js .menu-drawer-2.drawer .drawer__header{@apply tw-hidden}
 
 .products-compare-wrapper .sticky-bikes{  transition: all 0.5s cubic-bezier(.6, 0, .4, 1); }
 .header-sticky.header-nav-scrolled:not(.header-hidden) ~ .page-container .products-compare-wrapper .sticky-bikes{@apply md:tw-top-[74px] tw-top-[59px]}
+
+
+.countdown-wrapper .tw-countdown-item p:first-child{@apply tw-font-bold tw-bg-black tw-text-white tw-p-4 md:tw-text-5xl tw-mb-2 tw-rounded-xl tw-aspect-square md:tw-w-24 tw-w-14 tw-flex tw-items-center tw-justify-center}
+.countdown-wrapper .tw-countdown-item span{@apply tw-text-sm}
+.countdown-wrapper #countdown img{@apply tw-mb-4 md:tw-w-5 tw-w-3}
+
+.featured-product-list__item-content .product__price .price__regular{@apply tw-text-[125%]}
+.featured-product-list__item-content .product__title h1{@apply md:tw-text-[2.5em]}

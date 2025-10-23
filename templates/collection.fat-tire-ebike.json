@@ -148,66 +148,10 @@
             "color_overlay": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "page_navigation_D4eKgA": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Electric Bikes",
-            "button_url": "shopify://collections/electric-bike"
-          }
-        },
-        "page_navigation_mPEzR6": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Combo Sale",
-            "button_url": "shopify://collections/combo-sale"
-          }
-        },
-        "page_navigation_Peqt6x": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Folding EBike",
-            "button_url": "shopify://collections/folding-ebike"
-          }
-        },
-        "page_navigation_kX8U4D": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Fat Tire Ebike",
-            "button_url": "shopify://collections/fat-tire-ebike"
-          }
-        },
-        "page_navigation_GynjQA": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Cruiser Ebikes",
-            "button_url": "shopify://collections/cruiser-ebike"
-          }
-        },
-        "page_navigation_jcWeUg": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Step Over Ebike",
-            "button_url": "shopify://collections/step-over-electric-bikes"
-          }
-        },
-        "page_navigation_tnYyAL": {
-          "type": "page_navigation",
-          "settings": {
-            "button_label": "Step Through Ebike",
-            "button_url": "shopify://collections/step-through-ebikes"
-          }
         }
       },
       "block_order": [
-        "promotion",
-        "page_navigation_D4eKgA",
-        "page_navigation_mPEzR6",
-        "page_navigation_Peqt6x",
-        "page_navigation_kX8U4D",
-        "page_navigation_GynjQA",
-        "page_navigation_jcWeUg",
-        "page_navigation_tnYyAL"
+        "promotion"
       ],
       "settings": {
         "layout": "1",
@@ -217,9 +161,9 @@
         "pagination": "paginated",
         "enable_specs": true,
         "specs_limit": "4",
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_collapsed": false,
-        "filter_type": "sidebar",
+        "filter_type": "drawer",
         "filter_color_swatches": false,
         "enable_sorting": false,
         "padding_top": 40,
