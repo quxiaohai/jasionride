@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-page": {
@@ -21,7 +30,7 @@
         "video_3ipERD": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=GS6CaYZ1Q2o",
+            "video_url": "https://www.youtube.com/watch?v=GS6CaYZ1Q2o",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -38,7 +47,7 @@
         "video_w8fcDJ": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=DE150BXGTp4",
+            "video_url": "https://www.youtube.com/watch?v=DE150BXGTp4",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -55,7 +64,7 @@
         "video_WCKjmr": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=i0LcsKoZaXU&t=135s",
+            "video_url": "https://www.youtube.com/watch?v=i0LcsKoZaXU&t=135s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -69,10 +78,27 @@
             "author": ""
           }
         },
+        "video_feUjWy": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=LpyrNYVNFwo&t=213s",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "",
+            "image_height_mobile": "auto",
+            "date": "",
+            "title": "X-Hunter | 2nd Version",
+            "title_sz": "h5",
+            "content": "",
+            "author": "RVdaydream"
+          }
+        },
         "video_PxPnPd": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=xLlYP_xKCAU&t=33s",
+            "video_url": "https://www.youtube.com/watch?v=xLlYP_xKCAU&t=33s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -89,7 +115,7 @@
         "video_PK3wEx": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=xLlYP_xKCAU&t=33s",
+            "video_url": "https://www.youtube.com/watch?v=xLlYP_xKCAU&t=33s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -106,7 +132,7 @@
         "video_ehjMd9": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=dcK7DBPQWvM",
+            "video_url": "https://www.youtube.com/watch?v=dcK7DBPQWvM",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -123,7 +149,7 @@
         "video_NMFC3j": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=KIsWfu_WCIc&list=PLPWkwjbN02QTQLz3oECXqVC-aEUZxJtFj&index=9",
+            "video_url": "https://www.youtube.com/watch?v=KIsWfu_WCIc&list=PLPWkwjbN02QTQLz3oECXqVC-aEUZxJtFj&index=9",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -140,7 +166,7 @@
         "video_PAqyT9": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=zIn11nY-mto",
+            "video_url": "https://www.youtube.com/watch?v=zIn11nY-mto",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -157,7 +183,7 @@
         "video_MYMdWx": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=NByqtmCnLUc",
+            "video_url": "https://www.youtube.com/watch?v=NByqtmCnLUc",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -171,10 +197,10 @@
             "author": ""
           }
         },
-        "video_6TkBEM": {
+        "video_miDnMD": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=H1-uvXHSMHc&t=5s",
+            "video_url": "https://www.youtube.com/watch?v=H1-uvXHSMHc&t=5s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -193,13 +219,14 @@
         "video_3ipERD",
         "video_w8fcDJ",
         "video_WCKjmr",
+        "video_feUjWy",
         "video_PxPnPd",
         "video_PK3wEx",
         "video_ehjMd9",
         "video_NMFC3j",
         "video_PAqyT9",
         "video_MYMdWx",
-        "video_6TkBEM"
+        "video_miDnMD"
       ],
       "name": "Multicolumn grid",
       "settings": {
@@ -239,7 +266,7 @@
         "video_TH8hik": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=87u4uYq8CQs",
+            "video_url": "https://www.youtube.com/watch?v=87u4uYq8CQs",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -256,7 +283,7 @@
         "video_YXW9Vk": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=hE6QEso7IaA",
+            "video_url": "https://www.youtube.com/watch?v=hE6QEso7IaA",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
@@ -310,35 +337,11 @@
     "dowmload_list_hb_QQQxD9": {
       "type": "dowmload-list-hb",
       "blocks": {
-        "file_pk9E3y": {
-          "type": "file",
-          "settings": {
-            "title": "EB5 Roamer-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_EB5_Roamer_User_Manual-V2_us.pdf?v=1747792693",
-            "type": "PDF"
-          }
-        },
-        "file_HGg9pK": {
-          "type": "file",
-          "settings": {
-            "title": "EB5 Roamer ST-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_EB5_Roamer_ST_User_Manual-V2_us.pdf?v=1747792669",
-            "type": "PDF"
-          }
-        },
-        "file_BpiQTJ": {
-          "type": "file",
-          "settings": {
-            "title": "X-Hunter-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_X-Hunter_User_Manual-V2_us.pdf?v=1747792831",
-            "type": "PDF"
-          }
-        },
         "file_Jy4p3C": {
           "type": "file",
           "settings": {
-            "title": "EB7 2.0-User Manual-2021.05",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_EB7_User_Manual-V2_us.pdf?v=1747792852",
+            "title": "EB7 2.0-User Manual-2022.06",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_EB7_User_Manual-V2_us.pdf?v=1747792852",
             "type": "PDF"
           }
         },
@@ -346,89 +349,95 @@
           "type": "file",
           "settings": {
             "title": "EB7 ST-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_EB7_ST_User_Manual-V2_us.pdf?v=1747792842",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_EB7_ST_User_Manual-V2_us.pdf?v=1747792842",
+            "type": "PDF"
+          }
+        },
+        "file_BpiQTJ": {
+          "type": "file",
+          "settings": {
+            "title": "X-Hunter-User Manual-2023.06",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_X-Hunter_User_Manual-V2_us.pdf?v=1747792831",
+            "type": "PDF"
+          }
+        },
+        "file_pk9E3y": {
+          "type": "file",
+          "settings": {
+            "title": "EB5 Roamer-User Manual-2024.06",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_EB5_Roamer_User_Manual-V2_us.pdf?v=1747792693",
+            "type": "PDF"
+          }
+        },
+        "file_HGg9pK": {
+          "type": "file",
+          "settings": {
+            "title": "EB5 Roamer ST-User Manual-2024.06",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_EB5_Roamer_ST_User_Manual-V2_us.pdf?v=1747792669",
             "type": "PDF"
           }
         },
         "file_KNjRLj": {
           "type": "file",
           "settings": {
-            "title": "RetroVolt-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_Retrovol_User_Manual-V2_us.pdf?v=1747792933",
+            "title": "RetroVolt-User Manual-2024.09",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_Retrovol_User_Manual-V2_us.pdf?v=1747792933",
             "type": "PDF"
           }
         },
         "file_jbjLFj": {
           "type": "file",
           "settings": {
-            "title": "YR20-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/YR20_User_Manual-V3.pdf?v=1747794189",
+            "title": "YR20-User Manual-2025.04",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/YR20_User_Manual-V3.pdf?v=1747794189",
             "type": "PDF"
           }
         },
         "file_detJYe": {
           "type": "file",
           "settings": {
-            "title": "Hunter Pro-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_Hunter_Pro_User_Manual-V9_us.pdf?v=1751886498",
+            "title": "Hunter Pro-User Manual-2025.06",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_Hunter_Pro_User_Manual-V1.pdf?v=1759218888",
             "type": "PDF"
           }
         },
         "file_tHaC6F": {
           "type": "file",
           "settings": {
-            "title": "Thunder-User Manual-2024.07.03",
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0605\/0044\/3373\/files\/Jasion_Thunder_User_Manual-V1_1.pdf?v=1752851273",
-            "type": "PDF2"
+            "title": "Thunder-User Manual-2025.07",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_Thunder_User_Manual-V1_1.pdf?v=1752851273",
+            "type": "PDF"
+          }
+        },
+        "file_UD79pN": {
+          "type": "file",
+          "settings": {
+            "title": "X-Hunter-User Manual-2nd Version-2025.07",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_X-Hunter_-V1_1.pdf?v=1751622617",
+            "type": "PDF"
           }
         },
         "file_4jwFTt": {
           "type": "file",
           "settings": {
-            "title": "EB5 Roamer ST-User Manual-2024.07.03",
-            "url": "",
-            "type": "PDF2"
-          }
-        },
-        "file_Cy9neG": {
-          "type": "file",
-          "settings": {
-            "title": "EB5 Roamer ST-User Manual-2024.07.03",
-            "url": "",
-            "type": "PDF2"
-          }
-        },
-        "file_VrRDpe": {
-          "type": "file",
-          "settings": {
-            "title": "EB5 Roamer ST-User Manual-2024.07.03",
-            "url": "",
-            "type": "PDF"
-          }
-        },
-        "file_cMAg4D": {
-          "type": "file",
-          "settings": {
-            "title": "EB5 Roamer ST-User Manual-2024.07.03",
-            "url": "",
+            "title": "RetroVolt Pro-User Manual-2025.09",
+            "url": "https://cdn.shopify.com/s/files/1/0605/0044/3373/files/Jasion_Retrovol_Pro_User_Manual_V1_2.pdf?v=1760066786",
             "type": "PDF"
           }
         }
       },
       "block_order": [
-        "file_pk9E3y",
-        "file_HGg9pK",
-        "file_BpiQTJ",
         "file_Jy4p3C",
         "file_7UQeVW",
+        "file_BpiQTJ",
+        "file_pk9E3y",
+        "file_HGg9pK",
         "file_KNjRLj",
         "file_jbjLFj",
         "file_detJYe",
         "file_tHaC6F",
-        "file_4jwFTt",
-        "file_Cy9neG",
-        "file_VrRDpe",
-        "file_cMAg4D"
+        "file_UD79pN",
+        "file_4jwFTt"
       ],
       "name": "Download list (hb)",
       "settings": {

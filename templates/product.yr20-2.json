@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -10,7 +19,7 @@
             "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true,
-            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}<\/strong><\/p>",
+            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
             "line_top": "md:tw-mt-12",
             "line_bottom": "md:tw-mb-2"
@@ -42,18 +51,10 @@
             "heading": "Compatible Accessories",
             "gift_list": [
               "extra-one-year-warranty",
-              "fenders-for-jasion-eb7",
-              "bicycle-combination-lock"
+              "fenders-for-jasion-eb7"
             ],
             "product_list": [
-              "jasion-ebike®-x-hunter-battery-pack",
-              "jasion®-bike-cover",
-              "jasion-crank-arm-and-pedals",
               "universal-bicycle-combination-lock",
-              "rear-basket-for-jasion-eb7",
-              "front-basket-for-jasion-eb7",
-              "jasion-eb7-front-basket-的副本",
-              "bag",
               "mountain-cycling-helmet",
               "urban-ebike-helmet"
             ]
@@ -134,7 +135,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Happy Easter–Beat the Tariff Hike!<br>\n🔥Lowest Price EVER on X-Hunter<br>\n🐣Up to $1000 OFF +Extra 1-Year Warranty<br>\n🐇Get 2 Free Rear Baskets with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nHurry, Time is Running Out!<br>"
+            "liquid": "Spooky Good Deals<br>\n⚡Lowest Prices Ever On YR20<br>\n⚡ Up to $1500 OFF<br>\n⚡ Extra 1-Year Warranty<br>\n✅ Fast U.S. Delivery · 14-Day Returns<br>\n✅ Trusted by Thousands of Riders<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -195,7 +196,7 @@
           "type": "content",
           "disabled": true,
           "settings": {
-            "content": "<h1><strong>Please note: <\/strong><\/h1><p><br\/>There may be a difference of 0~5 cm between measured and actual data.<\/p>"
+            "content": "<h1><strong>Please note: </strong></h1><p><br/>There may be a difference of 0~5 cm between measured and actual data.</p>"
           }
         },
         "table_aCTBik": {
@@ -215,8 +216,8 @@
           "type": "img",
           "disabled": true,
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/1_6.png",
-            "img_3": "shopify:\/\/shop_images\/1_8.png"
+            "img_1": "shopify://shop_images/1_6.png",
+            "img_3": "shopify://shop_images/1_8.png"
           }
         }
       },
@@ -238,7 +239,7 @@
           "settings": {
             "icon": "rocket",
             "heading": "Local Warehouse",
-            "text": "<p>On your doorstep in just 2-4 days across 49 states.<\/p>",
+            "text": "<p>On your doorstep in just 2-4 days across 49 states.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#b45309",
@@ -253,7 +254,7 @@
           "settings": {
             "icon": "headphone",
             "heading": "A+ Customer Service",
-            "text": "<p>24-Hour Online Customer Service.<\/p>",
+            "text": "<p>24-Hour Online Customer Service.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#0369a1",
@@ -269,7 +270,7 @@
           "settings": {
             "icon": "chat_bubble",
             "heading": "FAQ’s",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#be123c",
@@ -285,7 +286,7 @@
           "settings": {
             "icon": "none",
             "heading": "Information",
-            "text": "<p>Share contact information, store details, and brand content with your customers.<\/p>",
+            "text": "<p>Share contact information, store details, and brand content with your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#fafafa",
@@ -300,7 +301,7 @@
           "settings": {
             "icon": "phone",
             "heading": "Contact Us",
-            "text": "<ul><li><strong>Contact Email: <\/strong>support@jasionbike.com<\/li><li><strong>Contact Phone：<\/strong>(+1) 888-825-6366<\/li><\/ul>",
+            "text": "<ul><li><strong>Contact Email: </strong>support@jasionbike.com</li><li><strong>Contact Phone：</strong>(+1) 888-825-6366</li></ul>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#4d7c0f",
@@ -320,7 +321,101 @@
       ],
       "settings": {
         "heading": "Need help?",
-        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.<\/p>"
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
+      }
+    },
+    "multicolumn_slide_hb_QEk8x8": {
+      "type": "multicolumn-slide-hb",
+      "blocks": {
+        "video_CdhUFd": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
+            "image_height_mobile": "auto",
+            "date": "2025/5/9",
+            "title": "JASION YR20 Electric Bike Review 36 MPH 1000W FULL SUSPENSION",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_8.jpg",
+            "author": "HeroesNStuff"
+          }
+        },
+        "video_h66XiD": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=gUNE023zvyk",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=gUNE023zvyk",
+            "image_height_mobile": "auto",
+            "date": "2025/5/2",
+            "title": "Jasion YR20 - Full Review - \"Your First Performance Beast\"",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_10.jpg",
+            "author": "Horizontal Capacity"
+          }
+        },
+        "video_yttwFr": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
+            "cover_image": "shopify://shop_images/579FCDF5-7742-4bc5-BD66-89D2A2D30CAC.png",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
+            "cover_image_mobile": "shopify://shop_images/579FCDF5-7742-4bc5-BD66-89D2A2D30CAC.png",
+            "image_height_mobile": "auto",
+            "date": "2025/5/5",
+            "title": "How The Jasion YR20 Is Changing E-Bikes Forever",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_9.jpg",
+            "author": "EASYHEIMER"
+          }
+        }
+      },
+      "block_order": [
+        "video_CdhUFd",
+        "video_h66XiD",
+        "video_yttwFr"
+      ],
+      "settings": {
+        "pw-overflow-hidden": true,
+        "columns": 3,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Community Reviews",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "#171717",
+        "color_button_gradient": "",
+        "padding_top": 68,
+        "padding_bottom": 68,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
       }
     },
     "collage": {
@@ -329,7 +424,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -351,7 +446,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -373,7 +468,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -395,7 +490,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": true,
@@ -428,7 +523,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
         "button_label": "View more",
         "button_link": "",
         "button_external": false,
@@ -457,36 +552,36 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Establishment_620x620_c404ad70-e82f-4f40-a051-d990f536c09b.jpg",
+            "img_1": "shopify://shop_images/Establishment_620x620_c404ad70-e82f-4f40-a051-d990f536c09b.jpg",
             "tab_con": "Establishment",
-            "title": "Establishment：Your First Performance Beast",
+            "title": "Your First Performance Beast",
             "content": "At YR20's launch, our mission was clear: deliver a high-performance electric bike for extreme terrains at a competitive price. YR20 isn’t just transportation—it’s a performance beast designed for speed and pushing limits."
           }
         },
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Design_620x620_cdb791ed-1adf-48b0-b1e5-375dbb2673b1.jpg",
+            "img_1": "shopify://shop_images/Design_620x620_cdb791ed-1adf-48b0-b1e5-375dbb2673b1.jpg",
             "tab_con": "Design",
-            "title": "Design",
+            "title": "",
             "content": "The YR20’s dual suspension system, with a front fork and rear shock absorbers, works with 20\" × 4\" fat tires to absorb bumps and impacts, delivering a smooth, stable ride on any terrain."
           }
         },
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Craftsmanship_620x620_9aaa89a3-8823-4fb7-8f77-36f7063bf342.jpg",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_9aaa89a3-8823-4fb7-8f77-36f7063bf342.jpg",
             "tab_con": "Craftsmanship",
-            "title": "Craftsmanship",
+            "title": "",
             "content": "To further enhance the riding experience, the YR20 features an extended, thickened ergonomic saddle that conforms to the body's natural contours, effectively reducing fatigue and ensuring long-distance comfort."
           }
         },
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Finished_Product_620x620_ba54218c-101a-4e16-a2f1-a7e51563b6fc.jpg",
+            "img_1": "shopify://shop_images/Finished_Product_620x620_ba54218c-101a-4e16-a2f1-a7e51563b6fc.jpg",
             "tab_con": "Finished Product",
-            "title": "Finished Product",
+            "title": "",
             "content": "The YR20 launches with powerful performance, long-range capability, and a comfortable ride. With a top speed of 32 mph and a range of up to 80 miles, you'll reach your destination at your own pace. More than just an electric bike, it’s the perfect companion for cycling enthusiasts to explore the world."
           }
         },
@@ -537,7 +632,7 @@
           "type": "heading",
           "settings": {
             "heading": "2000W Brushless Hub Motor\nDual Hydraulic Disc Brake",
-            "heading_size": "title-xs",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -546,8 +641,8 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Born to Perform. With a 2000W motor and precision dual hydraulic disc brakes, it’s not just your first ride — it’s your first <em>performance beast<\/em>.<br\/><br\/><\/p>",
-            "text_size": "subtext-sm",
+            "text": "<p>Born to Perform. With a 2000W motor and precision dual hydraulic disc brakes, it’s not just your first ride — it’s your first <em>performance beast</em>.<br/><br/></p>",
+            "text_size": "subtext-md",
             "text_max_size": 16,
             "text_font": "body",
             "secondary_color": false,
@@ -563,12 +658,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1920_800_0a62b3ed-7718-42a9-810f-eb1d6b44d588.jpg",
+        "image": "shopify://shop_images/1920_800_0a62b3ed-7718-42a9-810f-eb1d6b44d588.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/390_320_b3998ccb-c252-469f-aa8c-64aecb7ac0e0.jpg",
+        "image_mobile": "shopify://shop_images/390_320_b3998ccb-c252-469f-aa8c-64aecb7ac0e0.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -595,7 +690,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>85Nm High Torque <br\/>Folding Fat Tire E-Bike<\/p><p><\/p>",
+            "heading": "<p>85Nm High Torque <br/>Folding Fat Tire E-Bike</p><p></p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "text",
@@ -605,7 +700,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.<\/p>",
+            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_color": "#000000",
@@ -617,9 +712,8 @@
         },
         "text_BbLhqQ": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -638,20 +732,20 @@
       "disabled": true,
       "settings": {
         "img_placeholder": true,
-        "image": "shopify:\/\/shop_images\/1920_800-3.jpg",
+        "image": "shopify://shop_images/1920_800-3.jpg",
         "image_height": "750px",
         "image_width": "medium",
         "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": true,
-        "image_mobile": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+        "image_mobile": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
         "image_height_mobile": "300px",
         "text_alignment_mobile": "left",
         "color_text": "#171717",
         "color_background": "rgba(0,0,0,0)",
-        "bg_img": "shopify:\/\/shop_images\/1920_800-3.jpg",
-        "bg_img_mb": "shopify:\/\/shop_images\/390_600.jpg",
+        "bg_img": "shopify://shop_images/1920_800-3.jpg",
+        "bg_img_mb": "shopify://shop_images/390_600.jpg",
         "gradient_background": "",
         "color_background_2": "rgba(0,0,0,0)",
         "gradient_background_2": "",
@@ -675,8 +769,8 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>No Destination is Out of Reach<\/p>",
-            "heading_size": "title-xs",
+            "heading": "<p>No Destination is Out of Reach</p>",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -697,9 +791,8 @@
         },
         "text_P7YzCp": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -717,7 +810,7 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify:\/\/files\/videos\/电机-1_ca04341a-e3ab-4513-aaa2-83d49aaefe67.mp4",
+        "video": "shopify://files/videos/电机-1_ca04341a-e3ab-4513-aaa2-83d49aaefe67.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -751,8 +844,8 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>80-Mile Range on a Single Charge<\/p>",
-            "heading_size": "title-xs",
+            "heading": "<p>80-Mile Range on a Single Charge</p>",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -773,9 +866,8 @@
         },
         "text_cHMnAd": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "48V 20Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -793,7 +885,7 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify:\/\/files\/videos\/电池_bf87a942-b9b7-4e29-ab75-5bcb359701a8.mp4",
+        "video": "shopify://files/videos/电池_bf87a942-b9b7-4e29-ab75-5bcb359701a8.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -826,13 +918,13 @@
       "disabled": true,
       "settings": {
         "transparent_header": false,
-        "video": "shopify:\/\/files\/videos\/新X-hunter v4_40c09fe4-2fee-4792-92f7-0b42ab27e5f0.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/新X-hunter v4_40c09fe4-2fee-4792-92f7-0b42ab27e5f0.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "image_height": "adapt",
-        "video_mobile": "shopify:\/\/files\/videos\/新X-hunter 1080.mp4",
+        "video_mobile": "shopify://files/videos/新X-hunter 1080.mp4",
         "video_url_mobile": "",
         "image_height_mobile": "adapt",
         "padding_top": 60,
@@ -869,7 +961,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -887,12 +979,12 @@
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1920x800_87d5b087-956a-4313-a7fe-27ea190c9ada.jpg",
+        "image": "shopify://shop_images/YR20-1.png",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/1920x1080.jpg",
+        "image_mobile": "shopify://shop_images/YR20-2.png",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -919,8 +1011,8 @@
         "heading_r4mdLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Conquer Rough Terrain with Dual Suspension<\/p>",
-            "heading_size": "title-xs",
+            "heading": "<p>Conquer Rough Terrain with Dual Suspension</p>",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -929,7 +1021,7 @@
         "text_XLF8UP": {
           "type": "text",
           "settings": {
-            "text": "<p>The YR20 features advanced front fork and rear shock absorbers, paired with a dual suspension system and 20” × 4” wide tires. This setup absorbs shocks and vibrations, supports up to 330 lbs, and ensures a smooth, safe ride on any terrain.<\/p>",
+            "text": "<p>The YR20 features advanced front fork and rear shock absorbers, paired with a dual suspension system and 20” × 4” wide tires. This setup absorbs shocks and vibrations, supports up to 330 lbs, and ensures a smooth, safe ride on any terrain.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -946,8 +1038,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/减震-黑色背景_b84eb56d-fdde-466a-8f00-4ea15c3a2ce5.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/减震-黑色背景_b84eb56d-fdde-466a-8f00-4ea15c3a2ce5.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -981,8 +1073,8 @@
         "heading_4mWDW7": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Build For The Wild - Dual Hydraulic Brakes<br\/><\/p>",
-            "heading_size": "title-xs",
+            "heading": "<p>Build For The Wild - Dual Hydraulic Brakes<br/></p>",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -991,7 +1083,7 @@
         "text_7fT8T3": {
           "type": "text",
           "settings": {
-            "text": "<p>Front and rear hydraulic disc brakes, paired with 180mm rotors, are designed to handle tough terrain and uneven paths, providing excellent braking power over short distances.<\/p>",
+            "text": "<p>Front and rear hydraulic disc brakes, paired with 180mm rotors, are designed to handle tough terrain and uneven paths, providing excellent braking power over short distances.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1021,8 +1113,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/刹车黑色背景_de8b44d4-1c39-4e4c-8357-1aefd9bcf5a8.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/刹车黑色背景_de8b44d4-1c39-4e4c-8357-1aefd9bcf5a8.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -1056,7 +1148,7 @@
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Shimano_7_460x460_9b3e87c9-dc1d-4e04-8135-f67e5478bfde.jpg",
+            "img": "shopify://shop_images/Shimano_7_460x460_9b3e87c9-dc1d-4e04-8135-f67e5478bfde.jpg",
             "date": "",
             "title": "Shimano 7-Speed",
             "title_sz": "h4",
@@ -1067,7 +1159,7 @@
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_71460ce4-98d7-4bcd-b288-473dde39765c.jpg",
+            "img": "shopify://shop_images/460x460_71460ce4-98d7-4bcd-b288-473dde39765c.jpg",
             "date": "",
             "title": "20\" x 4\" Puncture-Resistant Tires",
             "title_sz": "h4",
@@ -1078,7 +1170,7 @@
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_aaf8e5d9-b303-475b-a3e0-4cb8b356332d.jpg",
+            "img": "shopify://shop_images/460x460_aaf8e5d9-b303-475b-a3e0-4cb8b356332d.jpg",
             "date": "",
             "title": "4+1 Riding Modes",
             "title_sz": "h4",
@@ -1090,7 +1182,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_063751ab-be77-4cc2-b20a-840a9be0ff63.jpg",
+            "img": "shopify://shop_images/460x460_063751ab-be77-4cc2-b20a-840a9be0ff63.jpg",
             "date": "",
             "title": "Shimano 7-Speed",
             "title_sz": "h4",
@@ -1101,7 +1193,7 @@
         "item_HLcweJ": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_2acf4d2b-e719-49de-9a9a-54794fac1703.jpg",
+            "img": "shopify://shop_images/460x460_2acf4d2b-e719-49de-9a9a-54794fac1703.jpg",
             "date": "",
             "title": "Powerful Lighting Setup",
             "title_sz": "h4",
@@ -1113,7 +1205,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460-7.jpg",
+            "img": "shopify://shop_images/460x460-7.jpg",
             "date": "",
             "title": "Your Long-range, Touring E-bike",
             "title_sz": "h3",
@@ -1125,7 +1217,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460-6_5f574159-c83d-496a-9405-eeb68722f051.jpg",
+            "img": "shopify://shop_images/460x460-6_5f574159-c83d-496a-9405-eeb68722f051.jpg",
             "date": "",
             "title": "Headlight&Taillight",
             "title_sz": "h4",
@@ -1137,7 +1229,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460-3_dd9879bb-0fef-4899-a50b-6c7eb70319ac.jpg",
+            "img": "shopify://shop_images/460x460-3_dd9879bb-0fef-4899-a50b-6c7eb70319ac.jpg",
             "date": "",
             "title": "Foldable Electric Bike",
             "title_sz": "h4",
@@ -1211,7 +1303,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -1228,12 +1320,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/3_1920_600_8600cf84-3251-4030-bb44-86e3b2d93080.jpg",
+        "image": "shopify://shop_images/3_1920_600_8600cf84-3251-4030-bb44-86e3b2d93080.jpg",
         "image_height": "adapt",
         "content_width": "medium",
         "content_position": "md:items-start md:justify-center",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/3_390_320.jpg",
+        "image_mobile": "shopify://shop_images/3_390_320.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-start justify-center",
         "text_alignment_mobile": "center",
@@ -1266,7 +1358,7 @@
             "horizontal": 50,
             "vertical_mobile": 22,
             "horizontal_mobile": 17,
-            "modal_img": "shopify:\/\/shop_images\/test_1.png",
+            "modal_img": "shopify://shop_images/test_1.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1280,7 +1372,7 @@
             "horizontal": 37,
             "vertical_mobile": 50,
             "horizontal_mobile": 50,
-            "modal_img": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+            "modal_img": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1292,14 +1384,14 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
-        "image_mobile": "shopify:\/\/shop_images\/test.png",
+        "image": "shopify://shop_images/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
+        "image_mobile": "shopify://shop_images/test.png",
         "heading": "Details you’ll fall in love with",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Every detail has been carefully crafted to captivate<\/p>",
+        "description": "<p>Every detail has been carefully crafted to captivate</p>",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -1324,7 +1416,7 @@
           "type": "img_list",
           "settings": {
             "order_title": "Geometry",
-            "img": "shopify:\/\/shop_images\/R20_600_400.jpg",
+            "img": "shopify://shop_images/R20_600_400.jpg",
             "img_w": 40,
             "list": "SIZE (inch)|One Size\nA|Seat Tube 17.7''\nB|Chainstay 18.3''\nC|Effective Top Tube 25.6''\nD|Head Tube 6.3''\nE|Handlebar Height 45.3''\nF|Handlebar Length 26.8''\nG|Maximun Seat Height 33.5''\nH|Wheelbase 42.7''\nI|Wheel Diameter 22.8''\nJ|Total Length 66.5''",
             "item_justify": "tw-justify-between",
@@ -1337,7 +1429,7 @@
           "settings": {
             "order_title": "Specifications",
             "img_w": 50,
-            "list": "|Motor|2000W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 3.0 A\n|Range |Up To 80 Miles\n|Battery |48V 20Ah\n|Controller |48V \/ 20A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'5'' - 6'7''\n|Pedal Assist|0-5 Level\n|Weight|87 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "list": "|Motor|2000W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 3.0 A\n|Range |Up To 80 Miles\n|Battery |48V 20Ah\n|Controller |48V / 20A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'5'' - 6'7''\n|Pedal Assist|0-5 Level\n|Weight|87 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
             "item_justify": "tw-justify-left",
             "list_border": false,
             "list_col": "2"
@@ -1348,7 +1440,7 @@
           "disabled": true,
           "settings": {
             "order_title": "What's In The Box (img)",
-            "img": "shopify:\/\/shop_images\/Valentine_s-Day1.png",
+            "img": "shopify://shop_images/Valentine_s-Day1.png",
             "img_w": 50,
             "list": "",
             "item_justify": "tw-justify-between",
@@ -1363,13 +1455,13 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify:\/\/shop_images\/R20_500x500_5182fb7d-f16e-4aef-86ab-13b86ecace6c.jpg",
-            "img_2": "shopify:\/\/shop_images\/R20_500x500-6.jpg",
-            "img_3": "shopify:\/\/shop_images\/R20_500x500-5.jpg",
-            "img_4": "shopify:\/\/shop_images\/R20_500x500-4.jpg",
-            "img_5": "shopify:\/\/shop_images\/R20_500x500-3.jpg",
-            "img_6": "shopify:\/\/shop_images\/R20_500x500-2.jpg",
-            "img_7": "shopify:\/\/shop_images\/R20_500x500-1.jpg"
+            "img_1": "shopify://shop_images/R20_500x500_5182fb7d-f16e-4aef-86ab-13b86ecace6c.jpg",
+            "img_2": "shopify://shop_images/R20_500x500-6.jpg",
+            "img_3": "shopify://shop_images/R20_500x500-5.jpg",
+            "img_4": "shopify://shop_images/R20_500x500-4.jpg",
+            "img_5": "shopify://shop_images/R20_500x500-3.jpg",
+            "img_6": "shopify://shop_images/R20_500x500-2.jpg",
+            "img_7": "shopify://shop_images/R20_500x500-1.jpg"
           }
         }
       },
@@ -1403,100 +1495,6 @@
         "rounded": false
       }
     },
-    "multicolumn_slide_hb_QEk8x8": {
-      "type": "multicolumn-slide-hb",
-      "blocks": {
-        "video_CdhUFd": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=ssP6ZMhfIJg&t=455s",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=ssP6ZMhfIJg&t=455s",
-            "image_height_mobile": "auto",
-            "date": "2025\/5\/9",
-            "title": "JASION YR20 Electric Bike Review 36 MPH 1000W FULL SUSPENSION",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_8.jpg",
-            "author": "HeroesNStuff"
-          }
-        },
-        "video_h66XiD": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=gUNE023zvyk",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=gUNE023zvyk",
-            "image_height_mobile": "auto",
-            "date": "2025\/5\/2",
-            "title": "Jasion YR20 - Full Review - \"Your First Performance Beast\"",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_10.jpg",
-            "author": "Horizontal Capacity"
-          }
-        },
-        "video_yttwFr": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=DB-Lvc7ubl4",
-            "cover_image": "shopify:\/\/shop_images\/579FCDF5-7742-4bc5-BD66-89D2A2D30CAC.png",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=DB-Lvc7ubl4",
-            "cover_image_mobile": "shopify:\/\/shop_images\/579FCDF5-7742-4bc5-BD66-89D2A2D30CAC.png",
-            "image_height_mobile": "auto",
-            "date": "2025\/5\/5",
-            "title": "How The Jasion YR20 Is Changing E-Bikes Forever",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_9.jpg",
-            "author": "EASYHEIMER"
-          }
-        }
-      },
-      "block_order": [
-        "video_CdhUFd",
-        "video_h66XiD",
-        "video_yttwFr"
-      ],
-      "settings": {
-        "pw-overflow-hidden": true,
-        "columns": 3,
-        "carousel_on_desktop": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Community Reviews",
-        "heading_size": "title-sm",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "#171717",
-        "color_button_gradient": "",
-        "padding_top": 68,
-        "padding_bottom": 68,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
-    },
     "faq_LAqHrA": {
       "type": "faq",
       "blocks": {
@@ -1504,7 +1502,7 @@
           "type": "question",
           "settings": {
             "title": "1. What's your shipping policy?",
-            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<br\/><br\/>We provide UPS, USPS, and FedEx shipping services. No tax is needed. We DO NOT ship to PO BOXES.<br\/><br\/>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<br\/><br\/>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.<\/p><p>Want to know more about shipping policies, please check more details on our <a href=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\" title=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\">Shipping Policy Page.<\/a><\/p>",
+            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<br/><br/>We provide UPS, USPS, and FedEx shipping services. No tax is needed. We DO NOT ship to PO BOXES.<br/><br/>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<br/><br/>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page.</a></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1513,7 +1511,7 @@
           "type": "question",
           "settings": {
             "title": "2. What's your warranty policy?",
-            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and\/or workmanship( all free accessories are not covered).<br\/><br\/>We will replace any component that is defective or damaged in materials and\/or workmanship( including the damage in the processing of shipment).<br\/><br\/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com<\/strong>.<\/p><p>Want to know more about warranty policies, please check more details on our <a href=\"\/pages\/warranty\" title=\"Warranty\">Warranty Policy Page<\/a>.<\/p>",
+            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1522,7 +1520,7 @@
           "type": "question",
           "settings": {
             "title": "3. What's your return&refund policy?",
-            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.<\/p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.<\/p><p>You can always contact us for any return questions at <strong>support@jasionbike.com<\/strong>.<\/p><p>Want to know more about return and refound policies, please check more details on our <a href=\"https:\/\/www.jasionbike.com\/pages\/return-refund-policy\" title=\"https:\/\/www.jasionbike.com\/pages\/return-refund-policy\">Return&Refund Policy Page<\/a>. <\/p>",
+            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about return and refound policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/return-refund-policy\" title=\"https://www.jasionbike.com/pages/return-refund-policy\">Return&Refund Policy Page</a>. </p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1531,7 +1529,7 @@
           "type": "question",
           "settings": {
             "title": "4.Does my height suit YR20?",
-            "text": "<p>The recommended rider height is 5'5\" to 6'7\".<\/p>",
+            "text": "<p>The recommended rider height is 5'5\" to 6'7\".</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1540,7 +1538,7 @@
           "type": "question",
           "settings": {
             "title": "5. How long does it take to fully charge the battery?",
-            "text": "<p>It will take 5-7 hours.<\/p>",
+            "text": "<p>It will take 5-7 hours.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1549,7 +1547,7 @@
           "type": "question",
           "settings": {
             "title": "6. How long will it take for my shipment to arrive?",
-            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.<\/p>",
+            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1558,7 +1556,7 @@
           "type": "question",
           "settings": {
             "title": "7. Does my Jasion ebike come pre-assembled?",
-            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https:\/\/www.youtube.com\/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=i0LcsKoZaXU\">YouTube Channel<\/a>.<\/p>",
+            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\">YouTube Channel</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1567,7 +1565,7 @@
           "type": "question",
           "settings": {
             "title": "8. What is the maximum speed of each PAS level?",
-            "text": "<ul><li>PAS1 Top speed 11mph<\/li><li>PAS2 Top speed 16mph<\/li><li>PAS3 Top speed 22mph<\/li><li>PAS4 Top speed 27mph<\/li><li>PAS5 Top speed 30+mph<\/li><\/ul>",
+            "text": "<ul><li>PAS1 Top speed 11mph</li><li>PAS2 Top speed 16mph</li><li>PAS3 Top speed 22mph</li><li>PAS4 Top speed 27mph</li><li>PAS5 Top speed 30+mph</li></ul>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1621,7 +1619,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1630,7 +1628,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1639,7 +1637,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1648,7 +1646,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1657,7 +1655,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1666,7 +1664,7 @@
           "type": "contact",
           "settings": {
             "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us<\/p>",
+            "text": "<p>Don't hestitate to contact us</p>",
             "show_phone": false,
             "avatar_height": 60,
             "highlighted_text": "none",
@@ -1690,7 +1688,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs<\/a> page to find out more.<\/p>",
+        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
@@ -1782,6 +1780,7 @@
     "main-product",
     "drawer_content_hb_qzp8WX",
     "help-drawer",
+    "multicolumn_slide_hb_QEk8x8",
     "collage",
     "large_header_slider_NDH3Xx",
     "image_with_text_overlay_UyaqiW",
@@ -1796,7 +1795,6 @@
     "image_with_text_overlay_ffkPjp",
     "product_modal_popup_hb_exNHwH",
     "specifications_parameters_hb_84CbEA",
-    "multicolumn_slide_hb_QEk8x8",
     "faq_LAqHrA",
     "faq",
     "product-recommendations",

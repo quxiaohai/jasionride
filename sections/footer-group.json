@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.footer-group.name",
@@ -8,28 +17,28 @@
         "icon_MfCJNq": {
           "type": "icon",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/62b346479761e66abbf8c135abb2c594.png",
+            "icon": "shopify://shop_images/62b346479761e66abbf8c135abb2c594.png",
             "content": "14-Day Trial\nDon't love it? Send it back to us!"
           }
         },
         "icon_nYfLWm": {
           "type": "icon",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/4644f593bcee0c4f92851631365e1646_9032bd34-ed14-4373-801c-8b63f1378261.png",
+            "icon": "shopify://shop_images/4644f593bcee0c4f92851631365e1646_9032bd34-ed14-4373-801c-8b63f1378261.png",
             "content": "Customer Service\n24 Hour Online Customer Service."
           }
         },
         "icon_VPUk67": {
           "type": "icon",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/99ff960b42e22b739dfaccb9347f9cd8.png",
+            "icon": "shopify://shop_images/99ff960b42e22b739dfaccb9347f9cd8.png",
             "content": "Local Warehouse\nOn your doorstep in just 2-4 days across 49 states."
           }
         },
         "icon_FAGaiF": {
           "type": "icon",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/4bddfd799d2f8701386aa3f0db510a4c_da8f68e4-c921-449d-b3d5-ef5940054214.png",
+            "icon": "shopify://shop_images/4bddfd799d2f8701386aa3f0db510a4c_da8f68e4-c921-449d-b3d5-ef5940054214.png",
             "content": "1 Year Warranty\nAll Ebikes backed by Jasion Limited Warranty."
           }
         }
@@ -41,7 +50,7 @@
         "icon_FAGaiF"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.md\\:tw-w-3\\\/8 {width: auto; }}"
+        "@media (min-width: 768px) {.md\\:tw-w-3\\/8 {width: auto; }}"
       ],
       "settings": {
         "layout": "1",
@@ -53,14 +62,14 @@
         "description": "",
         "title": "Join Our Community",
         "btn_txt": "Join Now",
-        "link": "https:\/\/www.facebook.com\/groups\/321883149636188\/",
+        "link": "https://www.facebook.com/groups/321883149636188/",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
-        "bg_img": "shopify:\/\/shop_images\/image_208784f7-e08c-444a-b879-6d147bc6aa82.png",
-        "bg_img_mb": "shopify:\/\/shop_images\/4_390x360_d81acdf2-7f07-4921-b221-90c674b61542.jpg",
+        "bg_img": "shopify://shop_images/image_208784f7-e08c-444a-b879-6d147bc6aa82.png",
+        "bg_img_mb": "shopify://shop_images/4_390x360_d81acdf2-7f07-4921-b221-90c674b61542.jpg",
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "",
@@ -82,7 +91,7 @@
             "icon": "support",
             "custom_icon": "",
             "heading": "Customer service",
-            "text": "<p>It’s not actually free we just price it into the products.<\/p>",
+            "text": "<p>It’s not actually free we just price it into the products.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -93,7 +102,7 @@
             "icon": "box",
             "custom_icon": "",
             "heading": "Fast Free Shipping",
-            "text": "<p>Get free shipping on orders of $150 or more<\/p>",
+            "text": "<p>Get free shipping on orders of $150 or more</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -104,7 +113,7 @@
             "icon": "users",
             "custom_icon": "",
             "heading": "Refer a friend",
-            "text": "<p>Refer a friend and get 15% off each other.<\/p>",
+            "text": "<p>Refer a friend and get 15% off each other.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -115,7 +124,7 @@
             "icon": "shield",
             "custom_icon": "",
             "heading": "Secure payment",
-            "text": "<p>Your payment information is processed securely<\/p>",
+            "text": "<p>Your payment information is processed securely</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -236,7 +245,7 @@
         "enable_newsletter": true,
         "newsletter_heading": "Stay Connected with Us.",
         "newsletter_heading_size": "md:title-md",
-        "newsletter_text": "<p>Subscribe Jasionbike to unlock exclusive offers, product updates, and insider information!<\/p><h2><\/h2>",
+        "newsletter_text": "<p>Subscribe Jasionbike to unlock exclusive offers, product updates, and insider information!</p><h2></h2>",
         "newsletter_logo_height": 50,
         "show_social": true,
         "enable_follow_on_shop": false,

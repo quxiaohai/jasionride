@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -10,7 +19,7 @@
             "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true,
-            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}<\/strong><\/p>",
+            "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
             "line_top": "md:tw-mt-12",
             "line_bottom": "md:tw-mb-2"
@@ -46,14 +55,12 @@
               "copy-of-jasion®-bicycle-universal-mirrors"
             ],
             "product_list": [
-              "jasion-ebike®-x-hunter-battery-pack",
+              "jasion-ebike®-front-basket-copy",
+              "jasion-ebike®-rear-basket-copy",
               "jasion-ebike-bracketed-u-lock",
-              "front-basket-for-jasion-eb7",
-              "rear-basket-for-jasion-eb7",
-              "copy-of-jasion®bike-rack-pannier-bag",
-              "jasion®-bike-cover",
-              "jasion-crank-arm-and-pedals",
-              "universal-bicycle-combination-lock"
+              "e-bike-phone-mount-holder",
+              "hunter-pro-battery-pack",
+              "copy-of-jasion®bike-rack-pannier-bag"
             ]
           }
         },
@@ -132,7 +139,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Happy Easter–Beat the Tariff Hike!<br>\n🔥Lowest Price EVER on X-Hunter<br>\n🐣Up to $1000 OFF +Extra 1-Year Warranty<br>\n🐇Get 2 Free Rear Baskets with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nHurry, Time is Running Out!<br>"
+            "liquid": "Spooky Good Deals<br>\n⚡$800 OFF + Extra 1-Year Warranty<br>\n⚡Get 1 Free Pet Bike Basket With Combo<br>\n⏳Be the First – Limited Release<br>\n✅14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -192,180 +199,180 @@
         "video_CdhUFd": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=ZR8N-TV_4AA",
+            "video_url": "https://www.youtube.com/watch?v=ZR8N-TV_4AA",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=ZR8N-TV_4AA",
+            "video_url_mobile": "https://www.youtube.com/watch?v=ZR8N-TV_4AA",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/20",
+            "date": "2025/6/20",
             "title": "1,194 people have given this bike a 4.5 star rating",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_19.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_19.jpg",
             "author": "Electric Revolution"
           }
         },
         "video_ddPNFB": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=D-BVix7WjLg",
+            "video_url": "https://www.youtube.com/watch?v=D-BVix7WjLg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=D-BVix7WjLg",
+            "video_url_mobile": "https://www.youtube.com/watch?v=D-BVix7WjLg",
             "image_height_mobile": "auto",
-            "date": "2025\/7\/17",
+            "date": "2025/7/17",
             "title": "BEST FOLDABLE E-BIKE FOR DOORDASH THE JASION HUNTER PRO!",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_20.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_20.jpg",
             "author": "Electric Scooter Academy"
           }
         },
         "video_h66XiD": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=R_BqDJwoenk",
+            "video_url": "https://www.youtube.com/watch?v=R_BqDJwoenk",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=R_BqDJwoenk",
+            "video_url_mobile": "https://www.youtube.com/watch?v=R_BqDJwoenk",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/1",
+            "date": "2025/6/1",
             "title": "JASION Hunter Pro Ebike Review | Awesome Improvements | More Range!",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_21.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_21.jpg",
             "author": "Papa`s Product Reviews"
           }
         },
         "video_nAJUWq": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=3EcwawQZxbg&t=16s",
+            "video_url": "https://www.youtube.com/watch?v=3EcwawQZxbg&t=16s",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=3EcwawQZxbg&t=16s",
+            "video_url_mobile": "https://www.youtube.com/watch?v=3EcwawQZxbg&t=16s",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/2",
+            "date": "2025/6/2",
             "title": "Jasion Hunter Pro Fat Tire Folding Ebike | Test Ride & Assembly",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/unnamed_5.jpg",
+            "avatar": "shopify://shop_images/unnamed_5.jpg",
             "author": "Zophie Reviews"
           }
         },
         "video_4tbFaF": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=iZ7fe7s1lU4",
+            "video_url": "https://www.youtube.com/watch?v=iZ7fe7s1lU4",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=iZ7fe7s1lU4",
+            "video_url_mobile": "https://www.youtube.com/watch?v=iZ7fe7s1lU4",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/1",
+            "date": "2025/6/1",
             "title": "Jasion Hunter Pro Ebike - Forget the X-Hunter",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_22.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_22.jpg",
             "author": "Hazers"
           }
         },
         "video_Ma77wA": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=bL2orWUzOvg",
+            "video_url": "https://www.youtube.com/watch?v=bL2orWUzOvg",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=bL2orWUzOvg",
+            "video_url_mobile": "https://www.youtube.com/watch?v=bL2orWUzOvg",
             "image_height_mobile": "auto",
-            "date": "2025\/7\/3",
+            "date": "2025/7/3",
             "title": "E-Bike for RVers - Jasion Hunter Pro Review - Is It Worth It?",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_23.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_23.jpg",
             "author": "Our Everyday Getaway"
           }
         },
         "video_7qRYXQ": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=WRYvMbd3zf8",
+            "video_url": "https://www.youtube.com/watch?v=WRYvMbd3zf8",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=WRYvMbd3zf8",
+            "video_url_mobile": "https://www.youtube.com/watch?v=WRYvMbd3zf8",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/5",
+            "date": "2025/6/5",
             "title": "Jasion Hunter Pro: The Best E-Bike Value Yet?",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_24.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_24.jpg",
             "author": "EASYHEIMER"
           }
         },
         "video_VDMNBx": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=oBbD0_9K5cE",
+            "video_url": "https://www.youtube.com/watch?v=oBbD0_9K5cE",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=oBbD0_9K5cE",
+            "video_url_mobile": "https://www.youtube.com/watch?v=oBbD0_9K5cE",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/6",
+            "date": "2025/6/6",
             "title": "BEST CHEAP FAST Folding Electric Bike of 2025? Jasion Hunter Pro EBike Review Full Suspension",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_25.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_25.jpg",
             "author": "HeroesNStuff"
           }
         },
         "video_DBRc7W": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=ryxnoH06F6k",
+            "video_url": "https://www.youtube.com/watch?v=ryxnoH06F6k",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=ryxnoH06F6k",
+            "video_url_mobile": "https://www.youtube.com/watch?v=ryxnoH06F6k",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/1",
+            "date": "2025/6/1",
             "title": "Jasion Hunter Pro Ebike Review",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_26.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_26.jpg",
             "author": "Low Dough Tech"
           }
         },
         "video_cEcxhM": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=O1PB6yfqPg8",
+            "video_url": "https://www.youtube.com/watch?v=O1PB6yfqPg8",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https:\/\/www.youtube.com\/watch?v=O1PB6yfqPg8",
+            "video_url_mobile": "https://www.youtube.com/watch?v=O1PB6yfqPg8",
             "image_height_mobile": "auto",
-            "date": "2025\/6\/2",
+            "date": "2025/6/2",
             "title": "Testing the Jasion Hunter Pro’s Power and Speed!",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_27.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_27.jpg",
             "author": "The Frickin' Shredder"
           }
         }
@@ -418,7 +425,7 @@
           "type": "content",
           "disabled": true,
           "settings": {
-            "content": "<h1><strong>Please note: <\/strong><\/h1><p><br\/>There may be a difference of 0~5 cm between measured and actual data.<\/p>"
+            "content": "<h1><strong>Please note: </strong></h1><p><br/>There may be a difference of 0~5 cm between measured and actual data.</p>"
           }
         },
         "table_aCTBik": {
@@ -431,15 +438,15 @@
         "table_4CpLLg": {
           "type": "table",
           "settings": {
-            "list": "Motor|1400W Brushless Hub Motor\nFork|Suspension Front Fork\nBrake|Mechanical Disc Brake\nShift Lever|Shimano 7 Speed\nThrottle|Twist Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|85 Nm\nTop Speed|30+ Mph\nRange| Up To 70 Miles\nCharging Time|5-6 Hours\nBattery|48V 13Ah\nController|48V 13A\nTires|20 x 4'' Fat Tire\nRider Height|5'3 - 6'4''\nWeight|71 Lbs\nMax Payload|400 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| Yes"
+            "list": "Motor|1800W Brushless Hub Motor\nSuspension|Full Suspension\nBrake|Dual Hydraulic Brakes\nShift Lever|Shimano 7 Speed\nThrottle|Twist Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|95 Nm\nTop Speed|30+ Mph\nRange| Up To 80 Miles\nCharging Time|7-8 Hours\nBattery|48V 15Ah\nController|48V 15A\nTires|20 x 4'' Fat Tire\nRider Height|5'2 - 6'3‘'\nWeight|82 Lbs\nMax Payload|400 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| Yes"
           }
         },
         "img_rmqdEK": {
           "type": "img",
           "disabled": true,
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/1_6.png",
-            "img_3": "shopify:\/\/shop_images\/1_8.png"
+            "img_1": "shopify://shop_images/1_6.png",
+            "img_3": "shopify://shop_images/1_8.png"
           }
         }
       },
@@ -461,7 +468,7 @@
           "settings": {
             "icon": "rocket",
             "heading": "Local Warehouse",
-            "text": "<p>On your doorstep in just 2-4 days across 49 states.<\/p>",
+            "text": "<p>On your doorstep in just 2-4 days across 49 states.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#b45309",
@@ -476,7 +483,7 @@
           "settings": {
             "icon": "headphone",
             "heading": "A+ Customer Service",
-            "text": "<p>24-Hour Online Customer Service.<\/p>",
+            "text": "<p>24-Hour Online Customer Service.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#0369a1",
@@ -492,7 +499,7 @@
           "settings": {
             "icon": "chat_bubble",
             "heading": "FAQ’s",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#be123c",
@@ -508,7 +515,7 @@
           "settings": {
             "icon": "none",
             "heading": "Information",
-            "text": "<p>Share contact information, store details, and brand content with your customers.<\/p>",
+            "text": "<p>Share contact information, store details, and brand content with your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#fafafa",
@@ -523,7 +530,7 @@
           "settings": {
             "icon": "phone",
             "heading": "Contact Us",
-            "text": "<ul><li><strong>Contact Email: <\/strong>support@jasionbike.com<\/li><li><strong>Contact Phone：<\/strong>(+1) 888-825-6366<\/li><\/ul>",
+            "text": "<ul><li><strong>Contact Email: </strong>support@jasionbike.com</li><li><strong>Contact Phone：</strong>(+1) 888-825-6366</li></ul>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle",
             "color_text": "#4d7c0f",
@@ -543,7 +550,7 @@
       ],
       "settings": {
         "heading": "Need help?",
-        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.<\/p>"
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
     "collage": {
@@ -552,7 +559,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -574,7 +581,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -596,7 +603,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": false,
@@ -618,7 +625,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline<\/em>",
+            "subheading": "<em>Tagline</em>",
             "heading": "Example heading",
             "link": "",
             "invert_subheading_heading": true,
@@ -651,7 +658,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
         "button_label": "View more",
         "button_link": "",
         "button_external": false,
@@ -680,7 +687,7 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Establishment_620x620_2b196d21-c2a5-419a-8d18-27649da0552d.png",
+            "img_1": "shopify://shop_images/Establishment_620x620_2b196d21-c2a5-419a-8d18-27649da0552d.png",
             "tab_con": "Establishment",
             "title": "Compact Power, Wild Soul.",
             "content": "Hunter Pro was born from a bold vision: to honor the legacy of the X-Hunter while pushing its limits in power and capability. Inspired by real rider feedback, we enhanced torque, range, control, and comfort—without losing the original spirit.\n\nWe kept the iconic fat-tire look and foldable frame, and integrating full suspension, upgraded hydraulic disc brakes, an oversized saddle, and a smart app system for a ride that’s powerful, smooth, and connected."
@@ -689,7 +696,7 @@
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Design_620x620_560c4508-a330-4fb8-8d4b-d2b7ed7700c3.png",
+            "img_1": "shopify://shop_images/Design_620x620_560c4508-a330-4fb8-8d4b-d2b7ed7700c3.png",
             "tab_con": "Design",
             "title": "",
             "content": "The Hunter Pro is built for control and confidence in every condition. Its aggressive 20x4\" fat tires offer superior grip and stability across varied terrain, while the upgraded hydraulic disc brakes provide reliable, all-weather stopping power in an instant. Whether you're riding through rain or dirt, this setup lets you rider harder while staying in complete control—no matter where the road takes you."
@@ -698,7 +705,7 @@
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Craftsmanship_620x620_f023e7e5-4489-49d7-ab12-1e53bd3aa193.png",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_f023e7e5-4489-49d7-ab12-1e53bd3aa193.png",
             "tab_con": "Craftsmanship",
             "title": "",
             "content": "The Hunter Pro retains the advanced dual suspension system of the X-Hunter, built around a durable four-link structure and a 180mm adjustable front fork. With Horst link pivots, it delivers lasting comfort and control across rough terrain—ensuring every ride feels smooth, stable, and ready for adventure."
@@ -707,7 +714,7 @@
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify:\/\/shop_images\/Finished_Product_620x620_d95e53c8-360e-44e1-951d-b4edf6301b4e.png",
+            "img_1": "shopify://shop_images/Finished_Product_620x620_d95e53c8-360e-44e1-951d-b4edf6301b4e.png",
             "tab_con": "Finished Product",
             "title": "",
             "content": "Hunter Pro isn’t just an upgrade—it’s a complete evolution. Combining powerful performance, extended range, and exceptional control, it delivers an exhilarating ride, all wrapped in a familiar, classic frame. Whether you're chasing high-speed thrills or forging new paths off-road, the Hunter Pro is your ultimate companion.\n\nHunter Pro — More than a ride. Feel the rush, own the ride."
@@ -744,6 +751,77 @@
         "rounded": false
       }
     },
+    "image_with_text_overlay_Br6nVq": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_aMh4iA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_WJ4qky": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_G4jjW7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aMh4iA",
+        "heading_WJ4qky",
+        "text_G4jjW7"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/1_acd9be27-6c75-46b8-8ccd-51377740a15a.jpg",
+        "image_height": "adapt",
+        "content_width": "small",
+        "content_position": "md:items-center md:justify-start",
+        "text_alignment": "center",
+        "image_mobile": "shopify://shop_images/1M.jpg",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-center justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
     "image_with_text_overlay_UyaqiW": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -769,7 +847,7 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Built with an 1800W peak motor, 48V 15Ah battery, and hydraulic brakes, Hunter Pro is ready for powerful and safe off-road adventures.<\/p>",
+            "text": "<p>Built with an 1800W peak motor, 48V 15Ah battery, and hydraulic brakes, Hunter Pro is ready for powerful and safe off-road adventures.</p>",
             "text_size": "subtext-md",
             "text_max_size": 16,
             "text_font": "body",
@@ -786,12 +864,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/1920_800_1dbb2efc-cd30-443c-a36c-3523dbfe3626.jpg",
+        "image": "shopify://shop_images/1920_800_1dbb2efc-cd30-443c-a36c-3523dbfe3626.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/390_320_0796d788-0f12-4889-b477-24db6456564a.jpg",
+        "image_mobile": "shopify://shop_images/390_320_0796d788-0f12-4889-b477-24db6456564a.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -818,7 +896,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>85Nm High Torque <br\/>Folding Fat Tire E-Bike<\/p><p><\/p>",
+            "heading": "<p>85Nm High Torque <br/>Folding Fat Tire E-Bike</p><p></p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "text",
@@ -828,7 +906,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.<\/p>",
+            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_color": "#000000",
@@ -842,7 +920,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter<\/span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -861,20 +939,20 @@
       "disabled": true,
       "settings": {
         "img_placeholder": true,
-        "image": "shopify:\/\/shop_images\/1920_800-3.jpg",
+        "image": "shopify://shop_images/1920_800-3.jpg",
         "image_height": "750px",
         "image_width": "medium",
         "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": true,
-        "image_mobile": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+        "image_mobile": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
         "image_height_mobile": "300px",
         "text_alignment_mobile": "left",
         "color_text": "#171717",
         "color_background": "rgba(0,0,0,0)",
-        "bg_img": "shopify:\/\/shop_images\/1920_800-3.jpg",
-        "bg_img_mb": "shopify:\/\/shop_images\/390_600.jpg",
+        "bg_img": "shopify://shop_images/1920_800-3.jpg",
+        "bg_img_mb": "shopify://shop_images/390_600.jpg",
         "gradient_background": "",
         "color_background_2": "rgba(0,0,0,0)",
         "gradient_background_2": "",
@@ -898,7 +976,7 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Limitless Journeys<\/p>",
+            "heading": "<p>Limitless Journeys</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -921,7 +999,7 @@
         "text_cHMnAd": {
           "type": "text",
           "settings": {
-            "text": "48V 15Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery<\/span>",
+            "text": "48V 15Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -939,8 +1017,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/电池1440-1.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电池1440-1.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -974,7 +1052,7 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Overwhelming Performance<\/p>",
+            "heading": "<p>Overwhelming Performance</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -997,7 +1075,7 @@
         "text_P7YzCp": {
           "type": "text",
           "settings": {
-            "text": "1800W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak<\/span>",
+            "text": "1800W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -1015,8 +1093,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/电机-1.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电机-1.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -1048,13 +1126,13 @@
       "type": "video",
       "settings": {
         "transparent_header": false,
-        "video": "shopify:\/\/files\/videos\/新X-hunter v4_40c09fe4-2fee-4792-92f7-0b42ab27e5f0.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/Hunter pro 高800.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "image_height": "adapt",
-        "video_mobile": "shopify:\/\/files\/videos\/新X-hunter 1080.mp4",
+        "video_mobile": "shopify://files/videos/Hunter pro 高800.mp4",
         "video_url_mobile": "",
         "image_height_mobile": "adapt",
         "padding_top": 60,
@@ -1070,7 +1148,7 @@
         "heading_r4mdLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Confident Stopping Power<\/p>",
+            "heading": "<p>Confident Stopping Power</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1080,7 +1158,7 @@
         "text_XLF8UP": {
           "type": "text",
           "settings": {
-            "text": "<p>The Hunter Pro’s hydraulic disc brakes provide confidence with instant, reliable stopping power in any weather. Engineered for precision control, these disc brakes allow users to ride harder while staying in complete control.<\/p>",
+            "text": "<p>The Hunter Pro’s hydraulic disc brakes provide confidence with instant, reliable stopping power in any weather. Engineered for precision control, these disc brakes allow users to ride harder while staying in complete control.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1097,8 +1175,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/hydraulic1440.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/hydraulic1440.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -1132,7 +1210,7 @@
         "heading_4mWDW7": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Comfort on Any Terrain<\/p>",
+            "heading": "<p>Comfort on Any Terrain</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1142,7 +1220,7 @@
         "text_7fT8T3": {
           "type": "text",
           "settings": {
-            "text": "<p>A full suspension system featuring a Horst-Link rear suspension and hydraulic front suspension effortlessly absorbs each bump and dip in the road. Experience buttery-smooth rides across rough roads and trails while riding in complete comfort, maintaining total control the entire way.<\/p>",
+            "text": "<p>A full suspension system featuring a Horst-Link rear suspension and hydraulic front suspension effortlessly absorbs each bump and dip in the road. Experience buttery-smooth rides across rough roads and trails while riding in complete comfort, maintaining total control the entire way.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1172,8 +1250,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify:\/\/shop_images\/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify:\/\/files\/videos\/背景蓝-减震1440.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/背景蓝-减震1440.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -1201,13 +1279,154 @@
         "parallax_direction": "vertical"
       }
     },
+    "image_with_text_overlay_NJm9gL": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_kyyDEw": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_Qg3iDY": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_8gjLXf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kyyDEw",
+        "heading_Qg3iDY",
+        "text_8gjLXf"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/1_23509141-c35a-4858-a138-025173ada91d.png",
+        "image_height": "adapt",
+        "content_width": "small",
+        "content_position": "md:items-center md:justify-start",
+        "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/2_fdb51e80-067c-4e5e-a07c-597bbef82a48.png",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-center justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image_with_text_overlay_ffkPjp": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_rqzQmR": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_aPBJk3": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Stylish Colors",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_3YxDz6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rqzQmR",
+        "heading_aPBJk3",
+        "text_3YxDz6"
+      ],
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/GIF_60f35dd5-104c-4988-95e0-96000a07566b.gif",
+        "image_height": "adapt",
+        "content_width": "medium",
+        "content_position": "md:items-start md:justify-center",
+        "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/2.webp",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-start justify-center",
+        "text_alignment_mobile": "center",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
     "multicolumn_slide_hb_GKkqHc": {
       "type": "multicolumn-slide-hb",
       "blocks": {
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_9ab7406a-b356-46c7-a933-19fc1a06857e.jpg",
+            "img": "shopify://shop_images/460x460_9ab7406a-b356-46c7-a933-19fc1a06857e.jpg",
             "date": "",
             "title": "20\" x 4\" Puncture-Resistant Tires",
             "title_sz": "h4",
@@ -1218,18 +1437,18 @@
         "item_bbFPRL": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/APP_460x460_e90fd5dd-8b44-41ae-96dc-8595db3ae78f.jpg",
+            "img": "shopify://shop_images/APP_460x460_e90fd5dd-8b44-41ae-96dc-8595db3ae78f.jpg",
             "date": "",
-            "title": "Foldable Electric Bike",
+            "title": "Smart Control, Smarter Ride",
             "title_sz": "h4",
-            "content": "This e-bike fits easily into compact spaces like apartments, subways, or car trunk, making it perfect for camping and short trips.",
+            "content": "Monitor your battery, track rides, customize settings, and plan routes all from your phone. Stay connected for a smoother ride.",
             "author": "RVdaydream"
           }
         },
         "item_BEWmqD": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_1a53228c-544d-4455-8acc-f5673b41a48a.jpg",
+            "img": "shopify://shop_images/460x460_1a53228c-544d-4455-8acc-f5673b41a48a.jpg",
             "date": "",
             "title": "Shimano 7-Speed",
             "title_sz": "h4",
@@ -1240,44 +1459,44 @@
         "item_efmfGR": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_3dbeb931-f5bb-4018-b295-af1669774c23.jpg",
+            "img": "shopify://shop_images/460x460_3dbeb931-f5bb-4018-b295-af1669774c23.jpg",
             "date": "",
             "title": "Headlight&Taillight",
             "title_sz": "h4",
-            "content": "The LED headlight illuminates your path, while the integrated tail light flashes when braking, serving as a nighttime signal.",
+            "content": "Integrated turning signals and stopping signals make every lane change, stop, and turn crystal clear, whether during the day or night.",
             "author": "RVdaydream"
           }
         },
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_96fd8bb9-9377-4a3a-baaa-e024c8f4b48a.jpg",
+            "img": "shopify://shop_images/460x460_96fd8bb9-9377-4a3a-baaa-e024c8f4b48a.jpg",
             "date": "",
-            "title": "Dual Shock Saddle",
+            "title": "Enhanced Saddle Comfort",
             "title_sz": "h4",
-            "content": "The X-Hunter saddle features dual shock absorption, measuring 11\" L x 10\" W x 3.15\" H, ensuring a smooth ride.",
+            "content": "The Hunter Pro’s premium oversized saddle cradles you in ergonomic support, dramatically reducing fatigue on long rides.",
             "author": "RVdaydream"
           }
         },
         "item_ewmnnU": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_75a7591e-7c35-465f-9fe0-12c20e23f645.jpg",
+            "img": "shopify://shop_images/460x460_75a7591e-7c35-465f-9fe0-12c20e23f645.jpg",
             "date": "",
-            "title": "Your Long-range, Touring E-bike",
-            "title_sz": "h3",
-            "content": "6",
+            "title": "Carry More than Before",
+            "title_sz": "h4",
+            "content": "The Hunter Pro’s sturdy rear rack adds serious utility for every ride; whether it's hauling groceries, outdoor gear, or even an extra passenger.",
             "author": "RVdaydream"
           }
         },
         "item_Utejdt": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/460x460_995cfad4-3fc0-4d51-8488-b566f23666df.jpg",
-            "date": "Jun 29, 2024",
-            "title": "Your Long-range, Touring E-bike",
-            "title_sz": "h3",
-            "content": "The synergy of the customized motor and torque sensor ensures optimal efficiency, enabling an impressive 80-mile range on a single charge. Enhanced by the Shimano 8-speed gear shift system, it tackles diverse terrains with ease. Start an ebike tour now!",
+            "img": "shopify://shop_images/460x460_995cfad4-3fc0-4d51-8488-b566f23666df.jpg",
+            "date": "",
+            "title": "Easy Storage & Portability",
+            "title_sz": "h4",
+            "content": "A compact, foldable design makes storage and transport effortless. Ideal for city living, travel, or tight spaces, the Hunter Pro has full-sized power that tucks away in seconds.",
             "author": "RVdaydream"
           }
         }
@@ -1320,76 +1539,6 @@
         "rounded": false
       }
     },
-    "image_with_text_overlay_ffkPjp": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_rqzQmR": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_aPBJk3": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Stylish Colors",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_3YxDz6": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_rqzQmR",
-        "heading_aPBJk3",
-        "text_3YxDz6"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/GIF_60f35dd5-104c-4988-95e0-96000a07566b.gif",
-        "image_height": "adapt",
-        "content_width": "medium",
-        "content_position": "md:items-start md:justify-center",
-        "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/390_142_1.jpg",
-        "image_height_mobile": "adapt",
-        "content_position_mobile": "items-start justify-center",
-        "text_alignment_mobile": "center",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
     "product_modal_popup_hb_exNHwH": {
       "type": "product-modal-popup-hb",
       "blocks": {
@@ -1402,7 +1551,7 @@
             "horizontal": 50,
             "vertical_mobile": 22,
             "horizontal_mobile": 17,
-            "modal_img": "shopify:\/\/shop_images\/test_1.png",
+            "modal_img": "shopify://shop_images/test_1.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1416,7 +1565,7 @@
             "horizontal": 37,
             "vertical_mobile": 50,
             "horizontal_mobile": 50,
-            "modal_img": "shopify:\/\/shop_images\/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
+            "modal_img": "shopify://shop_images/test_3_e6c0b476-0555-4add-a62d-53d42b49100d.png",
             "modal_title": "Selle Royal Saddle",
             "modal_content": "Long Rides Are Made Easy With Cushioned Comfort."
           }
@@ -1428,14 +1577,14 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
-        "image_mobile": "shopify:\/\/shop_images\/test.png",
+        "image": "shopify://shop_images/test_311e598a-8549-410a-b440-07d4d5d2ac38.png",
+        "image_mobile": "shopify://shop_images/test.png",
         "heading": "Details you’ll fall in love with",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Every detail has been carefully crafted to captivate<\/p>",
+        "description": "<p>Every detail has been carefully crafted to captivate</p>",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -1460,7 +1609,7 @@
           "type": "img_list",
           "settings": {
             "order_title": "Geometry",
-            "img": "shopify:\/\/shop_images\/X-Hunter_PRO_600_400_89e79a0f-8dcb-40fa-bf0b-6edfa5c4169b.jpg",
+            "img": "shopify://shop_images/X-Hunter_PRO_600_400_89e79a0f-8dcb-40fa-bf0b-6edfa5c4169b.jpg",
             "img_w": 40,
             "list": "|SIZE (inch)|One Size\nA|Handlebar Length|27.5''\nB|Seat tube length|4.7''\nC|Chainstay|16.9''\nD|Ground Clearance|5.9''\nE|Wheelbase|44''\nF|Total Length|67''\nG|Wheel Diameter|23.2''\nH|Handlebar Height from Floor|46''\nI|Minimum Seat Height from Floor|30''\nJ|Maximum Seat Height from Floor|37''\nK|Folded Size|39.8*25.6*31.5",
             "item_justify": "tw-justify-between",
@@ -1473,7 +1622,7 @@
           "settings": {
             "order_title": "Specifications",
             "img_w": 50,
-            "list": "|Motor|1800W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 80 Miles\n|Battery |48V 15Ah\n|Controller |48V \/ 15A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'2'' - 6'3''\n|Pedal Assist|0-5 Level\n|Weight|82 Lbs\n|Max Payload|400 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "list": "|Motor|1800W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 80 Miles\n|Battery |48V 15Ah\n|Controller |48V / 15A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'2'' - 6'3''\n|Pedal Assist|0-5 Level\n|Weight|82 Lbs\n|Max Payload|400 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
             "item_justify": "tw-justify-left",
             "list_border": false,
             "list_col": "2"
@@ -1484,7 +1633,7 @@
           "disabled": true,
           "settings": {
             "order_title": "What's In The Box (img)",
-            "img": "shopify:\/\/shop_images\/Valentine_s-Day1.png",
+            "img": "shopify://shop_images/Valentine_s-Day1.png",
             "img_w": 50,
             "list": "",
             "item_justify": "tw-justify-between",
@@ -1499,14 +1648,14 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify:\/\/shop_images\/HINTERT_PRO_500x500_1503a96b-d1db-4be4-b10a-d6676cfe34ed.png",
-            "img_2": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-7_9b29a304-8a5c-4096-8dac-4e78b8696edd.png",
-            "img_3": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-6_633f7cf0-57bc-499c-b1f0-1db74a74ae8d.png",
-            "img_4": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-5_0c233d87-6d27-4f19-8d58-44657cb1c9a0.png",
-            "img_5": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-4_c9839404-e2ed-44a3-b8c6-dc81b662a1bd.png",
-            "img_6": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-3_60540043-454c-44ba-a1d4-dedc74168d40.png",
-            "img_7": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-2_b8916dd8-f606-4dc2-a828-ac59b84ee4d0.png",
-            "img_8": "shopify:\/\/shop_images\/HINTERT_PRO_500x500-1_7db41c22-85db-40f5-8bb3-60a20370664c.png"
+            "img_1": "shopify://shop_images/HINTERT_PRO_500x500_1503a96b-d1db-4be4-b10a-d6676cfe34ed.png",
+            "img_2": "shopify://shop_images/HINTERT_PRO_500x500-7_9b29a304-8a5c-4096-8dac-4e78b8696edd.png",
+            "img_3": "shopify://shop_images/HINTERT_PRO_500x500-6_633f7cf0-57bc-499c-b1f0-1db74a74ae8d.png",
+            "img_4": "shopify://shop_images/HINTERT_PRO_500x500-5_0c233d87-6d27-4f19-8d58-44657cb1c9a0.png",
+            "img_5": "shopify://shop_images/HINTERT_PRO_500x500-4_c9839404-e2ed-44a3-b8c6-dc81b662a1bd.png",
+            "img_6": "shopify://shop_images/HINTERT_PRO_500x500-3_60540043-454c-44ba-a1d4-dedc74168d40.png",
+            "img_7": "shopify://shop_images/HINTERT_PRO_500x500-2_b8916dd8-f606-4dc2-a828-ac59b84ee4d0.png",
+            "img_8": "shopify://shop_images/HINTERT_PRO_500x500-1_7db41c22-85db-40f5-8bb3-60a20370664c.png"
           }
         }
       },
@@ -1547,7 +1696,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1556,7 +1705,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1565,7 +1714,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1574,7 +1723,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1583,7 +1732,7 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1592,7 +1741,7 @@
           "type": "contact",
           "settings": {
             "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us<\/p>",
+            "text": "<p>Don't hestitate to contact us</p>",
             "show_phone": false,
             "avatar_height": 60,
             "highlighted_text": "none",
@@ -1616,7 +1765,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs<\/a> page to find out more.<\/p>",
+        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
@@ -1708,9 +1857,11 @@
       "type": "apps",
       "blocks": {
         "judge_me_reviews_review_widget_jVwnwq": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
             "max_width": 1200
           }
         }
@@ -1741,7 +1892,7 @@
           "type": "question",
           "settings": {
             "title": "1. What's your shipping policy?",
-            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<\/p><p>We provide UPS, USPS, and FedEx shipping services.  We DO NOT ship to PO BOXES.<\/p><p>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<\/p><p>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.<\/p><p>Want to know more about shipping policies, please check more details on our <a href=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\" title=\"https:\/\/www.jasionbike.com\/pages\/shipping-policy\">Shipping Policy Page<\/a>.<\/p>",
+            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.</p><p>We provide UPS, USPS, and FedEx shipping services.  We DO NOT ship to PO BOXES.</p><p>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.</p><p>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1750,7 +1901,7 @@
           "type": "question",
           "settings": {
             "title": "2. What's your warranty policy?",
-            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and\/or workmanship( all free accessories are not covered).<br\/><br\/>We will replace any component that is defective or damaged in materials and\/or workmanship( including the damage in the processing of shipment).<br\/><br\/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com<\/strong>.<\/p><p>Want to know more about warranty policies, please check more details on our <a href=\"\/pages\/warranty\" title=\"Warranty\">Warranty Policy Page<\/a>.<\/p>",
+            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1759,7 +1910,7 @@
           "type": "question",
           "settings": {
             "title": "3. What's your return&refund policy?",
-            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.<\/p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.<\/p><p>You can always contact us for any return questions at <strong>support@jasionbike.com<\/strong>.<\/p>",
+            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1767,8 +1918,8 @@
         "question_8w3AJM": {
           "type": "question",
           "settings": {
-            "title": "4. Does my height suit X-Hunter?",
-            "text": "<p>The recommended rider height is 5'3\" to 6'4\".<\/p>",
+            "title": "4. Does my height suit Hunter Pro?",
+            "text": "<p>The recommended rider height is 5'2\" to 6'3\".</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1777,7 +1928,7 @@
           "type": "question",
           "settings": {
             "title": "5. How long does it take to fully charge the battery?",
-            "text": "<p>It will take 5-7 hours.<\/p>",
+            "text": "<p>It will take 7-8 hours.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1786,7 +1937,7 @@
           "type": "question",
           "settings": {
             "title": "6. How long will it take for my shipment to arrive?",
-            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.<\/p>",
+            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1795,7 +1946,7 @@
           "type": "question",
           "settings": {
             "title": "7. Does my Jasion ebike come pre-assembled?",
-            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https:\/\/www.youtube.com\/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=i0LcsKoZaXU\">YouTube Channel<\/a>.<\/p>",
+            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\">YouTube Channel</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1804,7 +1955,7 @@
           "type": "question",
           "settings": {
             "title": "8. What is the maximum speed of each PAS level?",
-            "text": "<p>PAS1 Top speed 16mph<\/p><p>PAS2 Top speed 18mph<\/p><p>PAS3 Top speed 20mph<\/p><p>PAS4 Top speed 23mph<\/p><p>PAS5 Top speed 30+mph<\/p>",
+            "text": "<p>PAS1 Top speed 16mph</p><p>PAS2 Top speed 18mph</p><p>PAS3 Top speed 20mph</p><p>PAS4 Top speed 23mph</p><p>PAS5 Top speed 30+mph</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1859,6 +2010,7 @@
     "help-drawer",
     "collage",
     "large_header_slider_NDH3Xx",
+    "image_with_text_overlay_Br6nVq",
     "image_with_text_overlay_UyaqiW",
     "image-with-text-1",
     "image_with_text_mFYwAt",
@@ -1866,8 +2018,9 @@
     "video_BjHb7i",
     "image_with_text_WTx6NX",
     "image_with_text_G7VzRF",
-    "multicolumn_slide_hb_GKkqHc",
+    "image_with_text_overlay_NJm9gL",
     "image_with_text_overlay_ffkPjp",
+    "multicolumn_slide_hb_GKkqHc",
     "product_modal_popup_hb_exNHwH",
     "specifications_parameters_hb_84CbEA",
     "faq",

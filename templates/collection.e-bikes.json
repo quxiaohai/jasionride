@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_hb_yY3zhc": {
@@ -6,8 +15,8 @@
         "image_AJgPLH": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x400.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/460x630.jpg",
+            "image": "shopify://shop_images/1920x400.jpg",
+            "image_mobile": "shopify://shop_images/460x630.jpg",
             "heading": "Electric Bikes",
             "heading_size": "title-sm",
             "heading_tag": "h2",
@@ -93,7 +102,7 @@
       "settings": {
         "transparent_header": true,
         "show_image": true,
-        "image": "shopify:\/\/shop_images\/image_5d216882-44d5-47f0-b7fa-60ae1aad1a6b.jpg",
+        "image": "shopify://shop_images/image_5d216882-44d5-47f0-b7fa-60ae1aad1a6b.jpg",
         "image_height": "adapt",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
@@ -120,9 +129,9 @@
           "settings": {
             "position": 6,
             "column_size": "1",
-            "image": "shopify:\/\/shop_images\/460x630_89212206-f669-42c9-8e01-04fe788a66bf.jpg",
+            "image": "shopify://shop_images/460x630_89212206-f669-42c9-8e01-04fe788a66bf.jpg",
             "heading": "Combo Sale",
-            "content": "<p>Start a wonderful journey with family and friends！<\/p>",
+            "content": "<p>Start a wonderful journey with family and friends！</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "secondary",
@@ -139,21 +148,78 @@
             "color_overlay": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "page_navigation_aKxjVd": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": " Electric Bikes",
+            "button_url": "shopify://collections/electric-bike"
+          }
+        },
+        "page_navigation_jV7Uer": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Combo Sale",
+            "button_url": "shopify://collections/combo-sale"
+          }
+        },
+        "page_navigation_77R4gj": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Folding Ebike",
+            "button_url": "shopify://collections/folding-ebike"
+          }
+        },
+        "page_navigation_6kyD6P": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Fat Tire Ebike",
+            "button_url": "shopify://collections/fat-tire-ebike"
+          }
+        },
+        "page_navigation_iPpPjp": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Cruiser Ebike",
+            "button_url": "shopify://collections/cruiser-ebike"
+          }
+        },
+        "page_navigation_X8TMRr": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Step Over Electric Bike",
+            "button_url": "shopify://collections/step-over-electric-bikes"
+          }
+        },
+        "page_navigation_pjbkpB": {
+          "type": "page_navigation",
+          "settings": {
+            "button_label": "Step Through Ebikes",
+            "button_url": "shopify://collections/step-through-ebikes"
+          }
         }
       },
       "block_order": [
-        "promotion"
+        "promotion",
+        "page_navigation_aKxjVd",
+        "page_navigation_jV7Uer",
+        "page_navigation_77R4gj",
+        "page_navigation_6kyD6P",
+        "page_navigation_iPpPjp",
+        "page_navigation_X8TMRr",
+        "page_navigation_pjbkpB"
       ],
       "settings": {
+        "layout": "1",
         "products_per_page": 50,
         "columns": 3,
         "columns_mobile": "1",
         "pagination": "paginated",
         "enable_specs": true,
         "specs_limit": "4",
-        "enable_filtering": false,
+        "enable_filtering": true,
         "filter_collapsed": false,
-        "filter_type": "drawer",
+        "filter_type": "sidebar",
         "filter_color_swatches": false,
         "enable_sorting": false,
         "padding_top": 40,

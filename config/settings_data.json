@@ -1,9 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo_1.webp",
+    "logo": "shopify://shop_images/logo_1.webp",
     "white_logo": "",
     "logo_width": 180,
-    "logo_mobile": "",
+    "logo_mobile": "shopify://shop_images/1_e5c28f09-cbe6-4101-9db3-4a94422506bd.png",
     "white_logo_mobile": "",
     "logo_width_mobile": 110,
     "favicon": "",
@@ -78,7 +87,7 @@
     "card_shadow_horizontal_offset": 0,
     "card_shadow_vertical_offset": 0,
     "currency_code_enabled": false,
-    "swatch_config": "Black+Black:Black_Black.jpg\nBlack+Blue:Black_Blue.jpg\nGrey+Grey:Grey_Grey.jpg\nWhite+White:White_White.jpg\nBlack+Grey:Black_Grey.jpg\nBlack+Blue:Black_Blue.jpg\nGrey+Blue:Grey_Blue.jpg\nWhite+Grey:White_Grey.jpg\nWhite+Blue:White_Blue.jpg\nBlack+White:Black_White.jpg\nBlack:Black.jpg\nWhite:White.jpg\nBlue:Storm_Blue.png\nGrey:Grey.jpg\nBeast Brown:Beast_Brown.png\nStorm Blue:Storm_Blue.png\nPhantom Black:Phantom_Black.png\nPhantom Purple:Phantom_Purple.png\nThunder Gray:Thunder_Gray.png\nAlpine Blue:Alpine_Blue.png",
+    "swatch_config": "Black+Black:Black_2.png\nBlue+Blue:Blue_2.png\nGrey+Grey:Grey_2.png\nWhite+White:White_2.png\nBlack+Grey:Black_Grey.png\nBlack+Blue:X-hunter9.png\nGrey+Blue:Grey_Blue.png\nWhite+Grey:White_Grey.png\nWhite+Blue:White_Blue.png\nBlack+White:Black_White.png\nPhantom Black+Beast Brown:Phantom_Black_Beast_Brown.png\nPhantom Black+Phantom Black:Phantom_Black_Phantom_Black.png\nStorm Blue+Storm Blue:Storm_Blue_Storm_Blue.png\nBeast Brown+Beast Brown:Beast_Brown_Beast_Brown.png\nPhantom Black+Storm Blue:Phantom_Black_Storm_Blue.png\nStorm Blue+Beast Brown:Storm_Blue_Beast_Brown.png\nBlack:Black.jpg\nWhite:White.jpg\nBlue:Storm_Blue.png\nGrey:Grey.jpg\nBeast Brown:Beast_Brown.png\nStorm Blue:Storm_Blue.png\nPhantom Black:Phantom_Black.png\nPhantom Purple:Phantom_Purple.png\nThunder Gray:Thunder_Gray.png\nAlpine Blue:Alpine_Blue.png\nShadow Steel:Shadow_Steel.jpg\nVenom Green:Venom_Green.jpg\nVenom Green+Shadow Steel:Venom_Green_Shadow_Steel.jpg\nShadow Steel+Shadow Steel:Shadow_Steel_Shadow_Steel.jpg\nVenom Green+Venom Green:Venom_Green_Venom_Green.jpg\nBlack+Green:EB74.png\nWhite +Green:EB75.png\nGreen+Black:EB5_R21.png\nGreen+Green:EB5_R31.png\nBlue+Black:EB5_R41.png\nBlue+Green:EB5_R61.png\nWhite+Pale Green:EB5_T1.png\nPale Green+Pale Green:EB5_T3.png\nGreen:EB5_RD2.png\nPale Green:EB5_RD5.png",
     "swatch_image_tooltip": true,
     "product_image_ratio": "landscape",
     "product_image_fill": false,
@@ -104,11 +113,11 @@
     "predictive_search_show_price": true,
     "typewriter_effect_enabled": false,
     "typewriter_starter_text": "",
-    "social_facebook_link": "https:\/\/www.facebook.com\/jasionbike",
-    "social_twitter_link": "https:\/\/x.com\/jasionbike",
-    "social_instagram_link": "https:\/\/www.instagram.com\/jasionbike\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@JasionBike",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@jasionbike_official",
+    "social_facebook_link": "https://www.facebook.com/groups/321883149636188/",
+    "social_twitter_link": "https://x.com/jasionbike",
+    "social_instagram_link": "https://www.instagram.com/jasionbike/",
+    "social_youtube_link": "https://www.youtube.com/@JasionBike",
+    "social_tiktok_link": "https://www.tiktok.com/@jasionbike_official",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -164,14 +173,14 @@
     "content_for_index": [],
     "blocks": {
       "10605408327587305396": {
-        "type": "shopify:\/\/apps\/eg-auto-add-to-cart\/blocks\/app-embed\/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "type": "shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
         "disabled": false,
         "settings": {
           "version": "v3"
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
       }

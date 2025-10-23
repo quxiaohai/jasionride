@@ -14824,15 +14824,13 @@ video-media:not([playing]) .deferred-poster .play-button .icon:last-child:not(:o
     }
   }
 }
-.hide-scroll-bar::-webkit-scrollbar {
-    width: 0 !important;
-    display: none;
-}
-.scrolling {
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-}
+
 .shopify-bike-main {
+    .hide-scroll-bar::-webkit-scrollbar {
+        width: 0 !important;
+        display: none;
+    }
+
     p {
         line-height: inherit;
         color: inherit;
