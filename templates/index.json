@@ -882,7 +882,7 @@
         "show_comments": false,
         "show_author": false,
         "show_excerpt": true,
-        "heading": "Blog posts",
+        "heading": "Blogs",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",

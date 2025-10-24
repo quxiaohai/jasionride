@@ -459,11 +459,13 @@
           "type": "video",
           "settings": {
             "video_url": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
+            "cover_image": "shopify://shop_images/hqdefault.png",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
             "video_url_mobile": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
+            "cover_image_mobile": "shopify://shop_images/hqdefault.png",
             "image_height_mobile": "auto",
             "date": "2025/5/5",
             "title": "How The Jasion YR20 Is Changing E-Bikes Forever",
@@ -1479,6 +1481,38 @@
         "rounded": false
       }
     },
+    "17609511540a8c9b42": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_PEw3FM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_PEw3FM"
+      ],
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "faq_LAqHrA": {
       "type": "faq",
       "blocks": {
@@ -1593,38 +1627,6 @@
         "padding_bottom": 68,
         "divider": false,
         "narrow": false,
-        "rounded": false
-      }
-    },
-    "17609511540a8c9b42": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_PEw3FM": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_PEw3FM"
-      ],
-      "settings": {
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
         "rounded": false
       }
     },

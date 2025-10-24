@@ -50,13 +50,19 @@
           "settings": {
             "heading": "Compatible Accessories",
             "gift_list": [
+              "jasion-ebike-rack-pannier-bag",
               "extra-one-year-warranty",
+              "copy-of-jasion®-bicycle-universal-mirrors",
               "fenders-for-jasion-eb7"
             ],
             "product_list": [
+              "eb5-roamer-battery-pack",
               "universal-bicycle-combination-lock",
-              "mountain-cycling-helmet",
-              "urban-ebike-helmet"
+              "e-bike-phone-mount-holder",
+              "copy-of-jasion®bike-rack-pannier-bag",
+              "jasion-bicycle-universal-mirrors",
+              "jasion-ebike®-rear-basket-copy",
+              "jasion-ebike®-front-basket-copy"
             ]
           }
         },
@@ -135,7 +141,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Spooky Good Deals<br>\n⚡Lowest Prices Ever On YR20<br>\n⚡ Up to $1500 OFF<br>\n⚡ Extra 1-Year Warranty<br>\n✅ Fast U.S. Delivery · 14-Day Returns<br>\n✅ Trusted by Thousands of Riders<br>\nLimited time – Bigger savings than ever!"
+            "liquid": "Spooky Good Deals<br>\n⚡Lowest Price EVER!<br>\n⚡$2234 In Total Saving +Extra 1-Year Warranty<br>\n⚡Get 2 Free Gifts with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -209,7 +215,7 @@
         "table_4CpLLg": {
           "type": "table",
           "settings": {
-            "list": "Motor|2000W Brushless Hub Motor\nFork|Dual Suspension\nBrake|Dual Hydraulic Brakes\nShift Lever|Shimano 7 Speed\nThrottle|Twist Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|120 Nm\nTop Speed|32 Mph\nRange| Up To 80 Miles\nCharging Time|5-7 Hours\nBattery|48V 20Ah\nController|48V 20A\nTires|20 x 4'' Fat Tire\nRider Height|5'5 - 6'7''\nWeight|87 Lbs\nMax Payload|330 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| NO"
+            "list": "Motor|1200W Brushless Hub Motor\nFork|Suspension Front Fork\nBrake|Mechanical Disc Brake\nShift Lever|Shimano 7 Speed\nThrottle|Thumb Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|60 Nm\nTop Speed|28 Mph\nRange| Up To 62 Miles\nCharging Time|4-5 Hours\nBattery|48V 11Ah\nController|48V 11A\nTires|26 x 1.95'' Fat Tire\nRider Height|5'2 - 6'6''\nWeight|65 Lbs\nMax Payload|330 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| No"
           }
         },
         "img_rmqdEK": {
@@ -322,100 +328,6 @@
       "settings": {
         "heading": "Need help?",
         "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
-      }
-    },
-    "multicolumn_slide_hb_QEk8x8": {
-      "type": "multicolumn-slide-hb",
-      "blocks": {
-        "video_CdhUFd": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
-            "image_height_mobile": "auto",
-            "date": "2025/5/9",
-            "title": "JASION YR20 Electric Bike Review 36 MPH 1000W FULL SUSPENSION",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_8.jpg",
-            "author": "HeroesNStuff"
-          }
-        },
-        "video_h66XiD": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=gUNE023zvyk",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=gUNE023zvyk",
-            "image_height_mobile": "auto",
-            "date": "2025/5/2",
-            "title": "Jasion YR20 - Full Review - \"Your First Performance Beast\"",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_10.jpg",
-            "author": "Horizontal Capacity"
-          }
-        },
-        "video_yttwFr": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
-            "cover_image": "shopify://shop_images/hqdefault.png",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
-            "cover_image_mobile": "shopify://shop_images/hqdefault.png",
-            "image_height_mobile": "auto",
-            "date": "2025/5/5",
-            "title": "How The Jasion YR20 Is Changing E-Bikes Forever",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_9.jpg",
-            "author": "EASYHEIMER"
-          }
-        }
-      },
-      "block_order": [
-        "video_CdhUFd",
-        "video_h66XiD",
-        "video_yttwFr"
-      ],
-      "settings": {
-        "pw-overflow-hidden": true,
-        "columns": 3,
-        "carousel_on_desktop": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Community Reviews",
-        "heading_size": "title-sm",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "#171717",
-        "color_button_gradient": "",
-        "padding_top": 68,
-        "padding_bottom": 68,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
       }
     },
     "collage": {
@@ -546,43 +458,154 @@
         "enable_parallax": true
       }
     },
+    "multicolumn_slide_hb_QEk8x8": {
+      "type": "multicolumn-slide-hb",
+      "blocks": {
+        "video_ddPNFB": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=lQj5bcSygpU",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=lQj5bcSygpU",
+            "image_height_mobile": "auto",
+            "date": "2024/5/20",
+            "title": "Super Commuter Deal for $839! 28MPH Class 3 Speed Throttle",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/unnamed_2.jpg",
+            "author": "EbikeProducts"
+          }
+        },
+        "video_CdhUFd": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=p47G0LQvapY&list=PLPWkwjbN02QR_6zijzE2Ofu52Zz94xHj1&index=6",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=p47G0LQvapY&list=PLPWkwjbN02QR_6zijzE2Ofu52Zz94xHj1&index=6",
+            "image_height_mobile": "auto",
+            "date": "2024/4/11",
+            "title": "EB5 Roamer Electric Bike Unbox & Assembly",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/unnamed_1_1d58cd35-5107-4f51-9dd4-624b4db45d2a.jpg",
+            "author": "RVdaydream"
+          }
+        },
+        "video_h66XiD": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=gV80oBqu-r8",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=gV80oBqu-r8",
+            "image_height_mobile": "auto",
+            "date": "2024/6/27",
+            "title": "The Ultimate Urban Electric Bike!",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_70ed092b-c777-4b8d-adb5-790281d420a3.jpg",
+            "author": "Steeezy Filmz"
+          }
+        },
+        "video_nAJUWq": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=hONYyg5nNzk&list=PLPWkwjbN02QR_6zijzE2Ofu52Zz94xHj1&index=3",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=hONYyg5nNzk&list=PLPWkwjbN02QR_6zijzE2Ofu52Zz94xHj1&index=3",
+            "image_height_mobile": "auto",
+            "date": "2024/8/1",
+            "title": "2024 Most Affordable E-Bike | The Choice for Urban Commuting",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_1.jpg",
+            "author": "Shopping with Amy"
+          }
+        }
+      },
+      "block_order": [
+        "video_ddPNFB",
+        "video_CdhUFd",
+        "video_h66XiD",
+        "video_nAJUWq"
+      ],
+      "settings": {
+        "pw-overflow-hidden": true,
+        "columns": 3,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Community Reviews",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "#171717",
+        "color_button_gradient": "",
+        "padding_top": 68,
+        "padding_bottom": 68,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "large_header_slider_NDH3Xx": {
       "type": "large-header-slider-hb",
       "blocks": {
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Establishment_620x620_c404ad70-e82f-4f40-a051-d990f536c09b.jpg",
+            "img_1": "shopify://shop_images/Establishment_620x620_21866ca7-3698-4640-95ba-ecf114f1da84.png",
             "tab_con": "Establishment",
-            "title": "Your First Performance Beast",
-            "content": "At YR20's launch, our mission was clear: deliver a high-performance electric bike for extreme terrains at a competitive price. YR20 isn’t just transportation—it’s a performance beast designed for speed and pushing limits."
+            "title": "EB5 Preferred City Commuter",
+            "content": "The EB5 Roamer series returns to our roots, celebrating our tradition of expertise in urban commuting. With its advanced lighting configuration and breakthrough features, it heralds a new era of safe and convenient urban travel."
           }
         },
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Design_620x620_cdb791ed-1adf-48b0-b1e5-375dbb2673b1.jpg",
+            "img_1": "shopify://shop_images/Design_620x620_90be5000-36eb-4b2a-88c2-0e4ba27566b4.png",
             "tab_con": "Design",
-            "title": "",
-            "content": "The YR20’s dual suspension system, with a front fork and rear shock absorbers, works with 20\" × 4\" fat tires to absorb bumps and impacts, delivering a smooth, stable ride on any terrain."
+            "title": "Design",
+            "content": "The EB5 Roamer series is innovative in both style and function, seamlessly integrating aesthetics and utility through its unique lighting setup (including turn signals, brake lights, rear tail lights, and front headlights). Its lighting system is designed for high performance, enhancing visibility and safety during night rides, ensuring seamless navigation in urban environments."
           }
         },
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Craftsmanship_620x620_9aaa89a3-8823-4fb7-8f77-36f7063bf342.jpg",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_97741c57-73ae-45b8-a142-3d9dc3cd3f8c.png",
             "tab_con": "Craftsmanship",
-            "title": "",
-            "content": "To further enhance the riding experience, the YR20 features an extended, thickened ergonomic saddle that conforms to the body's natural contours, effectively reducing fatigue and ensuring long-distance comfort."
+            "title": "Craftsmanship",
+            "content": "The EB5 Roamer series is meticulously crafted, with attention to detail and precision, reflecting our unwavering commitment to quality and innovation. Every component is rigorously designed to deliver a bicycle that not only meets but exceeds the expectations of urban commuters."
           }
         },
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Finished_Product_620x620_ba54218c-101a-4e16-a2f1-a7e51563b6fc.jpg",
+            "img_1": "shopify://shop_images/Finished_Product_540x540_96aaa830-03e1-4970-9bce-5f33ef843fb4.jpg",
             "tab_con": "Finished Product",
-            "title": "",
-            "content": "The YR20 launches with powerful performance, long-range capability, and a comfortable ride. With a top speed of 32 mph and a range of up to 80 miles, you'll reach your destination at your own pace. More than just an electric bike, it’s the perfect companion for cycling enthusiasts to explore the world."
+            "title": "Finished Product",
+            "content": "The EB5 Roamer series represents the pinnacle of excellent urban commuting. With its cutting-edge features and stylish design, it seamlessly integrates safety, convenience, and performance. Ride confidently and elegantly with the EB5 Roamer series, rediscovering the essence of urban commuting in an unparalleled way."
           }
         },
         "item_Y4Ak7p": {
@@ -631,7 +654,7 @@
         "heading_qQDR7p": {
           "type": "heading",
           "settings": {
-            "heading": "2000W Brushless Hub Motor\nDual Hydraulic Disc Brake",
+            "heading": "Take Your Commutes To \nThe Next Level",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -641,8 +664,8 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Born to Perform. With a 2000W motor and precision dual hydraulic disc brakes, it’s not just your first ride — it’s your first <em>performance beast</em>.<br/><br/></p>",
-            "text_size": "subtext-md",
+            "text": "<p>The Great Value City Commuter Step-Through E-Bike.<br/><br/></p>",
+            "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_font": "body",
             "secondary_color": false,
@@ -658,12 +681,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify://shop_images/1920_800_0a62b3ed-7718-42a9-810f-eb1d6b44d588.jpg",
+        "image": "shopify://shop_images/1920_800_a4ee8ee0-6862-4fdd-8a6b-519e47297262.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/390_320_b3998ccb-c252-469f-aa8c-64aecb7ac0e0.jpg",
+        "image_mobile": "shopify://shop_images/390_600.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -712,8 +735,9 @@
         },
         "text_BbLhqQ": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -769,7 +793,7 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>No Destination is Out of Reach</p>",
+            "heading": "<p>1200W Brushless Hub Motor</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -779,7 +803,7 @@
         "text_rA7CmC": {
           "type": "text",
           "settings": {
-            "text": "The Jasion YR20 boasts a 1000W (peak 2000W) brushless hub motor, hitting 32 MPH and tackling 30° inclines effortlessly. Perfect for city rides or off-road trails, it combines power, smooth acceleration, and precise control with a sine-wave motor and 5-speed gear system.",
+            "text": "Powered by a 1200W motor with up to 60Nm torque in just 2 seconds at gear 5, it accelerates swiftly for climbing steep slopes. The sine wave controller ensures smooth, quiet operation with flexible 5-level speed adjustment for a comfortable, personalized ride.",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -792,7 +816,7 @@
         "text_P7YzCp": {
           "type": "text",
           "settings": {
-            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
+            "text": "1200W<span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -810,7 +834,7 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify://files/videos/电机-1_ca04341a-e3ab-4513-aaa2-83d49aaefe67.mp4",
+        "video": "shopify://files/videos/电机-1_6db20b32-b730-4662-afcd-380d3c0be108.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -829,7 +853,7 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 120,
+        "padding_top": 68,
         "padding_bottom": 32,
         "divider": false,
         "full_width": false,
@@ -844,7 +868,7 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>80-Mile Range on a Single Charge</p>",
+            "heading": "<p>Safety Meets Convenience</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -854,7 +878,7 @@
         "text_Lg8THC": {
           "type": "text",
           "settings": {
-            "text": "The YR20 is powered by Samsung SDI’s 21750 lithium-ion cells, offering a 48V20A battery with 35% more capacity and 20% higher energy density than 18650 cells. With an IPX-6 waterproof rating and removable design, it combines durability and convenience.",
+            "text": "Powered by  SDI's advanced 18650 cells (48V 11A), this spring-loaded, quick-release battery is IPX6 waterproof and internationally certified for flame and explosion resistance—ensuring safe, easy charging or replacement on the go.",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -867,7 +891,7 @@
         "text_cHMnAd": {
           "type": "text",
           "settings": {
-            "text": "48V 20Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
+            "text": "48V 11Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -885,7 +909,7 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify://files/videos/电池_bf87a942-b9b7-4e29-ab75-5bcb359701a8.mp4",
+        "video": "shopify://files/videos/电池1440-1_7293233e-0f95-4aa8-ad81-37900109d59a.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -905,7 +929,7 @@
         "color_button_background": "",
         "color_button_gradient": "",
         "padding_top": 32,
-        "padding_bottom": 60,
+        "padding_bottom": 68,
         "divider": false,
         "full_width": false,
         "rounded": false,
@@ -915,94 +939,21 @@
     },
     "video_BjHb7i": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "transparent_header": false,
-        "video": "shopify://files/videos/新X-hunter v4_40c09fe4-2fee-4792-92f7-0b42ab27e5f0.mp4",
+        "video": "shopify://files/videos/EB5 Roamer v2.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "image_height": "adapt",
-        "video_mobile": "shopify://files/videos/新X-hunter 1080.mp4",
         "video_url_mobile": "",
-        "image_height_mobile": "adapt",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "image_height_mobile": "auto",
+        "padding_top": 68,
+        "padding_bottom": 68,
         "divider": false,
         "full_width": true,
         "rounded": false
-      }
-    },
-    "image_with_text_overlay_VkgVNU": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_jwmQmY": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_9tyKh3": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text overlay",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_p8f8Pp": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_jwmQmY",
-        "heading_9tyKh3",
-        "text_p8f8Pp"
-      ],
-      "name": "t:sections.image-with-text-overlay.presets.name",
-      "settings": {
-        "transparent_header": false,
-        "image": "shopify://shop_images/YR20-1.png",
-        "image_height": "adapt",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/YR20-2.png",
-        "image_height_mobile": "adapt",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
       }
     },
     "image_with_text_WTx6NX": {
@@ -1011,7 +962,7 @@
         "heading_r4mdLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Conquer Rough Terrain with Dual Suspension</p>",
+            "heading": "<p>Ride with Confidence, <br/>Rain or Shine</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1021,7 +972,7 @@
         "text_XLF8UP": {
           "type": "text",
           "settings": {
-            "text": "<p>The YR20 features advanced front fork and rear shock absorbers, paired with a dual suspension system and 20” × 4” wide tires. This setup absorbs shocks and vibrations, supports up to 330 lbs, and ensures a smooth, safe ride on any terrain.</p>",
+            "text": "<p>The EB5 Roamer features a comprehensive lighting system, including front and rear lights, brake lights, and Jasion’s exclusive left and right turn signals—rare in other e-bikes. Easily activated via handlebar controls, the turn signals remain functional even when other lights are off, ensuring consistent safety throughout your ride.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1038,8 +989,7 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify://files/videos/减震-黑色背景_b84eb56d-fdde-466a-8f00-4ea15c3a2ce5.mp4",
+        "video": "shopify://files/videos/EB5(2).mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -1058,8 +1008,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 60,
-        "padding_bottom": 32,
+        "padding_top": 32,
+        "padding_bottom": 68,
         "divider": false,
         "full_width": false,
         "rounded": false,
@@ -1073,7 +1023,7 @@
         "heading_4mWDW7": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Build For The Wild - Dual Hydraulic Brakes<br/></p>",
+            "heading": "<p>Adjustable Suspension,<br/>Comfort Every Mile.</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1083,7 +1033,7 @@
         "text_7fT8T3": {
           "type": "text",
           "settings": {
-            "text": "<p>Front and rear hydraulic disc brakes, paired with 180mm rotors, are designed to handle tough terrain and uneven paths, providing excellent braking power over short distances.</p>",
+            "text": "<p>The front fork features 80mm of travel for effective shock absorption and is built from durable materials. It offers manual adjustment between lockout and active modes to suit varying road conditions.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1113,8 +1063,8 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify://files/videos/刹车黑色背景_de8b44d4-1c39-4e4c-8357-1aefd9bcf5a8.mp4",
+        "image": "shopify://shop_images/image_1_70fbde07-d656-44cf-af8f-7d9d14d43c0f.jpg",
+        "video": "shopify://files/videos/EB5.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -1145,59 +1095,80 @@
     "multicolumn_slide_hb_GKkqHc": {
       "type": "multicolumn-slide-hb",
       "blocks": {
-        "item_97kqG3": {
+        "item_efmfGR": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Shimano_7_460x460_9b3e87c9-dc1d-4e04-8135-f67e5478bfde.jpg",
+            "img": "shopify://shop_images/460x460_e338d532-5264-407b-9988-d8343c781b89.jpg",
             "date": "",
-            "title": "Shimano 7-Speed",
+            "title": "Headlight&Taillight",
             "title_sz": "h4",
-            "content": "Enjoy smooth shifting with a Shimano 7-Speed gear shifter and effortless control with the intuitive hand-twist throttle.",
+            "content": "Powerful lighting system with integrated LED headlight, brake tail light, and left/right turn signals, designed to keep you visible and safe in every direction.",
             "author": "RVdaydream"
           }
         },
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_71460ce4-98d7-4bcd-b288-473dde39765c.jpg",
+            "img": "shopify://shop_images/460x460_ce2091a5-047f-4d37-8fd3-1bb970e82394.jpg",
             "date": "",
-            "title": "20\" x 4\" Puncture-Resistant Tires",
+            "title": "Reflective Spoke Strips",
             "title_sz": "h4",
-            "content": "The 20\" x 4\" puncture-resistant fat tires are built to tackle any terrain with ease, making adventure effortless.",
+            "content": "Front and rear puncture-resistant tires with reflective hubs keep you visible and safe, even at night.",
             "author": "RVdaydream"
           }
         },
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_aaf8e5d9-b303-475b-a3e0-4cb8b356332d.jpg",
+            "img": "shopify://shop_images/460x460_2f9ece32-ab0a-4d03-9ff3-22dd55924bf8.jpg",
             "date": "",
-            "title": "4+1 Riding Modes",
+            "title": "Front Fork Suspension",
             "title_sz": "h4",
-            "content": "Our YR20 offers 5 riding modes, so you can choose the one that best fits your needs for any ride.",
+            "content": "Featuring an 80mm front suspension fork with manually adjustable stiffness, it ensures a comfortable ride across diverse road conditions.",
+            "author": "RVdaydream"
+          }
+        },
+        "item_97kqG3": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/Shimano_7_460x460_25e98a5f-e0b3-4677-8767-fbc08df0794c.jpg",
+            "date": "",
+            "title": "Shimano 7-speed",
+            "title_sz": "h4",
+            "content": "The Shimano 7-speed lets you shift gears effortlessly, while the thumb throttle offers precise control over speed through accurate power modulation",
             "author": "RVdaydream"
           }
         },
         "item_BEWmqD": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img": "shopify://shop_images/460x460_063751ab-be77-4cc2-b20a-840a9be0ff63.jpg",
+            "img": "shopify://shop_images/460x460_69c68626-d42c-4d81-9500-e6c5234e3f52.jpg",
             "date": "",
-            "title": "Shimano 7-Speed",
+            "title": "Lighting & Speed Control",
             "title_sz": "h4",
-            "content": "Enjoy smooth shifting with a Shimano 7-Speed gear shifter and effortless control with the intuitive hand-twist throttle.",
+            "content": "The left handlebar houses a durable electronic control system that lets you adjust assist levels (1–5) and operate the lights, horn, and turn signals.",
             "author": "RVdaydream"
           }
         },
         "item_HLcweJ": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_2acf4d2b-e719-49de-9a9a-54794fac1703.jpg",
+            "img": "shopify://shop_images/460x460_f25c8178-f17b-42ea-936e-05ec881fa491.jpg",
             "date": "",
-            "title": "Powerful Lighting Setup",
+            "title": "Chain Guard",
             "title_sz": "h4",
-            "content": "Stay visible and safe with a front light, turn signal lights, and a brake light, ensuring full visibility during any ride.",
+            "content": "The chain guard protects the chain from rain and mud, preventing dirt buildup, while also keeping your pants or skirt safe from chain oil stains.",
+            "author": "RVdaydream"
+          }
+        },
+        "item_bbFPRL": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/460x460_ce58b17f-2f95-424c-aaa3-38efcc7b4cc5.jpg",
+            "date": "",
+            "title": "Quick-Release Battery",
+            "title_sz": "h4",
+            "content": "The battery uses a spring-loaded quick-release design for easy removal and fast installation, with a sealed structure for enhanced durability.",
             "author": "RVdaydream"
           }
         },
@@ -1212,41 +1183,17 @@
             "content": "6",
             "author": "RVdaydream"
           }
-        },
-        "item_efmfGR": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/460x460-6_5f574159-c83d-496a-9405-eeb68722f051.jpg",
-            "date": "",
-            "title": "Headlight&Taillight",
-            "title_sz": "h4",
-            "content": "The LED headlight illuminates your path, while the integrated tail light flashes when braking, serving as a nighttime signal.",
-            "author": "RVdaydream"
-          }
-        },
-        "item_bbFPRL": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "img": "shopify://shop_images/460x460-3_dd9879bb-0fef-4899-a50b-6c7eb70319ac.jpg",
-            "date": "",
-            "title": "Foldable Electric Bike",
-            "title_sz": "h4",
-            "content": "This e-bike fits easily into compact spaces like apartments, subways, or car trunk, making it perfect for camping and short trips.",
-            "author": "RVdaydream"
-          }
         }
       },
       "block_order": [
-        "item_97kqG3",
+        "item_efmfGR",
         "item_UQU9h3",
         "item_EN6kyG",
+        "item_97kqG3",
         "item_BEWmqD",
         "item_HLcweJ",
-        "item_ewmnnU",
-        "item_efmfGR",
-        "item_bbFPRL"
+        "item_bbFPRL",
+        "item_ewmnnU"
       ],
       "settings": {
         "pw-overflow-hidden": true,
@@ -1291,8 +1238,9 @@
         },
         "heading_aPBJk3": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "",
+            "heading": "Stylish Colors",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1320,12 +1268,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify://shop_images/3_1920_600_8600cf84-3251-4030-bb44-86e3b2d93080.jpg",
+        "image": "shopify://shop_images/1920_600_b448ab1f-67bc-4ef6-9663-0da6a5c20331.jpg",
         "image_height": "adapt",
         "content_width": "medium",
         "content_position": "md:items-start md:justify-center",
         "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/3_390_320.jpg",
+        "image_mobile": "shopify://shop_images/390_320_a5db2fef-dfe6-48f8-9c86-e8160426e255.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-start justify-center",
         "text_alignment_mobile": "center",
@@ -1415,10 +1363,10 @@
         "img_list_tUDfBK": {
           "type": "img_list",
           "settings": {
-            "order_title": "Geometry",
-            "img": "shopify://shop_images/R20_600_400.jpg",
+            "order_title": "EB5 Roamer Geometry",
+            "img": "shopify://shop_images/97cada8e95366dbbab7b7158c1e6b440_87ff3c5d-e7bd-4272-8be5-a56e201b8397.jpg",
             "img_w": 40,
-            "list": "SIZE (inch)|One Size\nA|Seat Tube 17.7''\nB|Chainstay 18.3''\nC|Effective Top Tube 25.6''\nD|Head Tube 6.3''\nE|Handlebar Height 45.3''\nF|Handlebar Length 26.8''\nG|Maximun Seat Height 33.5''\nH|Wheelbase 42.7''\nI|Wheel Diameter 22.8''\nJ|Total Length 66.5''",
+            "list": "|SIZE (inch)|One Size\nA|Total Length|66.9''\nB|Handlebar Height|44''\nC|Wheelbase|40''\nD|Seat Tube Length|10''\nE|Max Seat Height|37.5''\nG|Chainstay|18''\nH|Top Tube Length|23.6''\nI|Head Tube Length|3.9''\nJ|Handlebar Length|25.6''\nK|Wheel Diameter|25.6''",
             "item_justify": "tw-justify-between",
             "list_border": true,
             "list_col": "2"
@@ -1429,7 +1377,7 @@
           "settings": {
             "order_title": "Specifications",
             "img_w": 50,
-            "list": "|Motor|2000W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 3.0 A\n|Range |Up To 80 Miles\n|Battery |48V 20Ah\n|Controller |48V / 20A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'5'' - 6'7''\n|Pedal Assist|0-5 Level\n|Weight|87 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "list": "|Motor|1200W Brushless Hub Motor\n|Throttle |Thumb Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 62 Miles\n|Battery |48V 11Ah\n|Controller |48V / 11A\n|Tires|26'' x 1.95'' Fat Tire\n|Rider Heught|5'2'' - 6'6''\n|Pedal Assist|0-5 Level\n|Weight|65 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Left and Right Turn Signal & Brake Lights\n|Suspension|With Locking and Adjustment",
             "item_justify": "tw-justify-left",
             "list_border": false,
             "list_col": "2"
@@ -1455,13 +1403,14 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify://shop_images/R20_500x500_5182fb7d-f16e-4aef-86ab-13b86ecace6c.jpg",
-            "img_2": "shopify://shop_images/R20_500x500-6.jpg",
-            "img_3": "shopify://shop_images/R20_500x500-5.jpg",
-            "img_4": "shopify://shop_images/R20_500x500-4.jpg",
-            "img_5": "shopify://shop_images/R20_500x500-3.jpg",
-            "img_6": "shopify://shop_images/R20_500x500-2.jpg",
-            "img_7": "shopify://shop_images/R20_500x500-1.jpg"
+            "img_1": "shopify://shop_images/EB5_ROAMER_500x500_dcec0f8b-2d21-4cc3-8982-6e34232837b3.png",
+            "img_2": "shopify://shop_images/EB5_ROAMER_500x500-7.png",
+            "img_3": "shopify://shop_images/EB5_ROAMER_500x500-6.png",
+            "img_4": "shopify://shop_images/EB5_ROAMER_500x500-5.png",
+            "img_5": "shopify://shop_images/EB5_ROAMER_500x500-4.png",
+            "img_6": "shopify://shop_images/EB5_ROAMER_500x500-3.png",
+            "img_7": "shopify://shop_images/EB5_ROAMER_500x500-2.png",
+            "img_8": "shopify://shop_images/EB5_ROAMER_500x500-1.png"
           }
         }
       },
@@ -1472,7 +1421,7 @@
         "package_FmwCMD"
       ],
       "settings": {
-        "heading": "Specs & Geometry",
+        "heading": "<strong>Specs & Geometry</strong>",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h1",
@@ -1495,14 +1444,120 @@
         "rounded": false
       }
     },
+    "specifications_parameters_hb_iUFwCc": {
+      "type": "specifications-parameters-hb",
+      "blocks": {
+        "img_list_KYiFkA": {
+          "type": "img_list",
+          "settings": {
+            "order_title": "EB5 Roamer ST Geometry",
+            "img": "shopify://shop_images/EB5_Roamer_ST_600_400_701c2f23-c553-426b-9e0f-292a7218f409.jpg",
+            "img_w": 40,
+            "list": "|SIZE (inch)|One Size\nA|Total Length|66.9''\nB|Handlebar Height|44''\nC|Wheelbase|40''\nD|Seat Tube Length|10''\nE|Max Seat Height|32.2''\nG|Chainstay|18''\nH|Top Tube Length|23.6''\nI|Head Tube Length|3.9''\nJ|Handlebar Length|25.6''\nK|Wheel Diameter|25.6''",
+            "item_justify": "tw-justify-between",
+            "list_border": true,
+            "list_col": "2"
+          }
+        },
+        "img_list_mrwEWX": {
+          "type": "img_list",
+          "settings": {
+            "order_title": "Specifications",
+            "img_w": 50,
+            "list": "|Motor|1200W Brushless Hub Motor\n|Throttle |Thumb Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 62 Miles\n|Battery |48V 11Ah\n|Controller |48V / 11A\n|Tires|26'' x 1.95'' Fat Tire\n|Rider Heught|5'2'' - 6'6''\n|Pedal Assist|0-5 Level\n|Weight|65 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Left and Right Turn Signal & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "item_justify": "tw-justify-start",
+            "list_border": false,
+            "list_col": "2"
+          }
+        },
+        "package_mHhgMU": {
+          "type": "package",
+          "settings": {
+            "order_title": "What's In The Box？",
+            "cols": "8",
+            "cols_mb": "3",
+            "use_text": true,
+            "img_1": "shopify://shop_images/EB5_ROAMER_ST_500x500_7042b488-6c4b-4a48-8dc4-864f75bfad65.png",
+            "img_2": "shopify://shop_images/EB5_ROAMER_ST_500x500-7.png",
+            "img_3": "shopify://shop_images/EB5_ROAMER_ST_500x500-6.png",
+            "img_4": "shopify://shop_images/EB5_ROAMER_ST_500x500-5.png",
+            "img_5": "shopify://shop_images/EB5_ROAMER_ST_500x500-4.png",
+            "img_6": "shopify://shop_images/EB5_ROAMER_ST_500x500-3.png",
+            "img_7": "shopify://shop_images/EB5_ROAMER_ST_500x500-1.png",
+            "img_8": "shopify://shop_images/EB5_ROAMER_ST_500x500-2_3abc8c9a-6478-4dac-adc2-f25863d94247.png"
+          }
+        }
+      },
+      "block_order": [
+        "img_list_KYiFkA",
+        "img_list_mrwEWX",
+        "package_mHhgMU"
+      ],
+      "name": "Spec & Par (hb)",
+      "settings": {
+        "heading": "<strong>Specs & Geometry</strong>",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h1",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 68,
+        "padding_bottom": 68,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "1760952812cd20c118": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_dxgFNR": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_dxgFNR"
+      ],
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "faq_LAqHrA": {
       "type": "faq",
       "blocks": {
         "question_VkiK8E": {
           "type": "question",
           "settings": {
-            "title": "1. What's your shipping policy?",
-            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<br/><br/>We provide UPS, USPS, and FedEx shipping services. No tax is needed. We DO NOT ship to PO BOXES.<br/><br/>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<br/><br/>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page.</a></p>",
+            "title": "1. First-of-Its-Kind Turn Signals Designed",
+            "text": "<p>The EB5 Roamer boasts a powerful lighting configuration that includes left and right turn signals, brake lights, rear taillights, and front headlights. These high-performance lights ensure enhanced visibility and safety during nighttime rides, allowing you to navigate your surroundings with ease. Jasion's exclusive design of the left and right turn signals distinguishes it from other electric bikes on the market, marking a pioneering achievement. With the simple flick of a switch on the handlebars, you can signal your intentions to people behind you, further safeguarding your commuting experience. Even when the lighting system is inactive, the left and right turn signals can still remain illuminated, providing an added layer of awareness and protection throughout your journey.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1510,8 +1565,8 @@
         "question_WydWCH": {
           "type": "question",
           "settings": {
-            "title": "2. What's your warranty policy?",
-            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
+            "title": "2. EB5 Roamer Features",
+            "text": "<p>The EB5 Roamer features a robust lighting system, comprising left and right turn signals, brake lights, rear taillights, and front headlights, ensuring your safety during urban commuting. With an 1100W high-power motor and 60 Nm torque, the EB5 Roamer reaches speeds of up to 28 miles per hour, covering an impressive range of 50 miles, making it perfect for commuting. Plus, with its fast charging technology, the battery can be fully charged in just 4-5 hours. You can conveniently start charging the battery when you return home after your daily commute. By the time you finish dinner and prepare for bed, the battery is fully charged and ready for your next adventure.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1519,8 +1574,8 @@
         "question_RxbMnX": {
           "type": "question",
           "settings": {
-            "title": "3. What's your return&refund policy?",
-            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about return and refound policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/return-refund-policy\" title=\"https://www.jasionbike.com/pages/return-refund-policy\">Return&Refund Policy Page</a>. </p>",
+            "title": "3. EB5 Roamer New Configuration",
+            "text": "<p>Unlike the EB7 and X-Hunter, the EB5 Roamer prioritizes urban commuting. Its newly added left and right turn signals are tailored for city commuting scenarios, while the upgraded quick-release battery design allows you to effortlessly remove the battery with a simple turn of the key. The redesigned side keyhole position eliminates the need to bend down to find the keyhole. The EB5 Roamer is Jasion's first model equipped with 26\" x 1.95\" puncture-resistant tires, with a maximum load capacity of 400 pounds. Its unique fast-charging technology makes it the first Jasion product to fully charge in just 4-5 hours. With an 1100W high-power motor, the EB5 Roamer reaches speeds of up to 28 miles per hour, boasting a range of 50 miles, making urban commuting a breeze! Positioned between the EB7 and X-Hunter in terms of performance, the EB5 Roamer fills a gap in the Jasion product lineup, offering you more purchasing options.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1528,8 +1583,8 @@
         "question_8w3AJM": {
           "type": "question",
           "settings": {
-            "title": "4.Does my height suit YR20?",
-            "text": "<p>The recommended rider height is 5'5\" to 6'7\".</p>",
+            "title": "4. What's your shipping policy?",
+            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<br/><br/>We provide UPS, USPS, and FedEx shipping services. We DO NOT ship to PO BOXES.<br/><br/>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<br/><br/>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page.</a></p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1537,26 +1592,8 @@
         "question_dADpwD": {
           "type": "question",
           "settings": {
-            "title": "5. How long does it take to fully charge the battery?",
-            "text": "<p>It will take 5-7 hours.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_qtF3Vm": {
-          "type": "question",
-          "settings": {
-            "title": "6. How long will it take for my shipment to arrive?",
-            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_gH97gL": {
-          "type": "question",
-          "settings": {
-            "title": "7. Does my Jasion ebike come pre-assembled?",
-            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\">YouTube Channel</a>.</p>",
+            "title": "5. What's your warranty policy?",
+            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1564,8 +1601,17 @@
         "question_jtpKXd": {
           "type": "question",
           "settings": {
-            "title": "8. What is the maximum speed of each PAS level?",
-            "text": "<ul><li>PAS1 Top speed 11mph</li><li>PAS2 Top speed 16mph</li><li>PAS3 Top speed 22mph</li><li>PAS4 Top speed 27mph</li><li>PAS5 Top speed 30+mph</li></ul>",
+            "title": "6. What's your return&refund policy?",
+            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about return and refound policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/return-refund-policy\" title=\"https://www.jasionbike.com/pages/return-refund-policy\">Return&Refund Policy Page</a>. </p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_qtF3Vm": {
+          "type": "question",
+          "settings": {
+            "title": "7. Does my height suit EB5 Roamer？",
+            "text": "<p>The recommended rider height is 5'2\"-6'6\".</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -1577,9 +1623,8 @@
         "question_RxbMnX",
         "question_8w3AJM",
         "question_dADpwD",
-        "question_qtF3Vm",
-        "question_gH97gL",
-        "question_jtpKXd"
+        "question_jtpKXd",
+        "question_qtF3Vm"
       ],
       "settings": {
         "style": "tw-default-faq",
@@ -1714,6 +1759,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_limit": 6,
         "columns": 4,
@@ -1780,21 +1826,22 @@
     "main-product",
     "drawer_content_hb_qzp8WX",
     "help-drawer",
-    "multicolumn_slide_hb_QEk8x8",
     "collage",
+    "multicolumn_slide_hb_QEk8x8",
     "large_header_slider_NDH3Xx",
     "image_with_text_overlay_UyaqiW",
     "image-with-text-1",
     "image_with_text_WTzzHX",
     "image_with_text_mFYwAt",
     "video_BjHb7i",
-    "image_with_text_overlay_VkgVNU",
     "image_with_text_WTx6NX",
     "image_with_text_G7VzRF",
     "multicolumn_slide_hb_GKkqHc",
     "image_with_text_overlay_ffkPjp",
     "product_modal_popup_hb_exNHwH",
     "specifications_parameters_hb_84CbEA",
+    "specifications_parameters_hb_iUFwCc",
+    "1760952812cd20c118",
     "faq_LAqHrA",
     "faq",
     "product-recommendations",

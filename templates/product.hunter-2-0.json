@@ -50,13 +50,19 @@
           "settings": {
             "heading": "Compatible Accessories",
             "gift_list": [
+              "jasion-ebike®-rear-basket",
+              "bag",
               "extra-one-year-warranty",
+              "copy-of-jasion®-bicycle-universal-mirrors",
               "fenders-for-jasion-eb7"
             ],
             "product_list": [
-              "universal-bicycle-combination-lock",
-              "mountain-cycling-helmet",
-              "urban-ebike-helmet"
+              "jasion-ebike®-front-basket-copy",
+              "jasion-ebike®-rear-basket-copy",
+              "bicycle-combination-lock",
+              "jasion-ebike®-x-hunter-battery-pack",
+              "jasion-ebike®-super-bright-wide-range-front-ebike-light-with-usb",
+              "e-bike-phone-mount-holder"
             ]
           }
         },
@@ -135,7 +141,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Spooky Good Deals<br>\n⚡Lowest Prices Ever On YR20<br>\n⚡ Up to $1500 OFF<br>\n⚡ Extra 1-Year Warranty<br>\n✅ Fast U.S. Delivery · 14-Day Returns<br>\n✅ Trusted by Thousands of Riders<br>\nLimited time – Bigger savings than ever!"
+            "liquid": "Why Combo?<br>\nBreak boundaries and express your style! This combo takes your ride to the next level — the powerful X-Hunter and high-performance EB7 2.0 deliver speed, stability, and pure freedom. Whether you’re exploring the city or the great outdoors, enjoy a smooth, thrilling ride that defines your individuality."
           }
         },
         "text_wt9CQN": {
@@ -189,6 +195,155 @@
         "rounded": false
       }
     },
+    "multicolumn_slide_hb_QEk8x8": {
+      "type": "multicolumn-slide-hb",
+      "blocks": {
+        "video_CdhUFd": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=Sa0JeRX-YfY&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=Sa0JeRX-YfY&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
+            "image_height_mobile": "auto",
+            "date": "2024/12/9",
+            "title": "NEWEST UPGRADED VERSION",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_bdeec757-9bbd-45b0-ba8d-54b59af8b6bc.jpg",
+            "author": "Papa`s Product Reviews"
+          }
+        },
+        "video_ddPNFB": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=95ultRMIpbo&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=27",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=95ultRMIpbo&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=27",
+            "image_height_mobile": "auto",
+            "date": "2024/2/11",
+            "title": "I CAN'T BELIEVE THIS EBIKE IS SO CHEAP! 1400W FOLDABLE JASION X-HUNTER EBIKE",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_4.jpg",
+            "author": "NRG SPORTS"
+          }
+        },
+        "video_h66XiD": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
+            "image_height_mobile": "auto",
+            "date": "2023/2/18",
+            "title": "EBIKE REVIEW - Jasion EB7 Foldable E-Bike - Under $900",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_2_7782c3df-73ee-46b0-af46-7399fb750385.jpg",
+            "author": "Our Everyday Getaway"
+          }
+        },
+        "video_nAJUWq": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=MSzZbfAp5lA&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "",
+            "image_height_mobile": "auto",
+            "date": "2024/9/25",
+            "title": "My Honest Review | Jasion X-Hunter Full Suspension eBike Review",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_2_7359d253-fac7-4023-9018-7c7a1c615e4a.jpg",
+            "author": "Eric Hernandez"
+          }
+        },
+        "video_4tbFaF": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=8o-6h9OUJ-o&t=405s",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "",
+            "image_height_mobile": "auto",
+            "date": "2025/1/4",
+            "title": "THIS FULL SUSPENSION E-BIKE IS INSANE | JASION X-HUNTER E-BIKE",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_7.jpg",
+            "author": "Kaos Riders"
+          }
+        },
+        "video_Ma77wA": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_yhKgb4bdTg",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "",
+            "image_height_mobile": "auto",
+            "date": "Jun 29, 2024",
+            "title": "Jasion X-Hunter Folding Fat Tire Dual Suspension eBike | I MADE IT GO FAST! | Assembly & Test Ride",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/unnamed_1_805d246c-093c-457e-a919-6c650d68163c.jpg",
+            "author": "Zophie Reviews"
+          }
+        }
+      },
+      "block_order": [
+        "video_CdhUFd",
+        "video_ddPNFB",
+        "video_h66XiD",
+        "video_nAJUWq",
+        "video_4tbFaF",
+        "video_Ma77wA"
+      ],
+      "settings": {
+        "pw-overflow-hidden": true,
+        "columns": 3,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Rider Reviews",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "#171717",
+        "color_button_gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "drawer_content_hb_qzp8WX": {
       "type": "drawer-content-hb",
       "blocks": {
@@ -209,7 +364,7 @@
         "table_4CpLLg": {
           "type": "table",
           "settings": {
-            "list": "Motor|2000W Brushless Hub Motor\nFork|Dual Suspension\nBrake|Dual Hydraulic Brakes\nShift Lever|Shimano 7 Speed\nThrottle|Twist Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|120 Nm\nTop Speed|32 Mph\nRange| Up To 80 Miles\nCharging Time|5-7 Hours\nBattery|48V 20Ah\nController|48V 20A\nTires|20 x 4'' Fat Tire\nRider Height|5'5 - 6'7''\nWeight|87 Lbs\nMax Payload|330 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| NO"
+            "list": "Motor|1400W Brushless Hub Motor\nFork|Suspension Front Fork\nBrake|Mechanical Disc Brake\nShift Lever|Shimano 7 Speed\nThrottle|Twist Throttle\nSebsor|Cadence Sensor\nPedal assist|0-5 Level\nTorque|85 Nm\nTop Speed|30+ Mph\nRange| Up To 70 Miles\nCharging Time|5-6 Hours\nBattery|48V 13Ah\nController|48V 13A\nTires|20 x 4'' Fat Tire\nRider Height|5'3 - 6'4''\nWeight|71 Lbs\nMax Payload|400 Lbs\nMode|PAS+Throttle\nDisplay|LCD Display\nFolding| Yes"
           }
         },
         "img_rmqdEK": {
@@ -322,100 +477,6 @@
       "settings": {
         "heading": "Need help?",
         "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
-      }
-    },
-    "multicolumn_slide_hb_QEk8x8": {
-      "type": "multicolumn-slide-hb",
-      "blocks": {
-        "video_CdhUFd": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=ssP6ZMhfIJg&t=455s",
-            "image_height_mobile": "auto",
-            "date": "2025/5/9",
-            "title": "JASION YR20 Electric Bike Review 36 MPH 1000W FULL SUSPENSION",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_8.jpg",
-            "author": "HeroesNStuff"
-          }
-        },
-        "video_h66XiD": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=gUNE023zvyk",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=gUNE023zvyk",
-            "image_height_mobile": "auto",
-            "date": "2025/5/2",
-            "title": "Jasion YR20 - Full Review - \"Your First Performance Beast\"",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_10.jpg",
-            "author": "Horizontal Capacity"
-          }
-        },
-        "video_yttwFr": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
-            "cover_image": "shopify://shop_images/hqdefault.png",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=DB-Lvc7ubl4",
-            "cover_image_mobile": "shopify://shop_images/hqdefault.png",
-            "image_height_mobile": "auto",
-            "date": "2025/5/5",
-            "title": "How The Jasion YR20 Is Changing E-Bikes Forever",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_9.jpg",
-            "author": "EASYHEIMER"
-          }
-        }
-      },
-      "block_order": [
-        "video_CdhUFd",
-        "video_h66XiD",
-        "video_yttwFr"
-      ],
-      "settings": {
-        "pw-overflow-hidden": true,
-        "columns": 3,
-        "carousel_on_desktop": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Community Reviews",
-        "heading_size": "title-sm",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "#171717",
-        "color_button_gradient": "",
-        "padding_top": 68,
-        "padding_bottom": 68,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
       }
     },
     "collage": {
@@ -552,37 +613,37 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Establishment_620x620_c404ad70-e82f-4f40-a051-d990f536c09b.jpg",
+            "img_1": "shopify://shop_images/Establishment_620x620_42fc3e3f-8e74-4d4a-a09d-392041e03a76.jpg",
             "tab_con": "Establishment",
-            "title": "Your First Performance Beast",
-            "content": "At YR20's launch, our mission was clear: deliver a high-performance electric bike for extreme terrains at a competitive price. YR20 isn’t just transportation—it’s a performance beast designed for speed and pushing limits."
+            "title": "Specially designed for off - road adventures.",
+            "content": "The adventurous off-road genes of jasionbike were born with X-Hunter, defining what a bicycle can achieve in adventure and off-roading. It symbolizes jasionbike's bold innovation. X-Hunter integrates sports and leisure, allowing consumers to adapt perfectly to any scene. It represents rugged durability and unparalleled performance, urging you to embark on new paths and embrace the thrill of the unknown."
           }
         },
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Design_620x620_cdb791ed-1adf-48b0-b1e5-375dbb2673b1.jpg",
+            "img_1": "shopify://shop_images/Design_620x620_f930de66-4bed-4bba-9263-0a2370732af7.jpg",
             "tab_con": "Design",
             "title": "",
-            "content": "The YR20’s dual suspension system, with a front fork and rear shock absorbers, works with 20\" × 4\" fat tires to absorb bumps and impacts, delivering a smooth, stable ride on any terrain."
+            "content": "X-Hunter’s wide tire design demonstrates our pursuit of e-bike performance and stability. The 20-inch x 4-inch wide tires not only provide a larger ground contact area and enhance traction, but also effectively improve driving stability. This means you can tackle any terrain with ease, whether it's rugged mountain roads, sand or snow, all while maintaining a stable driving experience. This design not only makes the X-Hunter an electric bicycle suitable for adventure, but also allows riders to enjoy the fun in the outdoor environment."
           }
         },
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Craftsmanship_620x620_9aaa89a3-8823-4fb7-8f77-36f7063bf342.jpg",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_bc18f829-8c6c-4938-a3ac-effd94e9a33a.jpg",
             "tab_con": "Craftsmanship",
             "title": "",
-            "content": "To further enhance the riding experience, the YR20 features an extended, thickened ergonomic saddle that conforms to the body's natural contours, effectively reducing fatigue and ensuring long-distance comfort."
+            "content": "From a technological perspective, X-Hunter is equipped with a four-link structure that drives the movement of the entire electric bicycle through a central four-link structure. Combined with the 180mm adjustable front fork suspension, X-Hunter implements a full suspension system, providing riders with excellent suspension performance. This full-suspension design uses Horst link pivots to provide long-lasting comfort for off-road adventures, allowing riders to enjoy a smooth ride over rough terrain and explore uncharted territory without being limited by terrain."
           }
         },
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Finished_Product_620x620_ba54218c-101a-4e16-a2f1-a7e51563b6fc.jpg",
+            "img_1": "shopify://shop_images/Finished_Product_620x620_03054ad8-7a28-48dc-bb0f-9bdf6ab4ec84.jpg",
             "tab_con": "Finished Product",
             "title": "",
-            "content": "The YR20 launches with powerful performance, long-range capability, and a comfortable ride. With a top speed of 32 mph and a range of up to 80 miles, you'll reach your destination at your own pace. More than just an electric bike, it’s the perfect companion for cycling enthusiasts to explore the world."
+            "content": "With X-Hunter, we redefine the essence of off-road adventure. It transcends mere transportation; it embodies bravery and exploration. Whether conquering rugged mountains or traversing dense forests, X-Hunter allows you to embrace the infinite possibilities of off-road exploration and redefine your adventure at every turn."
           }
         },
         "item_Y4Ak7p": {
@@ -631,7 +692,7 @@
         "heading_qQDR7p": {
           "type": "heading",
           "settings": {
-            "heading": "2000W Brushless Hub Motor\nDual Hydraulic Disc Brake",
+            "heading": "85 N·m High Torque\nFolding Fat Tire E-Bike",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -641,7 +702,7 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Born to Perform. With a 2000W motor and precision dual hydraulic disc brakes, it’s not just your first ride — it’s your first <em>performance beast</em>.<br/><br/></p>",
+            "text": "<p>The X-Hunter is more than just an electric bike; it's your adventure companion. Seamlessly blending ultimate performance and durability, it opens the door to a world of off-road adventure.</p>",
             "text_size": "subtext-md",
             "text_max_size": 16,
             "text_font": "body",
@@ -658,12 +719,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify://shop_images/1920_800_0a62b3ed-7718-42a9-810f-eb1d6b44d588.jpg",
+        "image": "shopify://shop_images/1920_800-3.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/390_320_b3998ccb-c252-469f-aa8c-64aecb7ac0e0.jpg",
+        "image_mobile": "shopify://shop_images/390_600.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -712,8 +773,9 @@
         },
         "text_BbLhqQ": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
+            "text": "50% <span style=\"font-size: 50%;\n    font-weight: normal;\">\nLighter</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -769,7 +831,7 @@
         "heading_NQN9Un": {
           "type": "heading",
           "settings": {
-            "heading": "<p>No Destination is Out of Reach</p>",
+            "heading": "<p>Power That Adapts</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -779,7 +841,7 @@
         "text_rA7CmC": {
           "type": "text",
           "settings": {
-            "text": "The Jasion YR20 boasts a 1000W (peak 2000W) brushless hub motor, hitting 32 MPH and tackling 30° inclines effortlessly. Perfect for city rides or off-road trails, it combines power, smooth acceleration, and precise control with a sine-wave motor and 5-speed gear system.",
+            "text": "With a 5-speed system, the motor delivers 85Nm of torque in just 2 seconds. Its sine-wave design ensures smooth and precise speed control across all gears, making it easy to handle any terrain—whether you're cruising through the city or tackling extreme weather.",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -792,7 +854,7 @@
         "text_P7YzCp": {
           "type": "text",
           "settings": {
-            "text": "2000W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
+            "text": "1400W <span style=\"font-size: 50%;\n    font-weight: normal;\">\nPeak</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -810,10 +872,11 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify://files/videos/电机-1_ca04341a-e3ab-4513-aaa2-83d49aaefe67.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电机-1.mp4",
         "image_height": "adapt",
         "image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": false,
@@ -844,7 +907,7 @@
         "heading_AwQUyV": {
           "type": "heading",
           "settings": {
-            "heading": "<p>80-Mile Range on a Single Charge</p>",
+            "heading": "<p>High Energy Density, 70-Mile Range</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -854,7 +917,7 @@
         "text_Lg8THC": {
           "type": "text",
           "settings": {
-            "text": "The YR20 is powered by Samsung SDI’s 21750 lithium-ion cells, offering a 48V20A battery with 35% more capacity and 20% higher energy density than 18650 cells. With an IPX-6 waterproof rating and removable design, it combines durability and convenience.",
+            "text": "Powered by advanced 21750 cells (48V13A), the battery offers 35% more capacity and 20% higher energy density than traditional 18650 cells. The quick-release, sealed design is IPX-6 waterproof and supports easy, removable charging.",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -867,7 +930,7 @@
         "text_cHMnAd": {
           "type": "text",
           "settings": {
-            "text": "48V 20Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
+            "text": "48V 13Ah <span style=\"font-size: 50%;\n    font-weight: normal;\">\nBattery</span>",
             "text_size": "subtext-custom",
             "text_max_size": 48,
             "text_color": "#ee4d19",
@@ -885,10 +948,11 @@
       ],
       "settings": {
         "img_placeholder": false,
-        "video": "shopify://files/videos/电池_bf87a942-b9b7-4e29-ab75-5bcb359701a8.mp4",
+        "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
+        "video": "shopify://files/videos/电池1440-1.mp4",
         "image_height": "adapt",
         "image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "img_placeholder_mb": false,
@@ -915,7 +979,6 @@
     },
     "video_BjHb7i": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "transparent_header": false,
         "video": "shopify://files/videos/新X-hunter v4_40c09fe4-2fee-4792-92f7-0b42ab27e5f0.mp4",
@@ -934,84 +997,13 @@
         "rounded": false
       }
     },
-    "image_with_text_overlay_VkgVNU": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_jwmQmY": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_9tyKh3": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text overlay",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_p8f8Pp": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_jwmQmY",
-        "heading_9tyKh3",
-        "text_p8f8Pp"
-      ],
-      "name": "t:sections.image-with-text-overlay.presets.name",
-      "settings": {
-        "transparent_header": false,
-        "image": "shopify://shop_images/YR20-1.png",
-        "image_height": "adapt",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/YR20-2.png",
-        "image_height_mobile": "adapt",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
     "image_with_text_WTx6NX": {
       "type": "image-with-text",
       "blocks": {
         "heading_r4mdLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Conquer Rough Terrain with Dual Suspension</p>",
+            "heading": "<p>Smooth Riding Experience</p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1021,7 +1013,7 @@
         "text_XLF8UP": {
           "type": "text",
           "settings": {
-            "text": "<p>The YR20 features advanced front fork and rear shock absorbers, paired with a dual suspension system and 20” × 4” wide tires. This setup absorbs shocks and vibrations, supports up to 330 lbs, and ensures a smooth, safe ride on any terrain.</p>",
+            "text": "<p>X-Hunter features a manually adjustable front fork and four-link suspension system for enhanced shock absorption and load distribution. With a maximum capacity of 330 lbs, it ensures a smooth, stable ride across snow, rough roads, and mountain trails.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1039,7 +1031,7 @@
       "settings": {
         "img_placeholder": false,
         "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify://files/videos/减震-黑色背景_b84eb56d-fdde-466a-8f00-4ea15c3a2ce5.mp4",
+        "video": "shopify://files/videos/X-Hunter-1.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
@@ -1073,7 +1065,7 @@
         "heading_4mWDW7": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Build For The Wild - Dual Hydraulic Brakes<br/></p>",
+            "heading": "<p>Quick Release, Space Saving<br/></p>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1083,7 +1075,7 @@
         "text_7fT8T3": {
           "type": "text",
           "settings": {
-            "text": "<p>Front and rear hydraulic disc brakes, paired with 180mm rotors, are designed to handle tough terrain and uneven paths, providing excellent braking power over short distances.</p>",
+            "text": "<p>Jasion Bike’s advanced multi-stage quick-disassembly design allows for tool-free, fast breakdown of components—ideal for easy transport and storage.</p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_color": "#000000",
@@ -1114,7 +1106,7 @@
       "settings": {
         "img_placeholder": false,
         "image": "shopify://shop_images/test_9a8633cf-0112-4544-9247-0470405725da.webp",
-        "video": "shopify://files/videos/刹车黑色背景_de8b44d4-1c39-4e4c-8357-1aefd9bcf5a8.mp4",
+        "video": "shopify://files/videos/X-Hunter-2.mp4",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "image_first",
@@ -1142,62 +1134,132 @@
         "parallax_direction": "vertical"
       }
     },
+    "image_with_text_overlay_dijRbq": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_xDXLBg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_znqPe7": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_NzDiTi": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xDXLBg",
+        "heading_znqPe7",
+        "text_NzDiTi"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/lQLPJx2LNL0pJQvNBRTNCJiwsg7MwG1LxdgI0c4aA26EAA_2200_1300.png",
+        "image_height": "adapt",
+        "content_width": "small",
+        "content_position": "md:items-start md:justify-center",
+        "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/lQLPJyDP8O5apQvNBFrNBLCwxTzN2F2YNWII0c4aA26EAQ_1200_1114.png",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-start justify-center",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
     "multicolumn_slide_hb_GKkqHc": {
       "type": "multicolumn-slide-hb",
       "blocks": {
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Shimano_7_460x460_9b3e87c9-dc1d-4e04-8135-f67e5478bfde.jpg",
+            "img": "shopify://shop_images/460x460_62bd0120-4bec-4d3d-922d-d2ea1d1d11b0.jpg",
             "date": "",
-            "title": "Shimano 7-Speed",
+            "title": "Dual Shock Saddle",
             "title_sz": "h4",
-            "content": "Enjoy smooth shifting with a Shimano 7-Speed gear shifter and effortless control with the intuitive hand-twist throttle.",
+            "content": "The X-Hunter saddle features dual shock absorption, measuring 11\" L x 10\" W x 3.15\" H, ensuring a smooth ride.",
             "author": "RVdaydream"
           }
         },
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_71460ce4-98d7-4bcd-b288-473dde39765c.jpg",
+            "img": "shopify://shop_images/460x460-2_123bdb12-6a3e-458f-90d8-99bba21abbeb.jpg",
             "date": "",
             "title": "20\" x 4\" Puncture-Resistant Tires",
             "title_sz": "h4",
-            "content": "The 20\" x 4\" puncture-resistant fat tires are built to tackle any terrain with ease, making adventure effortless.",
+            "content": "The high-quality fat tires provide extra protection against punctures from thorns, glass, and other small materials.",
             "author": "RVdaydream"
           }
         },
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_aaf8e5d9-b303-475b-a3e0-4cb8b356332d.jpg",
+            "img": "shopify://shop_images/460x460-4_2ce2d97a-cc1f-4886-8c82-e17169f4f1bf.jpg",
             "date": "",
-            "title": "4+1 Riding Modes",
+            "title": "Full Supension System",
             "title_sz": "h4",
-            "content": "Our YR20 offers 5 riding modes, so you can choose the one that best fits your needs for any ride.",
+            "content": "Equipped with front fork and four-link suspension, it effectively absorbs most bumps and vibrations for a smooth ride.",
             "author": "RVdaydream"
           }
         },
         "item_BEWmqD": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img": "shopify://shop_images/460x460_063751ab-be77-4cc2-b20a-840a9be0ff63.jpg",
+            "img": "shopify://shop_images/460x460-1_9c8502a4-e56f-4871-bb2c-bca1e8159d4b.jpg",
             "date": "",
             "title": "Shimano 7-Speed",
             "title_sz": "h4",
-            "content": "Enjoy smooth shifting with a Shimano 7-Speed gear shifter and effortless control with the intuitive hand-twist throttle.",
+            "content": "The Shimano 7-speed gearbox offers seamless shifting, while the motorcycle-style hand-twist Throttle provides easy control.",
             "author": "RVdaydream"
           }
         },
         "item_HLcweJ": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_2acf4d2b-e719-49de-9a9a-54794fac1703.jpg",
+            "img": "shopify://shop_images/460x460-5_b1c011e7-51ca-4257-ba0a-8323456fe059.jpg",
             "date": "",
-            "title": "Powerful Lighting Setup",
+            "title": "Dual Disc Brake System",
             "title_sz": "h4",
-            "content": "Stay visible and safe with a front light, turn signal lights, and a brake light, ensuring full visibility during any ride.",
+            "content": "The front and rear 160mm disc brakes provide precise stopping power and quick response whether in wet or dry conditions.",
             "author": "RVdaydream"
           }
         },
@@ -1215,7 +1277,6 @@
         },
         "item_efmfGR": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/460x460-6_5f574159-c83d-496a-9405-eeb68722f051.jpg",
             "date": "",
@@ -1227,7 +1288,6 @@
         },
         "item_bbFPRL": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "img": "shopify://shop_images/460x460-3_dd9879bb-0fef-4899-a50b-6c7eb70319ac.jpg",
             "date": "",
@@ -1250,11 +1310,11 @@
       ],
       "settings": {
         "pw-overflow-hidden": true,
-        "columns": 3,
+        "columns": 4,
         "carousel_on_desktop": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Quality in details",
+        "heading": "Quality in Details",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
@@ -1270,8 +1330,8 @@
         "color_button_text": "",
         "color_button_background": "#171717",
         "color_button_gradient": "",
-        "padding_top": 68,
-        "padding_bottom": 68,
+        "padding_top": 60,
+        "padding_bottom": 120,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -1292,7 +1352,7 @@
         "heading_aPBJk3": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Stylish Colors",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -1320,12 +1380,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify://shop_images/3_1920_600_8600cf84-3251-4030-bb44-86e3b2d93080.jpg",
+        "image": "shopify://shop_images/1920_700_1.jpg",
         "image_height": "adapt",
         "content_width": "medium",
         "content_position": "md:items-start md:justify-center",
         "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/3_390_320.jpg",
+        "image_mobile": "shopify://shop_images/390_142_1.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-start justify-center",
         "text_alignment_mobile": "center",
@@ -1415,10 +1475,10 @@
         "img_list_tUDfBK": {
           "type": "img_list",
           "settings": {
-            "order_title": "Geometry",
-            "img": "shopify://shop_images/R20_600_400.jpg",
+            "order_title": "X-Hunter Geometry",
+            "img": "shopify://shop_images/9367801dc53b37ca75d885be8dc01cb9_1.jpg",
             "img_w": 40,
-            "list": "SIZE (inch)|One Size\nA|Seat Tube 17.7''\nB|Chainstay 18.3''\nC|Effective Top Tube 25.6''\nD|Head Tube 6.3''\nE|Handlebar Height 45.3''\nF|Handlebar Length 26.8''\nG|Maximun Seat Height 33.5''\nH|Wheelbase 42.7''\nI|Wheel Diameter 22.8''\nJ|Total Length 66.5''",
+            "list": "|SIZE (inch)|One Size\nA|Handlebar Length|25.2''\nB|Seat tube length|6.3''\nC|Chainstay|17.3''\nD|Ground Clearance|5.9''\nE|Wheelbase|46''\nF|Total Length|69''\nG|Wheel Diameter|22.8''\nH|Handlebar Height from Floor|46''\nI|Minimum Seat Height from Floor|30''\nJ|Maximum Seat Height from Floor|46''\nK|Folded Size|43.3*23.62*32.68",
             "item_justify": "tw-justify-between",
             "list_border": true,
             "list_col": "2"
@@ -1429,7 +1489,7 @@
           "settings": {
             "order_title": "Specifications",
             "img_w": 50,
-            "list": "|Motor|2000W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 3.0 A\n|Range |Up To 80 Miles\n|Battery |48V 20Ah\n|Controller |48V / 20A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'5'' - 6'7''\n|Pedal Assist|0-5 Level\n|Weight|87 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "list": "|Motor|1400W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 70 Miles\n|Battery |48V 13Ah\n|Controller |48V / 13A\n|Tires|20'' x 4'' Fat Tire\n|Rider Heught|5'3'' - 6'4''\n|Pedal Assist|0-5 Level\n|Weight|71 Lbs\n|Max Payload|400 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
             "item_justify": "tw-justify-left",
             "list_border": false,
             "list_col": "2"
@@ -1455,13 +1515,14 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify://shop_images/R20_500x500_5182fb7d-f16e-4aef-86ab-13b86ecace6c.jpg",
-            "img_2": "shopify://shop_images/R20_500x500-6.jpg",
-            "img_3": "shopify://shop_images/R20_500x500-5.jpg",
-            "img_4": "shopify://shop_images/R20_500x500-4.jpg",
-            "img_5": "shopify://shop_images/R20_500x500-3.jpg",
-            "img_6": "shopify://shop_images/R20_500x500-2.jpg",
-            "img_7": "shopify://shop_images/R20_500x500-1.jpg"
+            "img_1": "shopify://shop_images/X-hunter_2.png",
+            "img_2": "shopify://shop_images/X-HUNTER_500x500-7.png",
+            "img_3": "shopify://shop_images/X-HUNTER_500x500-6.png",
+            "img_4": "shopify://shop_images/X-HUNTER_500x500-5.png",
+            "img_5": "shopify://shop_images/X-HUNTER_500x500-4.png",
+            "img_6": "shopify://shop_images/X-HUNTER_500x500-3.png",
+            "img_7": "shopify://shop_images/X-HUNTER_500x500-2.png",
+            "img_8": "shopify://shop_images/X-HUNTER_500x500-1.png"
           }
         }
       },
@@ -1495,104 +1556,63 @@
         "rounded": false
       }
     },
-    "faq_LAqHrA": {
-      "type": "faq",
+    "specifications_parameters_hb_7PVmgH": {
+      "type": "specifications-parameters-hb",
       "blocks": {
-        "question_VkiK8E": {
-          "type": "question",
+        "img_list_Cbeqzq": {
+          "type": "img_list",
           "settings": {
-            "title": "1. What's your shipping policy?",
-            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.<br/><br/>We provide UPS, USPS, and FedEx shipping services. No tax is needed. We DO NOT ship to PO BOXES.<br/><br/>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.<br/><br/>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page.</a></p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "order_title": "EB7 2.0 Geometry",
+            "img": "shopify://shop_images/EB7_2.0_600_400_02d7a5c5-fb6f-48ee-a541-6dc25ccc09d7.jpg",
+            "img_w": 32,
+            "list": "|SIZE (inch)|One Size\nA|Handlebar Length|24.8''\nB|Seat tube length|6.3''\nC|Chainstay|17.3''\nD|Ground Clearance|5.9''\nE|Wheelbase|44.5''\nF|Total Lengthy|68''\nG|Wheel Diameter|22''\nH|Handlebar Height from Floor|46''\nI|Minimum Seat Height from Floor|28.4''\nJ|Maximum Seat Height from Floor|43''\nK|Folded Size|36*21*29",
+            "item_justify": "tw-justify-between",
+            "list_border": true,
+            "list_col": "2"
           }
         },
-        "question_WydWCH": {
-          "type": "question",
+        "img_list_pU8nPz": {
+          "type": "img_list",
           "settings": {
-            "title": "2. What's your warranty policy?",
-            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "order_title": "Specifications",
+            "img_w": 50,
+            "list": "|Motor|850W Brushless Hub Motor\n|Throttle |Twist Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 55 Miles\n|Battery |48V 10Ah\n|Controller |48V / 10A\n|Tires|20'' x 3'' Fat Tire\n|Rider Heught|5'1'' - 6'2''\n|Pedal Assist|0-5 Level\n|Weight|62 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Turning Lights & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "item_justify": "tw-justify-between",
+            "list_border": true,
+            "list_col": "1"
           }
         },
-        "question_RxbMnX": {
-          "type": "question",
+        "package_DCXzpE": {
+          "type": "package",
           "settings": {
-            "title": "3. What's your return&refund policy?",
-            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about return and refound policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/return-refund-policy\" title=\"https://www.jasionbike.com/pages/return-refund-policy\">Return&Refund Policy Page</a>. </p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_8w3AJM": {
-          "type": "question",
-          "settings": {
-            "title": "4.Does my height suit YR20?",
-            "text": "<p>The recommended rider height is 5'5\" to 6'7\".</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_dADpwD": {
-          "type": "question",
-          "settings": {
-            "title": "5. How long does it take to fully charge the battery?",
-            "text": "<p>It will take 5-7 hours.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_qtF3Vm": {
-          "type": "question",
-          "settings": {
-            "title": "6. How long will it take for my shipment to arrive?",
-            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_gH97gL": {
-          "type": "question",
-          "settings": {
-            "title": "7. Does my Jasion ebike come pre-assembled?",
-            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\">YouTube Channel</a>.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question_jtpKXd": {
-          "type": "question",
-          "settings": {
-            "title": "8. What is the maximum speed of each PAS level?",
-            "text": "<ul><li>PAS1 Top speed 11mph</li><li>PAS2 Top speed 16mph</li><li>PAS3 Top speed 22mph</li><li>PAS4 Top speed 27mph</li><li>PAS5 Top speed 30+mph</li></ul>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "order_title": "What's In The Box？",
+            "cols": "8",
+            "cols_mb": "3",
+            "use_text": true,
+            "img_1": "shopify://shop_images/EB7_500x500_8b30202c-93b7-4cba-84bc-eb791ac216d8.png",
+            "img_2": "shopify://shop_images/EB7_500x500-7_a46d9a3b-93ad-418a-bf47-c9114af08b4d.png",
+            "img_3": "shopify://shop_images/EB7_500x500-6_0e78986c-6ccc-4c25-8952-8cbf31ea3802.png",
+            "img_4": "shopify://shop_images/EB7_500x500-5_76a0fb73-0f05-4500-b5b8-cc3fb9d83e7e.png",
+            "img_5": "shopify://shop_images/EB7_500x500-4_8a756325-8b54-4c6f-a337-4b9ebf9007c0.png",
+            "img_6": "shopify://shop_images/EB7_500x500-3_e5587ad5-9f82-4b77-b222-5d3dc2a386f4.png",
+            "img_7": "shopify://shop_images/EB7_500x500-2_1c6bde6c-13fb-401b-a7a2-4a9c07de4b11.png",
+            "img_8": "shopify://shop_images/EB7_1.png"
           }
         }
       },
       "block_order": [
-        "question_VkiK8E",
-        "question_WydWCH",
-        "question_RxbMnX",
-        "question_8w3AJM",
-        "question_dADpwD",
-        "question_qtF3Vm",
-        "question_gH97gL",
-        "question_jtpKXd"
+        "img_list_Cbeqzq",
+        "img_list_pU8nPz",
+        "package_DCXzpE"
       ],
+      "name": "Spec & Par (hb)",
       "settings": {
-        "style": "tw-default-faq",
-        "heading": "FAQ",
+        "heading": "Specs & Geometry",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
+        "heading_tag": "h1",
         "subheading": "",
         "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -1603,12 +1623,10 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "color_overlay": "#ffffff",
-        "overlay_opacity": 4,
         "padding_top": 68,
         "padding_bottom": 68,
         "divider": false,
-        "narrow": false,
+        "full_width": false,
         "rounded": false
       }
     },
@@ -1714,6 +1732,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_limit": 6,
         "columns": 4,
@@ -1774,13 +1793,162 @@
         "full_width": false,
         "rounded": false
       }
+    },
+    "1754645058bbf75ec9": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_jVwnwq": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_jVwnwq"
+      ],
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "faq_LAqHrA": {
+      "type": "faq",
+      "blocks": {
+        "question_VkiK8E": {
+          "type": "question",
+          "settings": {
+            "title": "1. What's your shipping policy?",
+            "text": "<p>Jasion has suspended local pick-up services in the United States. If pick-up services are resumed, we will update the information on our website. Please check the website for updates.</p><p>We provide UPS, USPS, and FedEx shipping services.  We DO NOT ship to PO BOXES.</p><p>In-stock orders typically ship within 2 business days, unless otherwise noted on the product page. Please allow 5-7 business days for your shipment to arrive at your address. Any delivery dates provided by JASION are estimates.</p><p>For more shipping information, send an email to support@Jasionbike.com. We will get back to you in 24 hours.</p><p>Want to know more about shipping policies, please check more details on our <a href=\"https://www.jasionbike.com/pages/shipping-policy\" title=\"https://www.jasionbike.com/pages/shipping-policy\">Shipping Policy Page</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_WydWCH": {
+          "type": "question",
+          "settings": {
+            "title": "2. What's your warranty policy?",
+            "text": "<p>All JASION bikes carry a one(1) year warranty from the date of receipt of the bike for manufacturing defects in materials and/or workmanship( all free accessories are not covered).<br/><br/>We will replace any component that is defective or damaged in materials and/or workmanship( including the damage in the processing of shipment).<br/><br/>Before making a warranty claim, we suggest that you first contact us at <strong>support@jasionbike.com</strong>.</p><p>Want to know more about warranty policies, please check more details on our <a href=\"/pages/warranty\" title=\"Warranty\">Warranty Policy Page</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_RxbMnX": {
+          "type": "question",
+          "settings": {
+            "title": "3. What's your return&refund policy?",
+            "text": "<p>We provide exchange service within 14 days. If the product is defective or damaged, Send damaged photos or videos to customer service within 14 days after receiving the goods, and the damaged parts can be replaced or compensated. We will cover the return (exchange) shipping costs.</p><p>In the case of non-quality returns, the customer will be responsible for the return shipping costs.</p><p>You can always contact us for any return questions at <strong>support@jasionbike.com</strong>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_8w3AJM": {
+          "type": "question",
+          "settings": {
+            "title": "4. Does my height suit X-Hunter?",
+            "text": "<p>The recommended rider height is 5'3\" to 6'4\".</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_dADpwD": {
+          "type": "question",
+          "settings": {
+            "title": "5. How long does it take to fully charge the battery?",
+            "text": "<p>It will take 5-7 hours.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_qtF3Vm": {
+          "type": "question",
+          "settings": {
+            "title": "6. How long will it take for my shipment to arrive?",
+            "text": "<p>Generally, your order will be shipped within one business day after the order is placed, and package shipping will take approximately 3-5 days.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_gH97gL": {
+          "type": "question",
+          "settings": {
+            "title": "7. Does my Jasion ebike come pre-assembled?",
+            "text": "<p>Your e-bike arrives 85% assembled. There are just a few pieces to put into place once you take the bike out of the box. For unboxing and setup instructions, please follow the guides on our <a href=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=i0LcsKoZaXU\">YouTube Channel</a>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_jtpKXd": {
+          "type": "question",
+          "settings": {
+            "title": "8. What is the maximum speed of each PAS level?",
+            "text": "<p>PAS1 Top speed 16mph</p><p>PAS2 Top speed 18mph</p><p>PAS3 Top speed 20mph</p><p>PAS4 Top speed 23mph</p><p>PAS5 Top speed 30+mph</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "question_VkiK8E",
+        "question_WydWCH",
+        "question_RxbMnX",
+        "question_8w3AJM",
+        "question_dADpwD",
+        "question_qtF3Vm",
+        "question_gH97gL",
+        "question_jtpKXd"
+      ],
+      "settings": {
+        "style": "tw-default-faq",
+        "heading": "FAQ",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#ffffff",
+        "overlay_opacity": 4,
+        "padding_top": 68,
+        "padding_bottom": 68,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
     }
   },
   "order": [
     "main-product",
+    "multicolumn_slide_hb_QEk8x8",
     "drawer_content_hb_qzp8WX",
     "help-drawer",
-    "multicolumn_slide_hb_QEk8x8",
     "collage",
     "large_header_slider_NDH3Xx",
     "image_with_text_overlay_UyaqiW",
@@ -1788,16 +1956,18 @@
     "image_with_text_WTzzHX",
     "image_with_text_mFYwAt",
     "video_BjHb7i",
-    "image_with_text_overlay_VkgVNU",
     "image_with_text_WTx6NX",
     "image_with_text_G7VzRF",
+    "image_with_text_overlay_dijRbq",
     "multicolumn_slide_hb_GKkqHc",
     "image_with_text_overlay_ffkPjp",
     "product_modal_popup_hb_exNHwH",
     "specifications_parameters_hb_84CbEA",
-    "faq_LAqHrA",
+    "specifications_parameters_hb_7PVmgH",
     "faq",
     "product-recommendations",
-    "recently-viewed"
+    "recently-viewed",
+    "1754645058bbf75ec9",
+    "faq_LAqHrA"
   ]
 }
