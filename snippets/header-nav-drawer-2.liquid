@@ -21,8 +21,11 @@
                     {% endif %}
                     <a class="!tw-bg-none" href="{{ childlink.url }}"><h5 class="!tw-text-sm ">{{ childlink.title }}</h5></a>
                     {% if is_coll %}
-                        {%- for product in collection.products limit:limit -%}
-                        <div class="tw-col-span-1 tw-relative">
+                        {%- assign count = 0 -%}
+                        {%- for product in collection.products -%}
+                        {%- if product.metafields.custom.hidden_link.value != true and count < limit -%}
+                            {%- assign count = count | plus: 1 -%}
+                            <div class="tw-col-span-1 tw-relative">
                             <div class="tw-grid tw-grid-cols-5 tw-gap-4">
                                 <div class="tw-col-span-2 ">
                                     <a href="{{ product.url }}">
@@ -51,6 +54,7 @@
                         {% comment %} {%- render 'product-badges', product: product, show_save_amount: true, save_type: "label",class:"tw-absolute tw-left-auto tw-right-0", size_class:"badge-sm" -%} {% endcomment %}
                         {% comment %} {% endif %} {% endcomment %}
                         </div>
+                        {%- endif -%}
                         {%- endfor -%}
                     {% endif %}
                 </div>

@@ -1,3 +1,4 @@
+{%- render 'hidden-link' -%}
 <style>
   .shopify-section {
     display: none !important;
@@ -9,7 +10,6 @@
     background-color: rgba(var(--color-overlay), 0.5);
   }
 </style>
-
 {%- liquid
   assign product_form_id = 'ProductForm-' | append: section.id | append: '-' | append: product.id
   assign media_count = product.media.size

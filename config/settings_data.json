@@ -108,7 +108,7 @@
     "enable_search": true,
     "predictive_search_enabled": true,
     "predictive_search_limit": 3,
-    "predictive_search_recommendation": "",
+    "predictive_search_recommendation": "search",
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
     "typewriter_effect_enabled": false,

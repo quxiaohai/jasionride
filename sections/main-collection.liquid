@@ -14,6 +14,15 @@
     .drawer__scrollable .collection-menu-form li:last-child {
         padding-bottom: 0;
     }
+    @media screen and (min-width: 768px) {
+        .collection__content .card-grid {
+            --card-grid-gap: 28px 18px;
+        }
+    }
+    .collection .collection__content {
+        gap: 32px;
+        --facets-width: 240px;
+    }
 </style>
 
 <script src="{{ 'collection.js' | asset_url }}" defer></script>
@@ -105,7 +114,7 @@
                                 show_count: subcollections.settings.show_count
                         -%}
                     {%- else -%}
-                        <p id="ProductCount" class="text-base lg:text-lg" role="status">
+                        <p id="ProductCount" class="text-base lg:text-lg hidden" role="status">
                             {%- liquid
                                 if collection.results_count
                                     echo 'general.search.results_with_count' | t: terms: collection.terms, count: collection.results_count
@@ -200,11 +209,11 @@
                                    is="facet-remove" data-magnet="0">
                                     <span class="btn-fill" data-fill></span>
                                     <span class="btn-text">
-                    {%- liquid
-                        render 'icon', icon: 'close-2', size: 'xxxs'
-                        echo 'collections.filtering.clear_all' | t
-                    -%}
-                  </span>
+                                        {%- liquid
+                                            render 'icon', icon: 'close-2', size: 'xxxs'
+                                            echo 'collections.filtering.clear_all' | t
+                                        -%}
+                                    </span>
                                 </a>
                             {%- else -%}
                                 <div class="flex flex-col items-center gap-3">
@@ -224,6 +233,7 @@
                         <motion-list
                                 class="card-grid card-grid--{{ section.settings.columns }} mobile:card-grid--{{ section.settings.columns_mobile }} grid relative">
                             {%- for product in collection.products -%}
+                                {%- if product.metafields.custom.hidden_link.value != true -%}
                                 {%- liquid
                                     for block in section.blocks
                                         if block.type == 'promotion' or block.type == 'promotion_video'
@@ -257,6 +267,7 @@
                                         show_save_amount: settings.product_save_amount,
                                         save_type: settings.product_save_type
                                 -%}
+                                {%- endif -%}
                             {%- endfor -%}
                         </motion-list>
                         {%- liquid
