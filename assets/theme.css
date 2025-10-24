@@ -14988,3 +14988,6 @@ video-media:not([playing]) .deferred-poster .play-button .icon:last-child:not(:o
     justify-content: space-around;
     align-items: center;
 }
+body .nextop-chat--side-bottom {
+    bottom: 60px;
+}
