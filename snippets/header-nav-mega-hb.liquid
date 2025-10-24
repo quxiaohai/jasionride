@@ -55,26 +55,30 @@
             {% else %}
               {% assign limit = 4 %}
             {% endif %}
-            {%- for product in collection.products limit:limit -%}
-            <div class="tw-col-span-1 tw-relative">
-              {%- render 'product-badges', product: product, show_save_amount: true, save_type: "percent",class:"tw-flex tw-justify-star tw-mb-4", size_class:"badge-sm" -%}
-              <a href="{{ product.url }}" class="tw-flex tw-flex-col tw-gap-2 tw-text-center ">
-                {% assign pr_img = product.metafields.custom.pure_product_image | default : product.featured_image %}
-                {{ pr_img | image_url: width: '450' | image_tag: width: '450'}} 
-                <h4 class="tw-text-lg tw-line-clamp-1"> 
-                  {{product.metafields.custom.short_title.value | default: product.title | escape  }}
-                </h4>
-                <p class="product-card__subtitle  tw-line-clamp-1 tw-leading-snug tw-text-viGray tw-text-xs">
-                  {% if product.metafields.custom.short_text.value != blank %}
-                  {{ product.metafields.custom.short_text.value }}
+              {%- assign count = 0 -%}
+            {%- for product in collection.products -%}
+              {%- if product.metafields.custom.hidden_link.value != true and count < limit -%}
+                  {%- assign count = count | plus: 1 -%}
+                <div class="tw-col-span-1 tw-relative">
+                  {%- render 'product-badges', product: product, show_save_amount: true, save_type: "percent",class:"tw-flex tw-justify-star tw-mb-4", size_class:"badge-sm" -%}
+                  <a href="{{ product.url }}" class="tw-flex tw-flex-col tw-gap-2 tw-text-center ">
+                    {% assign pr_img = product.metafields.custom.pure_product_image | default : product.featured_image %}
+                    {{ pr_img | image_url: width: '450' | image_tag: width: '450'}}
+                    <h4 class="tw-text-lg tw-line-clamp-1">
+                      {{product.metafields.custom.short_title.value | default: product.title | escape  }}
+                    </h4>
+                    <p class="product-card__subtitle  tw-line-clamp-1 tw-leading-snug tw-text-viGray tw-text-xs">
+                      {% if product.metafields.custom.short_text.value != blank %}
+                      {{ product.metafields.custom.short_text.value }}
+                      {% endif %}
+                    </p>
+                    <p>{%- render 'product-price', product: product, class: 'tw-price-text-lg flex gap-2 md:gap-1d5 tw-justify-center' -%} </p>
+                  </a>
+                  {% if block.settings.show_badges %}
+                  {% comment %} {%- render 'product-badges', product: product, show_save_amount: true, save_type: "label",class:"tw-absolute tw-left-auto tw-right-0", size_class:"badge-sm" -%} {% endcomment %}
                   {% endif %}
-                </p>
-                <p>{%- render 'product-price', product: product, class: 'tw-price-text-lg flex gap-2 md:gap-1d5 tw-justify-center' -%} </p>
-              </a>
-              {% if block.settings.show_badges %}
-              {% comment %} {%- render 'product-badges', product: product, show_save_amount: true, save_type: "label",class:"tw-absolute tw-left-auto tw-right-0", size_class:"badge-sm" -%} {% endcomment %}
-              {% endif %}
-            </div>
+                </div>
+              {%- endif -%}
             {%- endfor -%}
           </div>
         </div>
