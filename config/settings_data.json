@@ -108,7 +108,7 @@
     "enable_search": true,
     "predictive_search_enabled": true,
     "predictive_search_limit": 3,
-    "predictive_search_recommendation": "",
+    "predictive_search_recommendation": "search",
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
     "typewriter_effect_enabled": false,
@@ -183,6 +183,18 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
+      },
+      "15181020662106344915": {
+        "type": "shopify://apps/judge-me-reviews/blocks/popup_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
+        "settings": {}
+      },
+      "12120936241911852800": {
+        "type": "shopify://apps/judge-me-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
+        "settings": {
+          "position": "right"
+        }
       }
     }
   },

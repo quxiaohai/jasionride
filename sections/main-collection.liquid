@@ -14,6 +14,15 @@
     .drawer__scrollable .collection-menu-form li:last-child {
         padding-bottom: 0;
     }
+    @media screen and (min-width: 768px) {
+        .collection__content .card-grid {
+            --card-grid-gap: 28px 18px;
+        }
+    }
+    .collection .collection__content {
+        gap: 32px;
+        --facets-width: 240px;
+    }
 </style>
 
 <script src="{{ 'collection.js' | asset_url }}" defer></script>
@@ -105,7 +114,7 @@
                                 show_count: subcollections.settings.show_count
                         -%}
                     {%- else -%}
-                        <p id="ProductCount" class="text-base lg:text-lg" role="status">
+                        <p id="ProductCount" class="text-base lg:text-lg hidden" role="status">
                             {%- liquid
                                 if collection.results_count
                                     echo 'general.search.results_with_count' | t: terms: collection.terms, count: collection.results_count

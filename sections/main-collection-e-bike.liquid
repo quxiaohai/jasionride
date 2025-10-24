@@ -14,6 +14,16 @@
   .drawer__scrollable .collection-menu-form li:last-child {
       padding-bottom: 0;
   }
+
+  @media screen and (min-width: 768px) {
+      .collection__content .card-grid {
+          --card-grid-gap: 28px 18px;
+      }
+  }
+  .collection .collection__content {
+      gap: 32px;
+      --facets-width: 240px;
+  }
 </style>
 
 <script src="{{ 'collection.js' | asset_url }}" defer></script>
@@ -108,7 +118,7 @@
               show_count: subcollections.settings.show_count
             -%}
           {%- else -%}
-            <p id="ProductCount" class="text-base lg:text-lg" role="status">
+            <p id="ProductCount" class="text-base lg:text-lg hidden" role="status">
               {%- liquid
                 if collection.results_count
                   echo 'general.search.results_with_count' | t: terms: collection.terms, count: collection.results_count
@@ -166,7 +176,7 @@
         endif
       -%}
 
-      <div class="collection__content flex" style="gap: 32px;">
+      <div class="collection__content flex">
         {%- if enable_filtering and filter_type == 'sidebar' and collection.all_products_count > 0 -%}
           <div class="hidden xl:block" id="FacetFiltersContainer">
             <sticky-element class="facets__scroll block sticky top-0">
@@ -218,7 +228,8 @@
           {%- endif -%}
 
           {%- if collection.all_products_count > 0 -%}
-            <motion-list class="card-grid card-grid--{{ section.settings.columns }} mobile:card-grid--{{ section.settings.columns_mobile }} grid relative">
+            <motion-list
+                    class="card-grid card-grid--{{ section.settings.columns }} mobile:card-grid--{{ section.settings.columns_mobile }} grid relative">
               {%- for product in collection.products -%}
                 {%- if product.metafields.custom.hidden_link.value != true -%}
                     {%- liquid

@@ -35,6 +35,22 @@
             "gradient_background": ""
           }
         },
+        "cycle_countdown_dDJL9W": {
+          "type": "cycle_countdown",
+          "settings": {
+            "countdown_lbl": "Hurry！",
+            "countdown_lbl_content": "Free Gifts Offer Ends In:",
+            "countdown_start_date": "2025-02-21T00:00:00",
+            "duration": 1,
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "background": "#ff9b2b",
+            "background_gradient": "",
+            "text_color": "#ffffff"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -152,6 +168,7 @@
       },
       "block_order": [
         "title",
+        "cycle_countdown_dDJL9W",
         "countdown_NPztC6",
         "variant_picker",
         "bundled_sale_m69hF9",

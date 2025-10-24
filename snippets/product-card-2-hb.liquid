@@ -120,7 +120,7 @@
     
     
             {%- unless featured_media.media_type == 'video' or featured_media.media_type == 'external_video' -%}
-            {%- if show_secondary_image and product.media.size > 1 -%}
+            {%- if show_secondary_image and product.media.size > 0 -%}
                 <card-slider-media slider-media-id="card-slider-{{ product.id }}" class="product-card__carousel tw-flex tw-h-full" thumbnail-mode="click">
     
                     {% assign colors = '' %}
