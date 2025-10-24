@@ -377,10 +377,10 @@
       ],
       "name": "autumn-sale-trust",
       "settings": {
-        "show_heading": true,
-        "heading": "Why Thousands Trust Our Ride",
         "desktop_image": "shopify://shop_images/autumn-sale-trust-back.png",
-        "mobile_image": "shopify://shop_images/autumn-sale-trust-back.png"
+        "mobile_image": "shopify://shop_images/autumn-sale-trust-back.png",
+        "show_heading": true,
+        "heading": "Why Thousands Trust Our Ride"
       }
     },
     "autumn_sale_says_9RUVcG": {
@@ -495,71 +495,61 @@
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": true,
-            "image_height": "adapt",
             "video_url_mobile": "",
-            "image_height_mobile": "auto",
             "content": "1,194 people have given this bike a 4.5 star rating",
-            "avatar": "shopify:\/\/shop_images\/483484232_122189012252250183_2874798791765895331_n.jpg",
+            "avatar": "shopify://shop_images/483484232_122189012252250183_2874798791765895331_n.jpg",
             "author": "Papa`s Product Reviews"
           }
         },
         "video_F9ApfL": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=FTCK4ppjSOE",
+            "video_url": "https://www.youtube.com/watch?v=FTCK4ppjSOE",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
-            "image_height": "adapt",
             "video_url_mobile": "",
-            "image_height_mobile": "auto",
             "content": "1,194 people have given this bike a 4.5 star rating",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile.jpg",
+            "avatar": "shopify://shop_images/channels4_profile.jpg",
             "author": "HeroesNStuff"
           }
         },
         "video_HnB7wB": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=lQj5bcSygpU",
+            "video_url": "https://www.youtube.com/watch?v=lQj5bcSygpU",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
-            "image_height": "adapt",
             "video_url_mobile": "",
-            "image_height_mobile": "auto",
             "content": "Super Commuter Deal for $839! 28MPH Class 3 Speed Throttle",
-            "avatar": "shopify:\/\/shop_images\/unnamed.jpg",
+            "avatar": "shopify://shop_images/unnamed.jpg",
             "author": "EbikeProducts"
           }
         },
         "video_QDBpJ6": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=MSzZbfAp5lA&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
+            "video_url": "https://www.youtube.com/watch?v=MSzZbfAp5lA&list=PLPWkwjbN02QTPLOb6gUXJTrA9EIdglrqA&index=6",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
-            "image_height": "adapt",
             "video_url_mobile": "",
-            "image_height_mobile": "auto",
             "content": "My Honest Review | Jasion X-Hunter Full Suspension eBike Review",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_2.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_2.jpg",
             "author": "Eric Hernandez"
           }
         },
         "video_HnB7wB1": {
           "type": "video",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
+            "video_url": "https://www.youtube.com/watch?v=MP_q93MD_eo&list=PLPWkwjbN02QSgNwl0IlKEUEs-24bipLtY&index=18",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
-            "image_height": "adapt",
             "video_url_mobile": "",
-            "image_height_mobile": "auto",
             "content": "EBIKE REVIEW - Jasion EB7 Foldable E-Bike - Under $900",
-            "avatar": "shopify:\/\/shop_images\/channels4_profile_3.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_3.jpg",
             "author": "Our Everyday Getaway"
           }
         }
@@ -624,12 +614,12 @@
       "name": "autumn-product-bundle",
       "settings": {
         "page_color": "#f9f7f6",
-        "discount_title": "Bundle & Save – Stack Your Discounts!",
-        "discount_text": "<p>Get <strong>$200</strong> OFF on $1,000, <strong>$500</strong> OFF on $5,000</p>",
-        "checkout_text": "Proceed to Checkout",
         "pc_discount_url": "shopify://shop_images/autumn-sale-product-bundle-back.png",
         "mb_discount_url": "shopify://shop_images/autumn-sale-mb-product-bundle-back.png",
-        "pc_checkout_url": "shopify://shop_images/product-image1.png"
+        "discount_title": "Bundle & Save – Stack Your Discounts!",
+        "discount_text": "<p>Get <strong>$200</strong> OFF on $1,000, <strong>$500</strong> OFF on $5,000</p>",
+        "pc_checkout_url": "shopify://shop_images/product-image1.png",
+        "checkout_text": "Proceed to Checkout"
       }
     },
     "autumn_sale_sign_up": {
@@ -644,8 +634,7 @@
         },
         "form_zGMMxf": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
