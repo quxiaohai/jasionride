@@ -101,11 +101,20 @@
                 </div>
               {%- endif -%}
             {%- endif -%}
-
+              {%- liquid
+                  assign productList = search.results | where: 'object_type', 'product'
+                  assign count = 0
+                  for product in productList
+                      if product.metafields.custom.hidden_link.value
+                          assign count = count | plus: 1
+                      endif
+                  endfor
+              -%}
             <p id="ProductCount" class="text-base lg:text-lg" role="status">
               {%- liquid
                 if search.results_count
-                  echo 'general.search.results_with_count' | t: terms: search.terms, count: search.results_count
+                    assign total = search.results_count | minus: count
+                    echo 'general.search.results_with_count' | t: terms: search.terms, count: total
                 elsif search.products_count == search.all_products_count
                   echo 'collections.general.product_count_simple' | t: count: search.products_count
                 else
@@ -212,6 +221,7 @@
 
                 {%- case item.object_type -%}
                   {%- when 'product' -%}
+                    {%- if item.metafields.custom.hidden_link.value != true -%}
                     {%- render 'product-card',
                       product: item,
                       product_id: item.id,
@@ -229,7 +239,7 @@
                       show_save_amount: settings.product_save_amount,
                       save_type: settings.product_save_type
                     -%}
-
+                    {%- endif -%}
                   {%- when 'article' -%}
                     {%- liquid
                       assign article = item

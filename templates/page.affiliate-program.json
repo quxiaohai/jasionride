@@ -193,14 +193,14 @@
             "text_alignment_mobile": "center",
             "image": "shopify://shop_images/GOAFFPRO.png",
             "image_ratio": "adapt",
-            "heading": "Example title",
+            "heading": "Jasion US:",
             "heading_size": "text-lg-2xl",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "secondary",
+            "text": "",
+            "button_label": "Join Now",
+            "button_link": "https://jasionbike.goaffpro.com/create-account",
+            "button_style": "primary",
             "button_external": false,
-            "button_icon": true,
+            "button_icon": false,
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -213,14 +213,14 @@
             "text_alignment_mobile": "center",
             "image": "shopify://shop_images/imp.png",
             "image_ratio": "adapt",
-            "heading": "Example title",
+            "heading": "Jasion US: 43550",
             "heading_size": "text-lg-2xl",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "secondary",
+            "text": "",
+            "button_label": "Join Now",
+            "button_link": "http://app.impact.com/campaign-campaign-info-v2/JasionBike.brand",
+            "button_style": "primary",
             "button_external": false,
-            "button_icon": true,
+            "button_icon": false,
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -257,7 +257,161 @@
         "columns": 2,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Multicolumn",
+        "heading": "Jasion Affiliate Program",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Turn your love for e-bikes into earnings with the Jasion Affiliate Program — easy, fast, and rewarding.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "slideshow_hb_Jq4DcD": {
+      "type": "slideshow-hb",
+      "blocks": {
+        "image_BwkQdd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lQLPJx5Reda3zwfNAZDNB4CwChesN9Mx_PYI1rLF64z6AQ_1920_400.png",
+            "image_mobile": "shopify://shop_images/lQLPKIJ7OrIYfwfNATbNAcyw9KqGDgx22jEI1rLF64z6AA_460_310.png",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "subheading": "",
+            "subh_before": true,
+            "text_size": "subtext-md",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "image_BwkQdd"
+      ],
+      "name": "Slideshow (hb)",
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "adapt",
+        "content_pw": true,
+        "content_position": "center",
+        "content_width": "small",
+        "image_height_mobile": "adapt",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "multicolumn_ND87KE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pTrPYj": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image": "shopify://shop_images/1_201ed29e-9cdc-4704-aed8-4ae18ab168af.png",
+            "image_ratio": "adapt",
+            "heading": "Join",
+            "heading_size": "text-2xl lg:text-3xl",
+            "text": "<p>Sign up in just a few minutes, it’s quick, simple, and completely free!<br/><br/></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_XKqU9y": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image": "shopify://shop_images/1_fcb0fb7b-c6a6-41ed-8ebe-7dcb46dbae74.png",
+            "image_ratio": "adapt",
+            "heading": "Share",
+            "heading_size": "text-2xl lg:text-3xl",
+            "text": "<p>Create your own affiliate links for potential customers, and promote Jasionbike across your content, blog, or social media.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_KpFzir": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "image": "shopify://shop_images/1_2_b543c8c2-2ee3-49ed-944c-310d001e4e44.png",
+            "image_ratio": "adapt",
+            "heading": "Earn",
+            "heading_size": "text-lg-2xl",
+            "text": "<p>Track your clicks, monitor sales, and enjoy monthly payouts for every successful referral.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_pTrPYj",
+        "column_XKqU9y",
+        "column_KpFzir"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "gap": "large",
+        "columns": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "How to Get Started?",
         "heading_size": "title-md",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
@@ -282,80 +436,6 @@
         "divider": false,
         "full_width": false,
         "rounded": false
-      }
-    },
-    "image_with_text_bKTia3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_pPCjTi": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_7TwKyR": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_color": "#000000",
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "button_ywB3i7": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_pPCjTi",
-        "text_7TwKyR",
-        "button_ywB3i7"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "img_placeholder": false,
-        "image": "shopify://shop_images/2X-Hunter_2f151054-a98e-45de-9b20-c1c0e3d24696.png",
-        "image_height": "adapt",
-        "image_width": "medium",
-        "layout": "image_first",
-        "text_alignment": "left",
-        "content_position": "align-self-center",
-        "img_placeholder_mb": false,
-        "image_height_mobile": "auto",
-        "text_alignment_mobile": "left",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "",
-        "gradient_background_2": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
       }
     },
     "image_with_text_overlay_WCjdrg": {
@@ -400,6 +480,7 @@
         "heading_TxaA6y",
         "text_FWCT8r"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
@@ -428,6 +509,80 @@
         "enable_parallax": false,
         "parallax_direction": "vertical"
       }
+    },
+    "image_with_text_bKTia3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pPCjTi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Let's talk!</h3>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_7TwKyR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the #Jasion Affiliate Family! Join us today and watch your income grow.</p><p>Got questions? We’re here to help — reach out at affiliate@jasionbike.com</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_color": "#000000",
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_ywB3i7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "mailto:affiliate@jasionbike.com",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_pPCjTi",
+        "text_7TwKyR",
+        "button_ywB3i7"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "img_placeholder": false,
+        "image": "shopify://shop_images/2X-Hunter_2f151054-a98e-45de-9b20-c1c0e3d24696.png",
+        "image_height": "adapt",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "img_placeholder_mb": false,
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
     }
   },
   "order": [
@@ -435,7 +590,9 @@
     "slideshow_hb_9MqrFU",
     "image_with_text_overlay_nCbgFt",
     "multicolumn_iLHkNx",
-    "image_with_text_bKTia3",
-    "image_with_text_overlay_WCjdrg"
+    "multicolumn_ND87KE",
+    "slideshow_hb_Jq4DcD",
+    "image_with_text_overlay_WCjdrg",
+    "image_with_text_bKTia3"
   ]
 }
