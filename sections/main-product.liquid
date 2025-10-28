@@ -32,6 +32,10 @@
       --aspect-ratio: {{ first_media.aspect_ratio }};
     }
   }
+  #shopify-section-{{ section.id }} .product__info>.shopify-app-block,
+  #shopify-section-{{ section.id }} .product__info>.product__inventory {
+      --sp-8: 1rem;
+  }
 </style>
 
 {%- liquid

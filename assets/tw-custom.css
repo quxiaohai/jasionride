@@ -279,11 +279,11 @@
 }
 
 .tw-mt-4 {
-  margin-top: 1rem;
+  margin-top: 0.8rem;
 }
 
 .tw-mt-6 {
-  margin-top: 1.5rem;
+  margin-top: 0.8rem;
 }
 
 .tw-mt-8 {
@@ -1173,9 +1173,13 @@
 .template-product .countdown__item {
   min-width: 58px;
 }
-
+.tw-vi-scrollbar {
+  overflow: -webkit-overflow-scrolling: touch; /* 使滚动更平滑 */
+  overflow: auto;
+}
 .tw-vi-scrollbar::-webkit-scrollbar {
   width: 0.25rem;
+  height: 0.25rem;
 }
 
 .tw-vi-scrollbar::-webkit-scrollbar-thumb {
@@ -2119,7 +2123,7 @@ html.js .menu-drawer-2.drawer .drawer__header {
   }
 
   .md\:tw-mt-6 {
-    margin-top: 1.5rem;
+    margin-top: 0.8rem;
   }
 
   .md\:tw-line-clamp-3 {
@@ -2505,7 +2509,7 @@ html.js .menu-drawer-2.drawer .drawer__header {
   }
 
   .-md\:tw-mt-6 {
-    margin-top: 1.5rem;
+    margin-top: 0.8rem;
   }
 
   .-md\:tw-block {

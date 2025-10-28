@@ -14998,3 +14998,18 @@ body .nextop-chat--side-bottom {
 .text-custom {
     color: rgb(var(--text-color));
 }
+@media screen and (max-width: 1023px) {
+    body.template-product .nextop-chat--side-bottom {
+      bottom: 160px;
+      left: 8px;
+    }
+    .yotpo-smsbump-floating-button {
+        width: 154px !important;
+    }
+    .yotpo-smsbump-floating-button > button {
+      white-space: nowrap;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+}

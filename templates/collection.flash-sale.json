@@ -15,8 +15,8 @@
         "image_AJgPLH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/lQLPKHZUweR7zfvNAXzNB4CwKP3mFF_ynXYIy2BT6vBmAQ_1920_380_-_2.png",
-            "image_mobile": "shopify://shop_images/2X_Hunter_2.jpg",
+            "image": "shopify://shop_images/Collection-pc.jpg",
+            "image_mobile": "shopify://shop_images/Collection-yd.jpg",
             "heading": "",
             "heading_size": "title-sm",
             "heading_tag": "h2",
@@ -42,7 +42,7 @@
         "content_pw": false,
         "content_position": "center",
         "content_width": "small",
-        "image_height_mobile": "auto",
+        "image_height_mobile": "adapt",
         "color_text": "#ffffff",
         "color_background": "#ffffff",
         "gradient_background": "",

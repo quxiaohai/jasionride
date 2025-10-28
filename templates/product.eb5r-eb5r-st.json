@@ -25,7 +25,7 @@
             "line_bottom": "md:tw-mb-2"
           }
         },
-        "inventory_Up6cm9": {
+        "inventory_JMpdff": {
           "type": "inventory",
           "settings": {
             "inventory_threshold": 10,
@@ -34,22 +34,11 @@
             "color_scheme": "accent-1"
           }
         },
-        "countdown_NPztC6": {
-          "type": "countdown",
-          "disabled": true,
-          "settings": {
-            "heading": "Hurry up!",
-            "subheading": "Sale end in:",
-            "color_text": "#171717",
-            "color_background": "#ffac00",
-            "gradient_background": ""
-          }
-        },
-        "judge_me_reviews_preview_badge_6m6Aa8": {
+        "judge_me_reviews_preview_badge_LEUymR": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
-        "cycle_countdown_GDPWGw": {
+        "cycle_countdown_kAnzXp": {
           "type": "cycle_countdown",
           "settings": {
             "countdown_lbl": "Hurry up!",
@@ -63,6 +52,17 @@
             "background": "#ff9b2b",
             "background_gradient": "",
             "text_color": "#ffffff"
+          }
+        },
+        "countdown_NPztC6": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "heading": "Hurry up!",
+            "subheading": "Sale end in:",
+            "color_text": "#171717",
+            "color_background": "#ffac00",
+            "gradient_background": ""
           }
         },
         "variant_picker": {
@@ -80,16 +80,19 @@
           "settings": {
             "heading": "Compatible Accessories",
             "gift_list": [
+              "jasion-ebike-rack-pannier-bag",
               "extra-one-year-warranty",
-              "fenders-for-jasion-eb7",
-              "copy-of-jasion®-bicycle-universal-mirrors"
+              "copy-of-jasion®-bicycle-universal-mirrors",
+              "fenders-for-jasion-eb7"
             ],
             "product_list": [
               "eb5-roamer-battery-pack",
               "universal-bicycle-combination-lock",
               "e-bike-phone-mount-holder",
               "copy-of-jasion®bike-rack-pannier-bag",
-              "jasion-bicycle-universal-mirrors"
+              "jasion-bicycle-universal-mirrors",
+              "jasion-ebike®-rear-basket-copy",
+              "jasion-ebike®-front-basket-copy"
             ]
           }
         },
@@ -167,7 +170,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "🎃Spooky Good Deals<br>\n⚡Lowest Price EVER!<br>\n⚡Save Up To $840 +Extra 1-Year Warranty<br>\n⚡Get 2 Free Rear Baskets with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
+            "liquid": "🎃Spooky Good Deals<br>\n⚡Lowest Price EVER!<br>\n⚡$1839 In Total Saving +Extra 1-Year Warranty<br>\n⚡Get 2 Free Gifts with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -180,10 +183,10 @@
       },
       "block_order": [
         "title",
-        "inventory_Up6cm9",
+        "inventory_JMpdff",
+        "judge_me_reviews_preview_badge_LEUymR",
+        "cycle_countdown_kAnzXp",
         "countdown_NPztC6",
-        "judge_me_reviews_preview_badge_6m6Aa8",
-        "cycle_countdown_GDPWGw",
         "variant_picker",
         "bundled_sale_m69hF9",
         "quantity_selector_d6GJ77",
@@ -490,40 +493,22 @@
     "multicolumn_slide_hb_QEk8x8": {
       "type": "multicolumn-slide-hb",
       "blocks": {
-        "video_tk4RGr": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=sSKFtoJ6aGs&t=9s",
-            "description": "",
-            "enable_video_autoplay": false,
-            "enable_video_looping": false,
-            "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=sSKFtoJ6aGs&t=9s",
-            "image_height_mobile": "auto",
-            "date": "2024/7/1",
-            "title": "EB5 Roamer ST Ebike by JASION",
-            "title_sz": "h5",
-            "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_32.jpg",
-            "author": "Fender Bunny"
-          }
-        },
         "video_ddPNFB": {
           "type": "video",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=E5xaL2kUeEw",
+            "video_url": "https://www.youtube.com/watch?v=lQj5bcSygpU",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=E5xaL2kUeEw",
+            "video_url_mobile": "https://www.youtube.com/watch?v=lQj5bcSygpU",
             "image_height_mobile": "auto",
-            "date": "2024/5/27",
-            "title": "Jasion EB5 Roamer ST Electric Bike Unbox & Assembly",
+            "date": "2024/5/20",
+            "title": "Super Commuter Deal for $839! 28MPH Class 3 Speed Throttle",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify://shop_images/unnamed_6.jpg",
-            "author": "RVdaydream"
+            "avatar": "shopify://shop_images/unnamed_2.jpg",
+            "author": "EbikeProducts"
           }
         },
         "video_CdhUFd": {
@@ -582,7 +567,6 @@
         }
       },
       "block_order": [
-        "video_tk4RGr",
         "video_ddPNFB",
         "video_CdhUFd",
         "video_h66XiD",
@@ -623,7 +607,7 @@
         "item_A4zK3m": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Establishment_620x620_f9d91901-d311-42b1-b724-38866e40305f.png",
+            "img_1": "shopify://shop_images/Establishment_620x620_21866ca7-3698-4640-95ba-ecf114f1da84.png",
             "tab_con": "Establishment",
             "title": "EB5 Preferred City Commuter",
             "content": "The EB5 Roamer series returns to our roots, celebrating our tradition of expertise in urban commuting. With its advanced lighting configuration and breakthrough features, it heralds a new era of safe and convenient urban travel."
@@ -632,27 +616,27 @@
         "item_pphRKd": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Design_620x620_c6f2c1d8-af5b-457e-b4c9-ffb297e721d5.png",
+            "img_1": "shopify://shop_images/Design_620x620_90be5000-36eb-4b2a-88c2-0e4ba27566b4.png",
             "tab_con": "Design",
-            "title": "",
+            "title": "Design",
             "content": "The EB5 Roamer series is innovative in both style and function, seamlessly integrating aesthetics and utility through its unique lighting setup (including turn signals, brake lights, rear tail lights, and front headlights). Its lighting system is designed for high performance, enhancing visibility and safety during night rides, ensuring seamless navigation in urban environments."
           }
         },
         "item_6WGyaR": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Craftsmanship_620x620_c2c9684d-59ee-4ebb-9c11-8ea3c34227db.png",
+            "img_1": "shopify://shop_images/Craftsmanship_620x620_97741c57-73ae-45b8-a142-3d9dc3cd3f8c.png",
             "tab_con": "Craftsmanship",
-            "title": "",
+            "title": "Craftsmanship",
             "content": "The EB5 Roamer series is meticulously crafted, with attention to detail and precision, reflecting our unwavering commitment to quality and innovation. Every component is rigorously designed to deliver a bicycle that not only meets but exceeds the expectations of urban commuters."
           }
         },
         "item_nKfTj6": {
           "type": "item",
           "settings": {
-            "img_1": "shopify://shop_images/Finished_Product_620x620_5619b8e0-4deb-4780-a81b-a585dedf1cf5.jpg",
+            "img_1": "shopify://shop_images/Finished_Product_540x540_96aaa830-03e1-4970-9bce-5f33ef843fb4.jpg",
             "tab_con": "Finished Product",
-            "title": "",
+            "title": "Finished Product",
             "content": "The EB5 Roamer series represents the pinnacle of excellent urban commuting. With its cutting-edge features and stylish design, it seamlessly integrates safety, convenience, and performance. Ride confidently and elegantly with the EB5 Roamer series, rediscovering the essence of urban commuting in an unparalleled way."
           }
         },
@@ -702,7 +686,7 @@
         "heading_qQDR7p": {
           "type": "heading",
           "settings": {
-            "heading": "Redefine Your Commute.\nPower Your Daily Ride.",
+            "heading": "Take Your Commutes To \nThe Next Level",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -712,7 +696,7 @@
         "text_McTWyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Turn Every Commute Into a Joyride.</p>",
+            "text": "<p>The Great Value City Commuter Step-Through E-Bike.<br/><br/></p>",
             "text_size": "subtext-custom",
             "text_max_size": 16,
             "text_font": "body",
@@ -729,12 +713,12 @@
       ],
       "settings": {
         "transparent_header": false,
-        "image": "shopify://shop_images/1920_800_305d12ce-9067-4712-a2e5-458373127b8a.jpg",
+        "image": "shopify://shop_images/1920_800_a4ee8ee0-6862-4fdd-8a6b-519e47297262.jpg",
         "image_height": "adapt",
         "content_width": "small",
         "content_position": "md:items-center md:justify-start",
         "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/390_320a.png",
+        "image_mobile": "shopify://shop_images/390_600.jpg",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
@@ -1146,7 +1130,7 @@
         "item_efmfGR": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_b37b8af7-9da2-4828-b80e-e37aa0f623b4.jpg",
+            "img": "shopify://shop_images/460x460_e338d532-5264-407b-9988-d8343c781b89.jpg",
             "date": "",
             "title": "Headlight&Taillight",
             "title_sz": "h4",
@@ -1157,7 +1141,7 @@
         "item_UQU9h3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_44e25b4f-7182-4b17-a308-583925b35241.jpg",
+            "img": "shopify://shop_images/460x460_ce2091a5-047f-4d37-8fd3-1bb970e82394.jpg",
             "date": "",
             "title": "Reflective Spoke Strips",
             "title_sz": "h4",
@@ -1168,7 +1152,7 @@
         "item_EN6kyG": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_0fda095b-b16c-49cf-b86c-b3ca2c7f48d8.jpg",
+            "img": "shopify://shop_images/460x460_2f9ece32-ab0a-4d03-9ff3-22dd55924bf8.jpg",
             "date": "",
             "title": "Front Fork Suspension",
             "title_sz": "h4",
@@ -1179,7 +1163,7 @@
         "item_97kqG3": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/Shimano_7_460x460_57a974e9-e3b1-4a82-8e76-68ba7b7d3928.jpg",
+            "img": "shopify://shop_images/Shimano_7_460x460_25e98a5f-e0b3-4677-8767-fbc08df0794c.jpg",
             "date": "",
             "title": "Shimano 7-speed",
             "title_sz": "h4",
@@ -1190,7 +1174,7 @@
         "item_BEWmqD": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_006f2650-295c-4c4f-8869-9bb728595dee.jpg",
+            "img": "shopify://shop_images/460x460_69c68626-d42c-4d81-9500-e6c5234e3f52.jpg",
             "date": "",
             "title": "Lighting & Speed Control",
             "title_sz": "h4",
@@ -1201,7 +1185,7 @@
         "item_HLcweJ": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_9adbb4d9-8748-4ddc-ae94-1ab0e5391ae4.jpg",
+            "img": "shopify://shop_images/460x460_f25c8178-f17b-42ea-936e-05ec881fa491.jpg",
             "date": "",
             "title": "Chain Guard",
             "title_sz": "h4",
@@ -1212,7 +1196,7 @@
         "item_bbFPRL": {
           "type": "item",
           "settings": {
-            "img": "shopify://shop_images/460x460_da79e715-fea8-4a50-81ae-56f9f3560c23.jpg",
+            "img": "shopify://shop_images/460x460_ce58b17f-2f95-424c-aaa3-38efcc7b4cc5.jpg",
             "date": "",
             "title": "Quick-Release Battery",
             "title_sz": "h4",
@@ -1411,10 +1395,10 @@
         "img_list_tUDfBK": {
           "type": "img_list",
           "settings": {
-            "order_title": "Geometry",
-            "img": "shopify://shop_images/EB5_Roamer_ST_600_400_af6e12af-f7ac-4fc2-a216-2b2da6c3b4c6.jpg",
+            "order_title": "EB5 Roamer Geometry",
+            "img": "shopify://shop_images/97cada8e95366dbbab7b7158c1e6b440_87ff3c5d-e7bd-4272-8be5-a56e201b8397.jpg",
             "img_w": 40,
-            "list": "|SIZE (inch)|One Size\nA|Total Length|66.9''\nB|Handlebar Height|44''\nC|Wheelbase|40''\nD|Seat Tube Length|10''\nE|Max Seat Height|32.2''\nG|Chainstay|18''\nH|Top Tube Length|23.6''\nI|Head Tube Length|3.9''\nJ|Handlebar Length|25.6''\nK|Wheel Diameter|25.6''",
+            "list": "|SIZE (inch)|One Size\nA|Total Length|66.9''\nB|Handlebar Height|44''\nC|Wheelbase|40''\nD|Seat Tube Length|10''\nE|Max Seat Height|37.5''\nG|Chainstay|18''\nH|Top Tube Length|23.6''\nI|Head Tube Length|3.9''\nJ|Handlebar Length|25.6''\nK|Wheel Diameter|25.6''",
             "item_justify": "tw-justify-between",
             "list_border": true,
             "list_col": "2"
@@ -1451,14 +1435,14 @@
             "cols": "8",
             "cols_mb": "3",
             "use_text": true,
-            "img_1": "shopify://shop_images/EB5_ROAMER_ST_500x500_1e1aedeb-9150-4604-9089-04fdae7eb507.png",
+            "img_1": "shopify://shop_images/EB5_ROAMER_500x500_dcec0f8b-2d21-4cc3-8982-6e34232837b3.png",
             "img_2": "shopify://shop_images/EB5_ROAMER_500x500-7.png",
             "img_3": "shopify://shop_images/EB5_ROAMER_500x500-6.png",
             "img_4": "shopify://shop_images/EB5_ROAMER_500x500-5.png",
             "img_5": "shopify://shop_images/EB5_ROAMER_500x500-4.png",
             "img_6": "shopify://shop_images/EB5_ROAMER_500x500-3.png",
             "img_7": "shopify://shop_images/EB5_ROAMER_500x500-2.png",
-            "img_8": "shopify://shop_images/EB5_ROAMER_ST_500x500-2.png"
+            "img_8": "shopify://shop_images/EB5_ROAMER_500x500-1.png"
           }
         }
       },
@@ -1492,10 +1476,84 @@
         "rounded": false
       }
     },
-    "17609530523370b1b5": {
+    "specifications_parameters_hb_iUFwCc": {
+      "type": "specifications-parameters-hb",
+      "blocks": {
+        "img_list_KYiFkA": {
+          "type": "img_list",
+          "settings": {
+            "order_title": "EB5 Roamer ST Geometry",
+            "img": "shopify://shop_images/EB5_Roamer_ST_600_400_701c2f23-c553-426b-9e0f-292a7218f409.jpg",
+            "img_w": 40,
+            "list": "|SIZE (inch)|One Size\nA|Total Length|66.9''\nB|Handlebar Height|44''\nC|Wheelbase|40''\nD|Seat Tube Length|10''\nE|Max Seat Height|32.2''\nG|Chainstay|18''\nH|Top Tube Length|23.6''\nI|Head Tube Length|3.9''\nJ|Handlebar Length|25.6''\nK|Wheel Diameter|25.6''",
+            "item_justify": "tw-justify-between",
+            "list_border": true,
+            "list_col": "2"
+          }
+        },
+        "img_list_mrwEWX": {
+          "type": "img_list",
+          "settings": {
+            "order_title": "Specifications",
+            "img_w": 50,
+            "list": "|Motor|1200W Brushless Hub Motor\n|Throttle |Thumb Throttle\n|Charger US |Standard 2.0 A\n|Range |Up To 62 Miles\n|Battery |48V 11Ah\n|Controller |48V / 11A\n|Tires|26'' x 1.95'' Fat Tire\n|Rider Heught|5'2'' - 6'6''\n|Pedal Assist|0-5 Level\n|Weight|65 Lbs\n|Max Payload|330 Lbs\n|Display|LCD Display\n|Lights |Left and Right Turn Signal & Brake Lights\n|Suspension|With Locking and Adjustment",
+            "item_justify": "tw-justify-start",
+            "list_border": false,
+            "list_col": "2"
+          }
+        },
+        "package_mHhgMU": {
+          "type": "package",
+          "settings": {
+            "order_title": "What's In The Box？",
+            "cols": "8",
+            "cols_mb": "3",
+            "use_text": true,
+            "img_1": "shopify://shop_images/EB5_ROAMER_ST_500x500_7042b488-6c4b-4a48-8dc4-864f75bfad65.png",
+            "img_2": "shopify://shop_images/EB5_ROAMER_ST_500x500-7.png",
+            "img_3": "shopify://shop_images/EB5_ROAMER_ST_500x500-6.png",
+            "img_4": "shopify://shop_images/EB5_ROAMER_ST_500x500-5.png",
+            "img_5": "shopify://shop_images/EB5_ROAMER_ST_500x500-4.png",
+            "img_6": "shopify://shop_images/EB5_ROAMER_ST_500x500-3.png",
+            "img_7": "shopify://shop_images/EB5_ROAMER_ST_500x500-1.png",
+            "img_8": "shopify://shop_images/EB5_ROAMER_ST_500x500-2_3abc8c9a-6478-4dac-adc2-f25863d94247.png"
+          }
+        }
+      },
+      "block_order": [
+        "img_list_KYiFkA",
+        "img_list_mrwEWX",
+        "package_mHhgMU"
+      ],
+      "name": "Spec & Par (hb)",
+      "settings": {
+        "heading": "<strong>Specs & Geometry</strong>",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h1",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 68,
+        "padding_bottom": 68,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "1760952812cd20c118": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_DBHaK3": {
+        "judge_me_reviews_review_widget_dxgFNR": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "review_data": "sample_data",
@@ -1506,7 +1564,7 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_DBHaK3"
+        "judge_me_reviews_review_widget_dxgFNR"
       ],
       "settings": {
         "color_text": "",
@@ -1794,6 +1852,24 @@
         "full_width": false,
         "rounded": false
       }
+    },
+    "1761304412cd4fdcdf": {
+      "type": "apps",
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
     }
   },
   "order": [
@@ -1814,10 +1890,12 @@
     "image_with_text_overlay_ffkPjp",
     "product_modal_popup_hb_exNHwH",
     "specifications_parameters_hb_84CbEA",
-    "17609530523370b1b5",
+    "specifications_parameters_hb_iUFwCc",
+    "1760952812cd20c118",
     "faq_LAqHrA",
     "faq",
     "product-recommendations",
-    "recently-viewed"
+    "recently-viewed",
+    "1761304412cd4fdcdf"
   ]
 }

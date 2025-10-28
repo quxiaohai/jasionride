@@ -25,6 +25,15 @@
             "line_bottom": "md:tw-mb-2"
           }
         },
+        "inventory_ATMEPK": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
+          }
+        },
         "countdown_NPztC6": {
           "type": "countdown",
           "settings": {
@@ -154,6 +163,7 @@
       },
       "block_order": [
         "title",
+        "inventory_ATMEPK",
         "countdown_NPztC6",
         "variant_picker",
         "bundled_sale_m69hF9",
