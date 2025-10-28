@@ -18,21 +18,51 @@
             "title_size": "product-title-md",
             "title_size_mobile": "product-title-md",
             "show_price": true,
-            "show_rating": true,
+            "show_rating": false,
             "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
-            "line_top": "md:tw-mt-12",
+            "line_top": "md:tw-mt-2",
             "line_bottom": "md:tw-mb-2"
+          }
+        },
+        "inventory_Up6cm9": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
           }
         },
         "countdown_NPztC6": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "heading": "Hurry up!",
             "subheading": "Sale end in:",
             "color_text": "#171717",
             "color_background": "#ffac00",
             "gradient_background": ""
+          }
+        },
+        "judge_me_reviews_preview_badge_6m6Aa8": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "cycle_countdown_GDPWGw": {
+          "type": "cycle_countdown",
+          "settings": {
+            "countdown_lbl": "Hurry up!",
+            "countdown_lbl_content": "Sale Ends In",
+            "countdown_start_date": "2024-12-02T00:00:00",
+            "duration": 1,
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "background": "#ff9b2b",
+            "background_gradient": "",
+            "text_color": "#ffffff"
           }
         },
         "variant_picker": {
@@ -65,7 +95,6 @@
         },
         "quantity_selector_d6GJ77": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "highlights_icons_kU88Jz": {
@@ -138,7 +167,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Spooky Good Deals<br>\n⚡Lowest Price EVER!<br>\n⚡Save Up To $840 +Extra 1-Year Warranty<br>\n⚡Get 2 Free Rear Baskets with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
+            "liquid": "🎃Spooky Good Deals<br>\n⚡Lowest Price EVER!<br>\n⚡Save Up To $840 +Extra 1-Year Warranty<br>\n⚡Get 2 Free Rear Baskets with Combo<br>\n✅ Fast U.S. Delivery · 14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -151,7 +180,10 @@
       },
       "block_order": [
         "title",
+        "inventory_Up6cm9",
         "countdown_NPztC6",
+        "judge_me_reviews_preview_badge_6m6Aa8",
+        "cycle_countdown_GDPWGw",
         "variant_picker",
         "bundled_sale_m69hF9",
         "quantity_selector_d6GJ77",
@@ -1460,6 +1492,38 @@
         "rounded": false
       }
     },
+    "17609530523370b1b5": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_DBHaK3": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_DBHaK3"
+      ],
+      "settings": {
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "faq_LAqHrA": {
       "type": "faq",
       "blocks": {
@@ -1664,38 +1728,6 @@
         "padding_bottom": 84,
         "divider": false,
         "narrow": false,
-        "rounded": false
-      }
-    },
-    "17609530523370b1b5": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_DBHaK3": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget",
-            "max_width": 1200
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_DBHaK3"
-      ],
-      "settings": {
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
         "rounded": false
       }
     },

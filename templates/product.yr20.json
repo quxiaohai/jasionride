@@ -18,15 +18,45 @@
             "title_size": "product-title-md",
             "title_size_mobile": "product-title-md",
             "show_price": true,
-            "show_rating": true,
+            "show_rating": false,
             "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
-            "line_top": "md:tw-mt-12",
+            "line_top": "md:tw-mt-2",
             "line_bottom": "md:tw-mb-2"
+          }
+        },
+        "inventory_eEgPHb": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
+          }
+        },
+        "judge_me_reviews_preview_badge_fUUbaK": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "cycle_countdown_Qc6WLf": {
+          "type": "cycle_countdown",
+          "settings": {
+            "countdown_lbl": "Hurry up!",
+            "countdown_lbl_content": "Sale Ends In",
+            "countdown_start_date": "2024-12-02T00:00:00",
+            "duration": 1,
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "background": "#ff9b2b",
+            "background_gradient": "",
+            "text_color": "#ffffff"
           }
         },
         "countdown_NPztC6": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "heading": "Hurry up!",
             "subheading": "Sale end in:",
@@ -148,6 +178,9 @@
       },
       "block_order": [
         "title",
+        "inventory_eEgPHb",
+        "judge_me_reviews_preview_badge_fUUbaK",
+        "cycle_countdown_Qc6WLf",
         "countdown_NPztC6",
         "variant_picker",
         "bundled_sale_m69hF9",

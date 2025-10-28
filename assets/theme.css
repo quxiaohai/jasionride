@@ -14992,3 +14992,24 @@ video-media:not([playing]) .deferred-poster .play-button .icon:last-child:not(:o
 body .nextop-chat--side-bottom {
   bottom: 60px;
 }
+.bg-custom {
+    background: rgb(var(--background));
+}
+.text-custom {
+    color: rgb(var(--text-color));
+}
+@media screen and (max-width: 1023px) {
+    body.template-product .nextop-chat--side-bottom {
+      bottom: 160px;
+      left: 8px;
+    }
+    .yotpo-smsbump-floating-button {
+        width: 154px !important;
+    }
+    .yotpo-smsbump-floating-button > button {
+      white-space: nowrap;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+}

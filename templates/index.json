@@ -12,6 +12,42 @@
     "slideshow_hb_WLJBe8": {
       "type": "slideshow-hb",
       "blocks": {
+        "image_UxKiWT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lQDPJxmYwfQokK_NArzNB4CwwxxnG0UAfXsI2veTNANnAA_1920_700.jpg",
+            "image_mobile": "shopify://shop_images/2X_Hunter_M_0c9b86e5-862b-44aa-b2e9-4e0f147ad03e.jpg",
+            "heading": "",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "subheading": "",
+            "subh_before": true,
+            "text_size": "subtext-md",
+            "button_label": "",
+            "button_link": "shopify://products/jasion-x-hunter",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_gimiFf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pc_ff57d8c3-e833-4970-abc3-fd8cf69c6ee3.jpg",
+            "image_mobile": "shopify://shop_images/yd.jpg",
+            "heading": "",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "subheading": "",
+            "subh_before": true,
+            "text_size": "subtext-md",
+            "button_label": "",
+            "button_link": "shopify://collections/flash-sale",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
         "image_cYcyz7": {
           "type": "image",
           "settings": {
@@ -23,26 +59,8 @@
             "subheading": "",
             "subh_before": true,
             "text_size": "subtext-md",
-            "button_label": "Explore more",
-            "button_link": "shopify://products/hunter-pro-combo",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "image_UxKiWT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2X_Hunter_6962ecbc-fd98-434d-9650-2e3eed6bd861.jpg",
-            "image_mobile": "shopify://shop_images/2X_Hunter_M_a6fb5956-f9d1-4519-a0d0-4e6484936e99.jpg",
-            "heading": "",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "subheading": "",
-            "subh_before": true,
-            "text_size": "subtext-md",
             "button_label": "",
-            "button_link": "shopify://products/jasion®-combo-sale-x-hunter-2",
+            "button_link": "shopify://products/hunter-pro-combo",
             "button_style": "primary",
             "button_external": false,
             "button_icon": false
@@ -68,8 +86,9 @@
         }
       },
       "block_order": [
-        "image_cYcyz7",
         "image_UxKiWT",
+        "image_gimiFf",
+        "image_cYcyz7",
         "image_F7kDtH"
       ],
       "settings": {
@@ -325,7 +344,7 @@
         "swipe_on_mobile": true,
         "enable_specs": true,
         "specs_limit": "4",
-        "heading": "Shop Ebikes",
+        "heading": "Hot Ebikes",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",

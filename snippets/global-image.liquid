@@ -62,67 +62,44 @@
              alt="{{ pc_alt }}"/>
     {%- endif -%}
 {%- elsif request.design_mode or preload -%}
-    <media-element
-            class="media image flex overflow-hidden"
-            {% if section.settings.enable_parallax %}
-                data-parallax="0.3" data-parallax-dir="{{ section.settings.parallax_direction }}"
-            {% endif %}
-    >
-        <picture class="media image overflow-hidden">
-            {%- if mobile_img != blank -%}
-                <source
-                        media="(max-width: 1023px)"
-                        class="image {{ mobile_class }}"
-                        {% if mobile_height != blank %}
-                            style="height: {{ mobile_height }}vw;"
-                        {% endif %}
-                        src="{{ mobile_img | image_url: width: mobile_size }}"
-                        width="{{ mobile_img.width }}"
-                        height="{{ mobile_img.height }}"
-                >
-            {%- endif -%}
-            {%- assign desktop_cls = 'image ' | append: mobile_class -%}
-            {%- if desktop_img != blank -%}
-                {{- desktop_img | image_url: width: desktop_size | image_tag: alt: pc_alt, class: desktop_cls -}}
-            {%- endif -%}
-        </picture>
-    </media-element>
+    <picture class="media {{ desktop_class }} {{ mobile_class }} image overflow-hidden">
+        {%- if mobile_img != blank -%}
+            <source
+                    media="(max-width: 1023px)"
+                    class="image {{ mobile_class }}"
+                    srcset="{{ mobile_img | image_url: width: '400x' }} 400w, {{ mobile_img | image_url: width: '600x' }} 600w, {{ mobile_img | image_url: width: '800x' }} 800w, {{ mobile_img | image_url: width: '1000x' }} 1000w, {{ mobile_img | image_url: width: '1400w' }} 1400w, {{ mobile_img | image_url: width: '1800w' }} 1800w"
+                    width="{{ mobile_img.width }}"
+                    height="{{ mobile_img.height }}"
+            >
+        {%- endif -%}
+        {%- assign desktop_cls = 'image ' | append: mobile_class -%}
+        {%- if desktop_img != blank -%}
+            {{- desktop_img | image_url: width: desktop_size | image_tag: alt: pc_alt, class: desktop_cls -}}
+        {%- endif -%}
+    </picture>
 {%- else -%}
-    <media-element
-            class="media image flex overflow-hidden"
-            {% if section.settings.enable_parallax %}
-                data-parallax="0.3" data-parallax-dir="{{ section.settings.parallax_direction }}"
-            {% endif %}
-    >
-        <picture class="media image overflow-hidden">
-            {%- if mobile_img != blank -%}
-                <source
-                        media="(max-width: 1023px)"
-                        class="image {{ mobile_class }}"
-                        {% if mobile_height != blank %}
-                            style="height: {{ mobile_height }}vw;"
-                        {% endif %}
-                        {% if mobile_node != blank %}
-                            node-name="{{ mobile_node }}"
-                        {% endif %}
-                        srcset="{{ mobile_img | image_url: width: '400x' }} 400w, {{ mobile_img | image_url: width: '600x' }} 600w, {{ mobile_img | image_url: width: '800x' }} 800w, {{ mobile_img | image_url: width: '1000x' }} 1000w, {{ mobile_img | image_url: width: '1400w' }} 1400w, {{ mobile_img | image_url: width: '1800w' }} 1800w"
-                        width="{{ mobile_img.width }}"
-                        height="{{ mobile_img.height }}"
-                >
-            {%- endif -%}
-            {%- if desktop_img != blank -%}
-                {%- assign desktop_cls = 'image ' | append: mobile_class -%}
-                {{-
-                desktop_img
-                | image_url: width: desktop_size
-                | image_tag:
-                alt: pc_alt,
-                class: desktop_cls,
-                loading: 'lazy',
-                widths: '180,360,540,720,900,1080,1400,1800',
-                is: 'lazy-image'
-                -}}
-            {%- endif -%}
-        </picture>
-    </media-element>
+    <picture class="media {{ desktop_class }} {{ mobile_class }} image overflow-hidden">
+        {%- if mobile_img != blank -%}
+            <source
+                    media="(max-width: 1023px)"
+                    class="image {{ mobile_class }}"
+                    srcset="{{ mobile_img | image_url: width: '400x' }} 400w, {{ mobile_img | image_url: width: '600x' }} 600w, {{ mobile_img | image_url: width: '800x' }} 800w, {{ mobile_img | image_url: width: '1000x' }} 1000w, {{ mobile_img | image_url: width: '1400w' }} 1400w, {{ mobile_img | image_url: width: '1800w' }} 1800w"
+                    width="{{ mobile_img.width }}"
+                    height="{{ mobile_img.height }}"
+            >
+        {%- endif -%}
+        {%- if desktop_img != blank -%}
+            {%- assign desktop_cls = 'image ' | append: desktop_class -%}
+            {{-
+            desktop_img
+            | image_url: width: desktop_size
+            | image_tag:
+            alt: pc_alt,
+            class: desktop_cls,
+            loading: 'lazy',
+            widths: '180,360,540,720,900,1080,1400,1800',
+            is: 'lazy-image'
+            -}}
+        {%- endif -%}
+    </picture>
 {%- endif -%}

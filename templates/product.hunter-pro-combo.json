@@ -18,15 +18,45 @@
             "title_size": "product-title-md",
             "title_size_mobile": "product-title-md",
             "show_price": true,
-            "show_rating": true,
+            "show_rating": false,
             "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
-            "line_top": "md:tw-mt-12",
+            "line_top": "md:tw-mt-2",
             "line_bottom": "md:tw-mb-2"
+          }
+        },
+        "inventory_bMmemy": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
+          }
+        },
+        "judge_me_reviews_preview_badge_7XjkDG": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "cycle_countdown_t3iaqL": {
+          "type": "cycle_countdown",
+          "settings": {
+            "countdown_lbl": "Hurry up!",
+            "countdown_lbl_content": "Sale Ends In",
+            "countdown_start_date": "2024-12-02T00:00:00",
+            "duration": 1,
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "background": "#ff9b2b",
+            "background_gradient": "",
+            "text_color": "#ffffff"
           }
         },
         "countdown_NPztC6": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "heading": "Hurry up!",
             "subheading": "Sale end in:",
@@ -66,7 +96,6 @@
         },
         "quantity_selector_d6GJ77": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "highlights_icons_kU88Jz": {
@@ -139,7 +168,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Spooky Good Deals<br>\n⚡Early Bird Deal – Limited Time Only<br>\n⚡$1700 OFF + 1 Free Pet Bike Basket<br>\n✅Extra 1-Year Warranty<br>\n⏳Be the First – Limited Release<br>\n✅14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
+            "liquid": "🎃Spooky Good Deals<br>\n⚡Early Bird Deal – Limited Time Only<br>\n⚡$1700 OFF + 1 Free Pet Bike Basket<br>\n✅Extra 1-Year Warranty<br>\n⏳Be the First – Limited Release<br>\n✅14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!"
           }
         },
         "text_wt9CQN": {
@@ -152,6 +181,9 @@
       },
       "block_order": [
         "title",
+        "inventory_bMmemy",
+        "judge_me_reviews_preview_badge_7XjkDG",
+        "cycle_countdown_t3iaqL",
         "countdown_NPztC6",
         "variant_picker",
         "bundled_sale_m69hF9",
@@ -196,6 +228,24 @@
     "multicolumn_slide_hb_QEk8x8": {
       "type": "multicolumn-slide-hb",
       "blocks": {
+        "video_r7rTp4": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=6JFqyO155z4",
+            "description": "",
+            "enable_video_autoplay": false,
+            "enable_video_looping": false,
+            "image_height": "adapt",
+            "video_url_mobile": "https://www.youtube.com/watch?v=6JFqyO155z4",
+            "image_height_mobile": "auto",
+            "date": "2025/10/26",
+            "title": "A Chill Folding Ebike That’s Probably “Enough Ebike” For Most People - Jasion Hunter Pro Review",
+            "title_sz": "h5",
+            "content": "",
+            "avatar": "shopify://shop_images/channels4_profile_36.jpg",
+            "author": "TailHappyTV"
+          }
+        },
         "video_CdhUFd": {
           "type": "video",
           "settings": {
@@ -378,6 +428,7 @@
         }
       },
       "block_order": [
+        "video_r7rTp4",
         "video_CdhUFd",
         "video_ddPNFB",
         "video_h66XiD",

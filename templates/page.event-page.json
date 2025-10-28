@@ -124,7 +124,7 @@
         "countdown_U9myNd": {
           "type": "countdown",
           "settings": {
-            "end_date": "2025-12-30 12:01:01",
+            "end_date": "2025-10-30 12:01:01",
             "day": "Days",
             "hour": "Hours",
             "minute": "Mins",
@@ -139,7 +139,7 @@
       "settings": {
         "page_color": "#f5f0ed",
         "show_heading": true,
-        "heading": "SALE ENDS IN:"
+        "heading": "BFCM DEALS VANISH SOON！"
       }
     },
     "autumn_sale_rules_bbRpn8": {
@@ -149,7 +149,7 @@
           "type": "card",
           "settings": {
             "image_icon": "shopify://shop_images/autumn-sale-rules-icon1.png",
-            "title": "Up to $1000 Off",
+            "title": "Up to $2039 Off",
             "text": "<p>Save big on your favorite eBikes<br/>this Events.</p>"
           }
         },
@@ -205,7 +205,7 @@
         "product_item_4za3JA": {
           "type": "product_item",
           "settings": {
-            "product": "hunter-pro-combo",
+            "product": "retrovolt-pro",
             "spec_text_color": "dark",
             "payment_text": "Pay over time with 0% interes",
             "payment_icon1": "shopify://shop_images/Klarna-Logo.wine.png",
@@ -311,6 +311,59 @@
         "page_color": "#f9f7f6",
         "show_heading": true,
         "heading": "Hot Picks That Riders Can’t Resist"
+      }
+    },
+    "autumn_sale_product_bundle_x89AMR": {
+      "type": "autumn-sale-product-bundle",
+      "blocks": {
+        "discount_item_ypc9pt": {
+          "type": "discount_item",
+          "settings": {
+            "full_price": 1000,
+            "discount_price": 200
+          }
+        },
+        "discount_item_3EDXAP": {
+          "type": "discount_item",
+          "settings": {
+            "full_price": 5000,
+            "discount_price": 500
+          }
+        },
+        "product_item_3XNajb": {
+          "type": "product_item",
+          "settings": {
+            "product_list1": [
+              "jasion®eb5-st-roamer-ebike",
+              "eb5-roamer-st-road-trip",
+              "jasion-ebike®combo-sale-eb5-roamer-st",
+              "eb5-roamer-st-2-long-range",
+              "jasion-ebike®combo-sale-eb5-roamer",
+              "jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st"
+            ],
+            "product_list2": [
+              "jasion-eb7-electric-bike",
+              "eb7-2-0-road-trip",
+              "combo-sale-eb7-2-0-folding-fat-tire-electric-bike",
+              "hunter-pro-combo",
+              "hunter-pro"
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "discount_item_ypc9pt",
+        "discount_item_3EDXAP",
+        "product_item_3XNajb"
+      ],
+      "name": "autumn-product-bundle",
+      "settings": {
+        "page_color": "#f9f7f6",
+        "pc_discount_url": "shopify://shop_images/autumn-sale-product-bundle-back.png",
+        "discount_title": "Bundle & Save – Stack Your Discounts!",
+        "discount_text": "<p>Get <strong>$200</strong> OFF on $1,000, <strong>$500</strong> OFF on $5,000</p>",
+        "pc_checkout_url": "shopify://shop_images/product-image1.png",
+        "checkout_text": "Proceed to Checkout"
       }
     },
     "autumn_sale_trust_dUP3HQ": {
@@ -568,60 +621,6 @@
         "heading": "YouTube Channel"
       }
     },
-    "autumn_sale_product_bundle_x89AMR": {
-      "type": "autumn-sale-product-bundle",
-      "blocks": {
-        "discount_item_ypc9pt": {
-          "type": "discount_item",
-          "settings": {
-            "full_price": 1000,
-            "discount_price": 200
-          }
-        },
-        "discount_item_3EDXAP": {
-          "type": "discount_item",
-          "settings": {
-            "full_price": 5000,
-            "discount_price": 500
-          }
-        },
-        "product_item_3XNajb": {
-          "type": "product_item",
-          "settings": {
-            "product_list1": [
-              "jasion®eb5-st-roamer-ebike",
-              "eb5-roamer-st-road-trip",
-              "jasion-ebike®combo-sale-eb5-roamer-st",
-              "eb5-roamer-st-2-long-range",
-              "jasion-ebike®combo-sale-eb5-roamer",
-              "jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st"
-            ],
-            "product_list2": [
-              "jasion-eb7-electric-bike",
-              "eb7-2-0-road-trip",
-              "combo-sale-eb7-2-0-folding-fat-tire-electric-bike",
-              "hunter-pro-combo",
-              "hunter-pro"
-            ]
-          }
-        }
-      },
-      "block_order": [
-        "discount_item_ypc9pt",
-        "discount_item_3EDXAP",
-        "product_item_3XNajb"
-      ],
-      "name": "autumn-product-bundle",
-      "settings": {
-        "page_color": "#f9f7f6",
-        "pc_discount_url": "shopify://shop_images/autumn-sale-product-bundle-back.png",
-        "mb_discount_url": "shopify://shop_images/autumn-sale-mb-product-bundle-back.png",
-        "discount_title": "Bundle & Save – Stack Your Discounts!",
-        "discount_text": "<p>Get <strong>$200</strong> OFF on $1,000, <strong>$500</strong> OFF on $5,000</p>",
-        "pc_checkout_url": "shopify://shop_images/product-image1.png",
-        "checkout_text": "Proceed to Checkout"
-      }
-    },
     "autumn_sale_sign_up": {
       "type": "autumn-sale-sign-up",
       "blocks": {
@@ -629,12 +628,20 @@
           "type": "pay",
           "settings": {
             "image_icon1": "shopify://shop_images/autumn-shop-pay.png",
-            "image_icon2": "shopify://shop_images/autumn-klarna.png"
+            "image_icon2": "shopify://shop_images/autumn-klarna.png",
+            "tag": "Ride Now, Pay Later",
+            "text": "<p>Limited-Time <strong>0% APR</strong> for 4 Months</p>",
+            "remark": "A $1,599 purchase costs $66.62/month for 24 months at 0% APR."
           }
         },
         "form_zGMMxf": {
           "type": "form",
-          "settings": {}
+          "settings": {
+            "title": "Sign up forthe latest and greatest",
+            "intro": "Subscribe to stay up-to-date with ourlatestnews, promotions, ande-bike tips. Everything you need for happy e-biking!",
+            "button": "Join Us",
+            "placeholder": "Your email"
+          }
         }
       },
       "block_order": [

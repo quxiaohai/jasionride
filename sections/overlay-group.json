@@ -286,7 +286,7 @@
           "settings": {
             "custom_icon": "",
             "title": "Shop",
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/electric-bike",
             "external": false
           }
         },

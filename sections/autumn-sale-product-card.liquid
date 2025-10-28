@@ -24,7 +24,7 @@
         height: 591px;
         background-color: #ffffff;
         border-radius: 15px;
-        margin-bottom: 24px;
+        margin-bottom: 48px;
     }
 
     .autumn-sale-product-card ._product-card .product-cover,
@@ -225,7 +225,7 @@
         .autumn-sale-product-card ._product-card {
             height: 502.35px;
             border-radius: 12.75px;
-            margin-bottom: 20.4px;
+            margin-bottom: 40px;
         }
 
         .autumn-sale-product-card ._product-card .product-cover .tag {
@@ -482,6 +482,7 @@
             border-radius: 0.4774305556rem;
         }
     }
+
     {% render 'ndev-page-wrap-style', info: ss, class: '.autumn-sale-product-card' %}
 </style>
 <section class="autumn-sale-product-card w-full">
@@ -498,7 +499,17 @@
                         {%- assign diff = variant.compare_at_price | minus: variant.price -%}
                         <div class="tag tw-font-bold">Save {{ diff | money_without_trailing_zeros }}</div>
                     {%- endif -%}
-                    {% render 'global-image', desktop_img: variant.featured_image, desktop_size: 650 %}
+                    {%- if bs.pc_product_image != blank -%}
+                        {% render 'global-image',
+                                desktop_img: bs.pc_product_image,
+                                desktop_size: 650,
+                                mobile_img: bs.mb_product_image,
+                                mobile_size: 650
+                        %}
+                    {%- else -%}
+                        {% render 'global-image', desktop_img: variant.featured_image, desktop_size: 650 %}
+                    {%- endif -%}
+
                     {%- assign specs = bs.product.metafields.custom.specifications.value | default: false -%}
                     {%- if specs -%}
                         <ul class="item-icons w-full flex-center">
@@ -619,6 +630,16 @@
           "type": "product",
           "id": "product",
           "label": "Buy Product"
+        },
+        {
+          "label": "Desktop product image",
+          "type": "image_picker",
+          "id": "pc_product_image"
+        },
+        {
+          "label": "Mobile product image",
+          "type": "image_picker",
+          "id": "mb_product_image"
         },
         {
           "type": "radio",

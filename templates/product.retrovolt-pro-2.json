@@ -18,21 +18,51 @@
             "title_size": "product-title-md",
             "title_size_mobile": "product-title-md",
             "show_price": true,
-            "show_rating": true,
+            "show_rating": false,
             "pr_info": "<p><strong>{{ product.metafields.custom.short_text.value }}</strong></p>",
             "line": true,
-            "line_top": "md:tw-mt-12",
+            "line_top": "md:tw-mt-2",
             "line_bottom": "md:tw-mb-2"
+          }
+        },
+        "inventory_pfgny7": {
+          "type": "inventory",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "show_inventory_quantity": "low",
+            "color_scheme": "accent-1"
           }
         },
         "countdown_NPztC6": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "heading": "Hurry up!",
             "subheading": "Sale end in:",
             "color_text": "#171717",
             "color_background": "#ffac00",
             "gradient_background": ""
+          }
+        },
+        "judge_me_reviews_preview_badge_yQrAtj": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "cycle_countdown_4P9aRg": {
+          "type": "cycle_countdown",
+          "settings": {
+            "countdown_lbl": "Hurry up!",
+            "countdown_lbl_content": "Sale Ends In",
+            "countdown_start_date": "2024-12-02T00:00:00",
+            "duration": 1,
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "background": "#ff9b2b",
+            "background_gradient": "",
+            "text_color": ""
           }
         },
         "variant_picker": {
@@ -62,7 +92,6 @@
         },
         "quantity_selector_d6GJ77": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "highlights_icons_kU88Jz": {
@@ -135,7 +164,7 @@
         "liquid_Riat9U": {
           "type": "liquid",
           "settings": {
-            "liquid": "Spooky Good Deals<br>\n⚡$900 OFF<br>\n⏳Be the First – Limited Release<br>\n✅Free Shipping + 2-Year Warranty<br>\n✅14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!<br>"
+            "liquid": "🎃Spooky Good Deals<br>\n⚡$900 OFF<br>\n⏳Be the First – Limited Release<br>\n✅Free Shipping + 2-Year Warranty<br>\n✅14-Day Easy Returns<br>\nLimited time – Bigger savings than ever!<br>"
           }
         },
         "text_wt9CQN": {
@@ -148,7 +177,10 @@
       },
       "block_order": [
         "title",
+        "inventory_pfgny7",
         "countdown_NPztC6",
+        "judge_me_reviews_preview_badge_yQrAtj",
+        "cycle_countdown_4P9aRg",
         "variant_picker",
         "bundled_sale_m69hF9",
         "quantity_selector_d6GJ77",
@@ -212,59 +244,56 @@
         },
         "video_ddPNFB": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=D-BVix7WjLg",
+            "video_url": "https://www.youtube.com/watch?v=NPTUhfRDBzY",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=D-BVix7WjLg",
+            "video_url_mobile": "https://www.youtube.com/watch?v=NPTUhfRDBzY",
             "image_height_mobile": "auto",
-            "date": "2025/7/17",
-            "title": "BEST FOLDABLE E-BIKE FOR DOORDASH THE JASION HUNTER PRO!",
+            "date": "2025/10/22",
+            "title": "The JASION BIKE...New model RETROVOLT PRO…a 52 Volt Full Suspension Budget Scrambler UNDER $1,000!",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_20.jpg",
+            "avatar": "shopify://shop_images/channels4_profile_33.jpg",
             "author": "Electric Scooter Academy"
           }
         },
         "video_h66XiD": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=R_BqDJwoenk",
+            "video_url": "https://www.youtube.com/watch?v=Wda0tRjKCcs",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=R_BqDJwoenk",
+            "video_url_mobile": "https://www.youtube.com/watch?v=Wda0tRjKCcs",
             "image_height_mobile": "auto",
-            "date": "2025/6/1",
-            "title": "JASION Hunter Pro Ebike Review | Awesome Improvements | More Range!",
+            "date": "2025/10/20",
+            "title": "This 2000W Ebike Hits 30+MPH in Under 5 Seconds?! | Jasion Retrovolt Pro Review",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify://shop_images/channels4_profile_21.jpg",
-            "author": "Papa`s Product Reviews"
+            "avatar": "shopify://shop_images/channels4_profile_34.jpg",
+            "author": "Hazers"
           }
         },
         "video_nAJUWq": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=3EcwawQZxbg&t=16s",
+            "video_url": "https://www.youtube.com/watch?v=ElsEXtz4Bn0",
             "description": "",
             "enable_video_autoplay": false,
             "enable_video_looping": false,
             "image_height": "adapt",
-            "video_url_mobile": "https://www.youtube.com/watch?v=3EcwawQZxbg&t=16s",
+            "video_url_mobile": "https://www.youtube.com/watch?v=ElsEXtz4Bn0",
             "image_height_mobile": "auto",
-            "date": "2025/6/2",
-            "title": "Jasion Hunter Pro Fat Tire Folding Ebike | Test Ride & Assembly",
+            "date": "2025/10/19",
+            "title": "JASION RetroVolt Pro 52V Ebike Review | UPGRADED | 52V 20AH 2000W PEAK",
             "title_sz": "h5",
             "content": "",
-            "avatar": "shopify://shop_images/unnamed_5.jpg",
-            "author": "Zophie Reviews"
+            "avatar": "shopify://shop_images/channels4_profile_35.jpg",
+            "author": "Papa`s Product Reviews"
           }
         },
         "video_4tbFaF": {
