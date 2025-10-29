@@ -4435,7 +4435,25 @@ class SliderDots extends HTMLElement {
                     item.addEventListener('click', this.onButtonClick.bind(this));
                 });
             }
+
+            if (this.eventSelector) {
+                this.eventSelector.forEach(node => {
+                    node.addEventListener('click', () => {
+                        if (!node.classList.contains(this.eventActive)) {
+                            node.classList.add(this.eventActive);
+                        }
+                    });
+                })
+            }
         });
+    }
+
+    get eventSelector() {
+        return this.hasAttribute('data-event-selector') ? Array.from(this.querySelectorAll(this.getAttribute('data-event-selector'))) : null;
+    }
+
+    get eventActive() {
+        return this.hasAttribute('data-event-active') ? this.getAttribute('data-event-active') : 'active';
     }
 
     get controlledElement() {

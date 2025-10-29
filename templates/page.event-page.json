@@ -445,19 +445,22 @@
         "say_Bd33R8": {
           "type": "say",
           "settings": {
-            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>"
+            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>",
+            "image_icon": "shopify://shop_images/autumn-sale-say-icon.jpg"
           }
         },
         "say_zGMMxf": {
           "type": "say",
           "settings": {
-            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>"
+            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>",
+            "image_icon": "shopify://shop_images/autumn-sale-say-icon.jpg"
           }
         },
         "say_p8cfKf": {
           "type": "say",
           "settings": {
-            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>"
+            "intro": "<p>If you're more concerned about safety than commute distance, <br/>you'll enjoy the front fork suspension, front and rear mechanical disc brakes, and more.</p>",
+            "image_icon": "shopify://shop_images/autumn-sale-say-icon.jpg"
           }
         }
       },

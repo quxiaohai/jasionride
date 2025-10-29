@@ -836,7 +836,7 @@
                     obj.cIndex = index;
                 },
                 handleDropOpen(obj) {
-                    obj.on = true;
+                    obj.on = !obj.on;
                     this.$nextTick(() => {
                         window.theme && theme.pubsub.publish(theme.pubsub.PUB_SUB_EVENTS.scrollInit);
                     })

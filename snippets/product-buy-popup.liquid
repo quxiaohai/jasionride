@@ -286,7 +286,7 @@
                     this.product.cIndex = index;
                 },
                 handleDropOpen() {
-                    this.product.on = true;
+                    this.product.on = !this.product.on;
                     this.$nextTick(() => {
                         window.theme && theme.pubsub.publish(theme.pubsub.PUB_SUB_EVENTS.scrollInit);
                     })
