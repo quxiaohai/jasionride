@@ -46,6 +46,7 @@
         position: absolute;
         top: 15px;
         left: 11px;
+        z-index: 2;
     }
 
     .autumn-sale-product-card ._product-card .product-cover .image {
@@ -509,36 +510,37 @@
                     {%- else -%}
                         {% render 'global-image', desktop_img: variant.featured_image, desktop_size: 650 %}
                     {%- endif -%}
-
-                    {%- assign specs = bs.product.metafields.custom.specifications.value | default: false -%}
-                    {%- if specs -%}
-                        <ul class="item-icons w-full flex-center">
-                            {% for i in ( 0..specs.title_list.value.size) limit: 4 %}
-                                {% if specs.title_list.value[i] != blank %}
-                                    <li class="item-icon {{ bs.spec_text_color }} tw-text-center flex-center-col">
-                                        {% for url in specs.icon_list.value %}
-                                            {% assign i_2 = forloop.index | minus: 1 %}
-                                            {% if i_2 == i and url != blank %}
-                                                {{- url | image_url: width: url.width | image_tag: loading: 'lazy', class: 'image' -}}
-                                            {% endif %}
-                                        {% endfor %}
-                                        <div class="text">
-                                            {{ specs.title_list.value[i] }}<br>
-                                            {{ specs.content_list.value[i] }}
-                                        </div>
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
+                    {%- if bs.show_spec -%}
+                        {%- assign specs = bs.product.metafields.custom.specifications.value | default: false -%}
+                        {%- if specs -%}
+                            <ul class="item-icons w-full flex-center">
+                                {% for i in ( 0..specs.title_list.value.size) limit: 4 %}
+                                    {% if specs.title_list.value[i] != blank %}
+                                        <li class="item-icon {{ bs.spec_text_color }} tw-text-center flex-center-col">
+                                            {% for url in specs.icon_list.value %}
+                                                {% assign i_2 = forloop.index | minus: 1 %}
+                                                {% if i_2 == i and url != blank %}
+                                                    {{- url | image_url: width: url.width | image_tag: loading: 'lazy', class: 'image' -}}
+                                                {% endif %}
+                                            {% endfor %}
+                                            <div class="text">
+                                                {{ specs.title_list.value[i] }}<br>
+                                                {{ specs.content_list.value[i] }}
+                                            </div>
+                                        </li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                        {%- endif -%}
                     {%- endif -%}
                 </div>
                 <div class="product-info">
                     <div class="product-name tw-font-bold">{{ bs.product.title }}</div>
                     <div class="intro tw-line-clamp-2">
-                        {{ bs.product.description | strip_html }}
+                        {{ bs.product.metafields.custom.short_title.value }}
                     </div>
                     <div class="price-box flex-left">
-                        <div class="price tw-font-black">{{ variant.price | money }}</div>
+                        <div class="price tw-font-black" style="color: {{ bs.product_price_color }}">{{ variant.price | money }}</div>
                         <div class="original-price">{{ variant.compare_at_price | money }}</div>
                     </div>
                     <div class="pay-discount flex-left">
@@ -571,6 +573,7 @@
                     </div>
                     <div class="btn-group flex-between">
                         <button class="button flex-center"
+                                style="--color-button-gradient: {{ bs.button1_bg_color }}; --color-button-background: {{ bs.button1_bg_color.rgb }};color: {{ bs.button1_text_color }};"
                                 onclick="$heybike.emit('{{ section.id }}-shop-popup', {{ forloop.index0 }})">{{ bs.button1 }}</button>
                         <a href="{{ bs.button2_url }}" target="_blank"
                            class="button more flex-center">{{ bs.button2 }}</a>
@@ -632,6 +635,12 @@
           "label": "Buy Product"
         },
         {
+          "type": "color",
+          "id": "product_price_color",
+          "label": "Product price color",
+          "default": "#ff981d"
+        },
+        {
           "label": "Desktop product image",
           "type": "image_picker",
           "id": "pc_product_image"
@@ -640,6 +649,12 @@
           "label": "Mobile product image",
           "type": "image_picker",
           "id": "mb_product_image"
+        },
+        {
+          "label": "Show specification",
+          "type": "checkbox",
+          "id": "show_spec",
+          "default": true
         },
         {
           "type": "radio",
@@ -706,6 +721,18 @@
           "id": "button1",
           "label": "Button1 Name",
           "default": "Shop Now"
+        },
+        {
+          "type": "color",
+          "id": "button1_text_color",
+          "label": "Button1 text color",
+          "default": "#ffffff"
+        },
+        {
+          "type": "color",
+          "id": "button1_bg_color",
+          "label": "Button1 background color",
+          "default": "#FFDB00"
         },
         {
           "type": "text",

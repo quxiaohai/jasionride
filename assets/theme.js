@@ -418,7 +418,8 @@ console.log(theme.settings.themeName + ' theme (' + theme.settings.themeVersion 
             quantityBoundries: 'quantityBoundries',
             optionValueSelectionChange: 'optionValueSelectionChange',
             popupShow: 'popupShow',
-            popupHide: 'popupHide'
+            popupHide: 'popupHide',
+            scrollInit: 'scrollInit'
         },
 
         subscribers: {},
@@ -7695,3 +7696,50 @@ class HeyPopup extends HTMLElement {
 
 // 注册自定义元素
 customElements.define('hey-popup', HeyPopup);
+
+
+class ScrollArea extends HTMLElement {
+    constructor() {
+        super();
+        theme.pubsub.subscribe(theme.pubsub.PUB_SUB_EVENTS.scrollInit, this.onInit.bind(this));
+    }
+
+    connectedCallback() {
+        setTimeout(() => {
+            this.onInit();
+        }, 500);
+    }
+
+    get selector() {
+        return this.hasAttribute('data-selector') ? this.getAttribute('data-selector') : '.scroll-view';
+    }
+
+    onInit = () => {
+        const node = this.querySelector(this.selector);
+        const scrollHeight = node.scrollHeight;
+        const totalHeight = node.offsetHeight;
+        this.classList.add('scroll-area-view');
+        
+        // 隐藏状态
+        if (scrollHeight === 0 || scrollHeight === totalHeight) {
+            this.classList.add('hidden-bar');
+            return false;
+        }
+
+        this.classList.remove('hidden-bar');
+        const barHeight = Math.round((totalHeight / scrollHeight) * totalHeight);
+        const barTotalHeight = totalHeight - barHeight;
+        this.style.setProperty('--scrollbar-height', `${barHeight}px`);
+
+        if (this.getAttribute('scroll')) {
+            return false;
+        }
+        this.setAttribute('scroll', 'true');
+        node.addEventListener('scroll', (ev) => {
+            const top = ev.target.scrollTop;
+            const moveY = (top / (scrollHeight - totalHeight)) * barTotalHeight;
+            this.style.setProperty('--scrollbar-y', `${moveY}px`);
+        });
+    };
+}
+customElements.define('scroll-area', ScrollArea);

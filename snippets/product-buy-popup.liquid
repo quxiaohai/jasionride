@@ -131,7 +131,7 @@
             {%- assign bs = block.settings -%}
             {
                 title: "{{ bs.product.title }}",
-                intro: `{{ bs.product.description | strip_html }}`,
+                intro: `{{ bs.product.metafields.custom.short_title.value }}`,
                 cIndex: 0,
                 vIndex: 0,
                 num: 1,
@@ -279,7 +279,6 @@
                     console.log('初始化没有过来吗')
                     $heybike.bind('{{ section.id }}-shop-popup', index => {
                         this.current = index;
-                        console.log('点击成功了----')
                         window.theme && theme.pubsub.publish(theme.pubsub.PUB_SUB_EVENTS.popupShow, "{{ section.id }}");
                     });
                 },
@@ -288,6 +287,9 @@
                 },
                 handleDropOpen() {
                     this.product.on = true;
+                    this.$nextTick(() => {
+                        window.theme && theme.pubsub.publish(theme.pubsub.PUB_SUB_EVENTS.scrollInit);
+                    })
                 },
                 handleChangeDrop(index) {
                     this.product.vIndex = index;

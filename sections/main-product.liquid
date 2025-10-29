@@ -671,53 +671,54 @@
             {%- when 'bundled_sale' -%}
               <div class="bundled_sale tw-border tw-border-viGray-300 tw-border-solid tw-rounded-2xl md:tw-p-6 tw-p-4">
                 <p class="text-sm-lg -md:tw-text-base tw-font-semibold leading-none tw-mb-6">{{ block.settings.heading | default: block.settings.page.title | escape }}</p>
-                  <div class="tw-grid tw-gap-4 tw-overflow-y-scroll md:tw-max-h-[312px] tw-max-h-[234px] tw-vi-scrollbar">
+                  <scroll-area>
+                      <div class="tw-grid tw-gap-4 tw-overflow-y-scroll md:tw-max-h-[312px] tw-max-h-[234px] scroll-view">
+                          {% for pr in block.settings.gift_list %}
+                              <div class="tw-flex tw-gap-4 tw-relative">
+                                  <div class="tw-p-2 tw-bg-viGray-200 tw-rounded tw-aspect-square tw-flex tw-items-center">
+                                      {{ pr.featured_image | image_url: width: '50' | image_tag: width: '50'}}
+                                  </div>
+                                  <div class="tw-text-sm -md:tw-pr-10 tw-flex-1">
+                                      <p class="font-medium">{{pr.title }}</p>
+                                      <p>
+                                          <span class="tw-font-semibold tw-text-vi">FREE</span>
+                                          <span class="price__sale tw-relative">{{pr.price | money }}</span>
+                                      </p>
+                                  </div>
+                                  <div class="tw-absolute tw-right-4 tw-top-1 ">
+                                      <input name="bundles unsubmit" value="{{ pr.selected_or_first_available_variant.id }}" id="Recommendations_{{ pr.handle }}" disabled checked class="checkbox tw-rounded-checkbox"  type="checkbox">
+                                  </div>
+                              </div>
+                          {% endfor %}
+                          {% for pr in block.settings.product_list %}
+                              <div class="tw-flex tw-gap-4 tw-relative bundle-item">
+                                  <div class="tw-p-2 tw-bg-viGray-200 tw-rounded tw-aspect-square tw-flex tw-items-center">
+                                      {{ pr.featured_image | image_url: width: '50' | image_tag: width: '50'}}
+                                  </div>
 
-                    {% for pr in block.settings.gift_list %}
-                      <div class="tw-flex tw-gap-4 tw-relative">
-                        <div class="tw-p-2 tw-bg-viGray-200 tw-rounded tw-aspect-square tw-flex tw-items-center">
-                          {{ pr.featured_image | image_url: width: '50' | image_tag: width: '50'}} 
-                        </div>
-                        <div class="tw-text-sm -md:tw-pr-10 tw-flex-1">
-                          <p class="font-medium">{{pr.title }}</p>
-                          <p>
-                            <span class="tw-font-semibold tw-text-vi">FREE</span> 
-                            <span class="price__sale tw-relative">{{pr.price | money }}</span>
-                          </p>
-                        </div>
-                        <div class="tw-absolute tw-right-4 tw-top-1 ">
-                          <input name="bundles unsubmit" value="{{ pr.selected_or_first_available_variant.id }}" id="Recommendations_{{ pr.handle }}" disabled checked class="checkbox tw-rounded-checkbox"  type="checkbox">
-                        </div>
+                                  <input name="bundles" value="{{pr.selected_or_first_available_variant.id }}" id="Recommendations_{{ pr.handle }}" class="checkbox tw-rounded-checkbox !tw-absolute tw-right-4 tw-top-1"  type="checkbox">
+
+                                  <div class="bundle-info tw-text-sm -md:tw-pr-10 tw-flex-1">
+                                      <p class="font-medium">{{pr.title }}</p>
+                                      <p>{{pr.price | money }}</p>
+                                      <quantity-input class="quantity tw-mt-1 tw-inline-flex" data-id="{{ block.id }}" data-product-id="{{ product.id }}">
+                                          <button type="button" name="minus" class="quantity__button tw-px-2" aria-label="{{ 'products.quantity.decrease' | t: product: product.title | escape }}">
+                                              {%- render 'icon', icon: 'chevron-left', size: 'sm', class: 'transform' -%}
+                                          </button>
+                                          <input id="Quantity-{{ section.id }}-{{ product.id }}" class="quantity__input text-sm sm:text-base font-medium text-center" type="number" name="quantity" inputmode="numeric" autocomplete="off" data-quantity-variant-id="{{ product.selected_or_first_available_variant.id }}" data-min="1" min="1" step="1" value="1" />
+                                          <button type="button" name="plus" class="quantity__button tw-px-2" aria-label="{{ 'products.quantity.increase' | t: product: product.title | escape }}">
+                                              {%- render 'icon', icon: 'chevron-right', size: 'sm', class: 'transform' -%}
+                                          </button>
+                                      </quantity-input>
+                                  </div>
+
+
+
+
+                              </div>
+                          {% endfor %}
                       </div>
-                    {% endfor %}
-                    {% for pr in block.settings.product_list %}
-                      <div class="tw-flex tw-gap-4 tw-relative bundle-item">
-                        <div class="tw-p-2 tw-bg-viGray-200 tw-rounded tw-aspect-square tw-flex tw-items-center">
-                          {{ pr.featured_image | image_url: width: '50' | image_tag: width: '50'}} 
-                        </div>
-
-                        <input name="bundles" value="{{pr.selected_or_first_available_variant.id }}" id="Recommendations_{{ pr.handle }}" class="checkbox tw-rounded-checkbox !tw-absolute tw-right-4 tw-top-1"  type="checkbox">
-
-                        <div class="bundle-info tw-text-sm -md:tw-pr-10 tw-flex-1">
-                          <p class="font-medium">{{pr.title }}</p>
-                          <p>{{pr.price | money }}</p>
-                          <quantity-input class="quantity tw-mt-1 tw-inline-flex" data-id="{{ block.id }}" data-product-id="{{ product.id }}">
-                            <button type="button" name="minus" class="quantity__button tw-px-2" aria-label="{{ 'products.quantity.decrease' | t: product: product.title | escape }}">
-                              {%- render 'icon', icon: 'chevron-left', size: 'sm', class: 'transform' -%}
-                            </button>
-                            <input id="Quantity-{{ section.id }}-{{ product.id }}" class="quantity__input text-sm sm:text-base font-medium text-center" type="number" name="quantity" inputmode="numeric" autocomplete="off" data-quantity-variant-id="{{ product.selected_or_first_available_variant.id }}" data-min="1" min="1" step="1" value="1" />
-                            <button type="button" name="plus" class="quantity__button tw-px-2" aria-label="{{ 'products.quantity.increase' | t: product: product.title | escape }}">
-                              {%- render 'icon', icon: 'chevron-right', size: 'sm', class: 'transform' -%}
-                            </button>
-                          </quantity-input>
-                        </div>
-
-
-
-
-                      </div>
-                    {% endfor %}
-                  </div>
+                  </scroll-area>
               </div>
               {% comment %} <style>
                 .quantity {

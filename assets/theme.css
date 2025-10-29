@@ -14824,11 +14824,12 @@ video-media:not([playing]) .deferred-poster .play-button .icon:last-child:not(:o
     }
   }
 }
+.scroll-view::-webkit-scrollbar,
 .hide-scroll-bar::-webkit-scrollbar {
     width: 0 !important;
     display: none;
 }
-.scrolling {
+.scrolling, .scroll-view {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -15012,4 +15013,27 @@ body .nextop-chat--side-bottom {
       display: flex;
       justify-content: center;
     }
+}
+.scroll-area-view {
+    position: relative;
+    display: block;
+}
+.scroll-area-view.hidden-bar:before, .scroll-area-view.hidden-bar:after {
+    display: none;
+}
+.scroll-area-view:before, .scroll-area-view:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #f5f5f5;
+    width: 0.25rem;
+    height: 100%;
+    z-index: 1;
+}
+.scroll-area-view:after {
+    transform: translateY(var(--scrollbar-y, 0));
+    height: var(--scrollbar-height, 10px);
+    background-color: #ff9500;
+    z-index: 2;
 }

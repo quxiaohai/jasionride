@@ -122,37 +122,42 @@
             {%- unless featured_media.media_type == 'video' or featured_media.media_type == 'external_video' -%}
             {%- if show_secondary_image and product.media.size > 0 -%}
                 <card-slider-media slider-media-id="card-slider-{{ product.id }}" class="product-card__carousel tw-flex tw-h-full" thumbnail-mode="click">
-    
-                    {% assign colors = '' %}
-                    {% for variant in product.variants %}
-                    {% if variant.options[0] != blank %}
-                        {% unless colors contains variant.options[0] %}
-                        {% assign colors = colors | append: variant.options[0] | append: ',' %}
-                        {% endunless %}
-                    {% endif %}
-                    {% endfor %}
-                    {% assign colors = colors | split: ',' %}
-                    {% for color in colors %}
-                    {% for variant in product.variants %}
-                        {% if variant.options[0] == color %}
-                        {% assign media = variant.image %}
-                        {% comment %} <div  class="media media--height{% unless image_fill %} media--contain{% endunless %} w-full h-full overflow-hidden"> {% endcomment %}
+                    {%- if first_image -%}
                         <div class="media media--height {% unless image_fill %}media--contain{% endunless %} ">
                             <a href="{{ product.url }}">
-                            {% if media %}
-                              {{- media | image_url: width: '500' | image_tag: loading: 'lazy', widths: '500', is: 'lazy-image',class:"tw-block" -}}
-                            {% else %}
-                              {{- product.featured_media | image_url: width: '500' | image_tag: loading: 'lazy', widths: '500', is: 'lazy-image',class:"tw-block" -}}
-                            {% endif %}
+                                {{- product.featured_image | image_url: width: '500' | image_tag: loading: 'lazy', widths: '500', is: 'lazy-image',class:"tw-block" -}}
                             </a>
                         </div>
-                        {% break %}
-                        {% endif %}
-    
-                    {% endfor %}
-                    {% endfor %}
-    
-    
+                    {%- else -%}
+                        {% assign colors = '' %}
+                        {% for variant in product.variants %}
+                            {% if variant.options[0] != blank %}
+                                {% unless colors contains variant.options[0] %}
+                                    {% assign colors = colors | append: variant.options[0] | append: ',' %}
+                                {% endunless %}
+                            {% endif %}
+                        {% endfor %}
+                        {% assign colors = colors | split: ',' %}
+                        {% for color in colors %}
+                            {% for variant in product.variants %}
+                                {% if variant.options[0] == color %}
+                                    {% assign media = variant.image %}
+                                    {% comment %} <div  class="media media--height{% unless image_fill %} media--contain{% endunless %} w-full h-full overflow-hidden"> {% endcomment %}
+                                    <div class="media media--height {% unless image_fill %}media--contain{% endunless %} ">
+                                        <a href="{{ product.url }}">
+                                            {% if media %}
+                                                {{- media | image_url: width: '500' | image_tag: loading: 'lazy', widths: '500', is: 'lazy-image',class:"tw-block" -}}
+                                            {% else %}
+                                                {{- product.featured_media | image_url: width: '500' | image_tag: loading: 'lazy', widths: '500', is: 'lazy-image',class:"tw-block" -}}
+                                            {% endif %}
+                                        </a>
+                                    </div>
+                                    {% break %}
+                                {% endif %}
+
+                            {% endfor %}
+                        {% endfor %}
+                    {%- endif -%}
                 </card-slider-media>
             {%- endif -%}
             {%- endunless -%}

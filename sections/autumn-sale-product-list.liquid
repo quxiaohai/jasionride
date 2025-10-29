@@ -27,26 +27,10 @@
         border-radius: 15px;
     }
 
-    .autumn-sale-product-list ._product-card .product-cover .tag-list {
-        position: absolute;
-        top: 14px;
-        left: 17px;
-        gap: 0 10px;
-    }
-
-    .autumn-sale-product-list ._product-card .product-cover .tag {
-        font-size: 14px;
-        color: #444444;
-        line-height: 1;
-        padding: 5px 10px;
-        border-radius: 4px;
-        border: solid 1px #222222;
-    }
-
-    .autumn-sale-product-list ._product-card .product-cover > .image {
+    .autumn-sale-product-list ._product-card .product-cover .image {
         width: 100%;
         height: 290px;
-        object-fit: cover;
+        object-fit: contain;
     }
 
     .autumn-sale-product-list ._product-card .text-items {
@@ -99,9 +83,20 @@
         color: #000000;
         line-height: 1.2;
         padding-bottom: 6px;
+        flex-wrap: wrap;
     }
 
-    .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text, .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
+    .autumn-sale-product-list ._product-card .product-info .product-name .tag {
+        font-size: 14px;
+        color: #ffffff;
+        line-height: 1;
+        padding: 4px 8px;
+        background: #ff981d;
+        border-radius: 6px;
+    }
+
+    .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text,
+    .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
         font-size: 14px;
         color: #999999;
     }
@@ -188,19 +183,7 @@
             border-radius: 12.75px;
         }
 
-        .autumn-sale-product-list ._product-card .product-cover .tag-list {
-            top: 11.9px;
-            left: 14.45px;
-            gap: 0 8.5px;
-        }
-
-        .autumn-sale-product-list ._product-card .product-cover .tag {
-            font-size: 12px;
-            padding: 4.25px 8.5px;
-            border-radius: 3.4px;
-        }
-
-        .autumn-sale-product-list ._product-card .product-cover > .image {
+        .autumn-sale-product-list ._product-card .product-cover .image {
             height: 21.0755813953vw;
         }
 
@@ -231,7 +214,14 @@
             padding-bottom: 5.1px;
         }
 
-        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text, .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
+        .autumn-sale-product-list ._product-card .product-info .product-name .tag {
+            font-size: 12px;
+            padding: 3.4px 6.8px;
+            border-radius: 5.1px;
+        }
+
+        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text,
+        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
             font-size: 12px;
         }
 
@@ -309,19 +299,7 @@
             border-radius: 0.4340277778rem;
         }
 
-        .autumn-sale-product-list ._product-card .product-cover .tag-list {
-            top: 0.6076388889rem;
-            left: 0.7595486111rem;
-            gap: 0 0.4557291667rem;
-        }
-
-        .autumn-sale-product-list ._product-card .product-cover .tag {
-            font-size: 0.6076388889rem;
-            padding: 0.2604166667rem 0.4774305556rem;
-            border-radius: 0.1736111111rem;
-        }
-
-        .autumn-sale-product-list ._product-card .product-cover > .image {
+        .autumn-sale-product-list ._product-card .product-cover .image {
             height: 52.962962963vw;
         }
 
@@ -357,7 +335,14 @@
             padding-bottom: 0.5208333333rem;
         }
 
-        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text, .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
+        .autumn-sale-product-list ._product-card .product-info .product-name .tag {
+            font-size: 0.6944444444rem;
+            padding: 0.1736111111rem 0.3472222222rem;
+            border-radius: 0.2604166667rem;
+        }
+
+        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-text,
+        .autumn-sale-product-list ._product-card .product-info .product__rating .rating-count {
             font-size: 0.6076388889rem;
         }
 
@@ -400,6 +385,7 @@
             border-radius: 1.4814814815vw;
         }
     }
+
     {% render 'ndev-page-wrap-style', info: ss, class: '.autumn-sale-product-list' %}
 </style>
 <section class="autumn-sale-product-list w-full">
@@ -413,16 +399,16 @@
                 {%- assign variant = bs.product.selected_or_first_available_variant -%}
                 <div class="_product-card flex-col tw-overflow-hidden">
                     <div class="product-cover tw-relative">
-                        {%- if variant.compare_at_price > variant.price -%}
-                            {%- assign diff = variant.compare_at_price | minus: variant.price -%}
-                            <div class="tag-list flex-left">
-                                <div class="tag tw-font-bold">Save {{ diff | money_without_trailing_zeros }}</div>
-                            </div>
-                        {%- endif -%}
                         {% render 'global-image', desktop_img: variant.featured_image, desktop_size: 650 %}
                     </div>
                     <div class="product-info">
-                        <div class="product-name tw-font-bold">{{ bs.product.title }}</div>
+                        <div class="product-name flex-between tw-font-bold">
+                            <span>{{ bs.product.title }}</span>
+                            {%- if variant.compare_at_price > variant.price -%}
+                                {%- assign diff = variant.compare_at_price | minus: variant.price -%}
+                                <div class="tag tw-font-bold">Save {{ diff | money_without_trailing_zeros }}</div>
+                            {%- endif -%}
+                        </div>
                         {%- if product.metafields.reviews.rating.value != blank and product.metafields.reviews.rating_count.value > 0 -%}
                             {% liquid
                                 assign rating_decimal = 0
@@ -455,7 +441,7 @@
                                 </p>
                             </div>
                         {%- endif -%}
-                        {%- assign specs = product.metafields.custom.specifications.value | default: false -%}
+                        {%- assign specs = bs.product.metafields.custom.specifications.value | default: false -%}
                         {%- if specs -%}
                             <ul class="text-items w-full flex-left">
                                 {% for i in ( 0..specs.title_list.value.size) limit: 4 %}
@@ -499,17 +485,17 @@
                     <div class="product-item card">
                         <div class="_product-card flex-col tw-overflow-hidden">
                             <div class="product-cover tw-relative">
-                                {%- if variant.compare_at_price > variant.price -%}
-                                    {%- assign diff = variant.compare_at_price | minus: variant.price -%}
-                                    <div class="tag-list flex-left">
-                                        <div class="tag tw-font-bold">
-                                            Save {{ diff | money_without_trailing_zeros }}</div>
-                                    </div>
-                                {%- endif -%}
                                 {% render 'global-image', desktop_img: variant.featured_image, desktop_size: 650 %}
                             </div>
                             <div class="product-info">
-                                <div class="product-name tw-font-bold">{{ bs.product.title }}</div>
+                                <div class="product-name flex-between tw-font-bold">
+                                    <span>{{ bs.product.title }}</span>
+                                    {%- if variant.compare_at_price > variant.price -%}
+                                        {%- assign diff = variant.compare_at_price | minus: variant.price -%}
+                                        <div class="tag tw-font-bold">
+                                            Save {{ diff | money_without_trailing_zeros }}</div>
+                                    {%- endif -%}
+                                </div>
                                 {%- if product.metafields.reviews.rating.value != blank and product.metafields.reviews.rating_count.value > 0 -%}
                                     {% liquid
                                         assign rating_decimal = 0

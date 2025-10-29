@@ -53,7 +53,8 @@
         width: 100%;
         height: 100%;
     }
-    .autumn-sale-media-comments .autumn-content .media-info .intro, .autumn-sale-media-comments .autumn-content .media-info .name {
+    .autumn-sale-media-comments .autumn-content .media-info .intro,
+    .autumn-sale-media-comments .autumn-content .media-info .name {
         color: #ffffff;
     }
     .autumn-sale-media-comments .autumn-content .media-info .intro {
@@ -66,7 +67,7 @@
         font-size: 50px;
         line-height: 1.1;
         font-weight: 700;
-        color: #FFFFFF;
+        color: #ffffff;
         left: -15px;
         top: -10px;
     }
@@ -155,19 +156,23 @@
         .autumn-sale-media-comments {
             padding: 0.8680555556rem 0 1.5190972222rem;
         }
+        .autumn-sale-media-comments .title {
+            font-size: 0.78125rem;
+            padding-bottom: 0.9765625rem;
+        }
         .autumn-sale-media-comments .autumn-content {
             max-width: 100%;
             padding: 0;
+        }
+        .autumn-sale-media-comments .autumn-content .slider {
+            scroll-padding-inline: var(--page-padding);
+            padding-block-end: var(--card-shadow-vertical-offset);
         }
         .autumn-sale-media-comments .autumn-content .card-grid {
             --slider-item-width: 57.87vw;
             gap: 0 0.5859375rem;
             padding-left: 0.9114583333rem;
             padding-right: 50vw;
-        }
-        .autumn-sale-media-comments .autumn-content .slider {
-            scroll-padding-inline: var(--page-padding);
-            padding-block-end: var(--card-shadow-vertical-offset);
         }
         .autumn-sale-media-comments .autumn-content .slider-item {
             border-radius: 0.1736111111rem;
@@ -233,6 +238,9 @@
 </style>
 <div class="autumn-sale-media-comments w-full">
     <div class="autumn-content w-full">
+        {%- if ss.show_heading -%}
+            <div class="title tw-text-center tw-text-base tw-font-bold">{{ ss.heading }}</div>
+        {%- endif -%}
         <slider-element
                 id="Slider-{{ section.id }}"
                 class="grid slider slider--desktop slider--tablet"
@@ -312,6 +320,18 @@
       "type": "number",
       "id": "page_bottom",
       "label": "padding Bottom"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_heading",
+      "label": "Show Title",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Title",
+      "default": "Comments"
     }
   ],
   "blocks": [

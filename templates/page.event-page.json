@@ -198,8 +198,11 @@
             ],
             "remark": "Now,as part of the Pre-Order, we are offering free Fender Set and a Rear Rack, a total value of $515.",
             "button1": "Shop Now",
+            "button1_bg_color": "#FF0000",
+            "product_price_color": "#FF0000",
             "button2": "Learn More",
-            "button2_url": ""
+            "button2_url": "",
+            "show_spec": false
           }
         },
         "product_item_4za3JA": {

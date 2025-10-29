@@ -62,7 +62,7 @@
              alt="{{ pc_alt }}"/>
     {%- endif -%}
 {%- elsif request.design_mode or preload -%}
-    <picture class="media {{ desktop_class }} {{ mobile_class }} image overflow-hidden">
+    <picture class="media {{ desktop_class }} {{ mobile_class }} image tw-relative overflow-hidden">
         {%- if mobile_img != blank -%}
             <source
                     media="(max-width: 1023px)"
@@ -78,7 +78,7 @@
         {%- endif -%}
     </picture>
 {%- else -%}
-    <picture class="media {{ desktop_class }} {{ mobile_class }} image overflow-hidden">
+    <picture class="media {{ desktop_class }} {{ mobile_class }} image tw-relative overflow-hidden">
         {%- if mobile_img != blank -%}
             <source
                     media="(max-width: 1023px)"

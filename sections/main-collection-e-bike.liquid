@@ -268,7 +268,8 @@
                         save_type: settings.product_save_type
                         hidden-badges: true,
                         enable_specs: section.settings.enable_specs,
-                        specs_limit: section.settings.specs_limit
+                        specs_limit: section.settings.specs_limit,
+                        first_image: true
                       -%}
                     {% else %}
                       {%- render 'product-card-2-hb',
@@ -289,7 +290,8 @@
                         save_type: settings.product_save_type
                         hidden-badges: true,
                         enable_specs: section.settings.enable_specs,
-                        specs_limit: section.settings.specs_limit
+                        specs_limit: section.settings.specs_limit,
+                        first_image: true
                       -%}
                     {%- endif -%}
                 {%- endif -%}
