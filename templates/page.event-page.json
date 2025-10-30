@@ -322,34 +322,71 @@
         "discount_item_ypc9pt": {
           "type": "discount_item",
           "settings": {
-            "full_price": 1000,
-            "discount_price": 200
+            "full_price": 1200,
+            "discount_price": 50,
+            "discount_code": "BFCMEX50"
           }
         },
         "discount_item_3EDXAP": {
           "type": "discount_item",
           "settings": {
-            "full_price": 5000,
-            "discount_price": 500
+            "full_price": 3000,
+            "discount_price": 150,
+            "discount_code": "BFCMEX50"
           }
         },
         "product_item_3XNajb": {
           "type": "product_item",
           "settings": {
             "product_list1": [
+              "hunter-pro",
+              "retrovolt-pro",
+              "jasion-x-hunter",
+              "thunder",
+              "jasion-yr20",
+              "jasion-eb7-electric-bike",
               "jasion®eb5-st-roamer-ebike",
+              "jasion®eb5-roamer-ebike",
+              "x-hunter-road-trip",
               "eb5-roamer-st-road-trip",
+              "eb7-2-0-road-trip",
+              "hunter-pro-combo",
+              "retrovolt-pro-combo",
+              "jasion®-combo-sale-x-hunter-2",
+              "thunder-combo",
+              "x-hunter-2-long-range",
+              "jasion-ebike-combo-sale-yr20-2",
+              "combo-sale-eb7-2-0-folding-fat-tire-electric-bike",
               "jasion-ebike®combo-sale-eb5-roamer-st",
-              "eb5-roamer-st-2-long-range",
               "jasion-ebike®combo-sale-eb5-roamer",
-              "jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st"
+              "jasion-ebike®-combo-sale-x-hunter-eb7-2-0",
+              "jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st",
+              "eb5-roamer-st-2-long-range"
             ],
             "product_list2": [
+              "hunter-pro",
+              "retrovolt-pro",
+              "jasion-x-hunter",
+              "thunder",
+              "jasion-yr20",
+              "jasion®eb5-st-roamer-ebike",
+              "jasion®eb5-roamer-ebike",
               "jasion-eb7-electric-bike",
+              "x-hunter-road-trip",
+              "eb5-roamer-st-road-trip",
               "eb7-2-0-road-trip",
-              "combo-sale-eb7-2-0-folding-fat-tire-electric-bike",
               "hunter-pro-combo",
-              "hunter-pro"
+              "retrovolt-pro-combo",
+              "jasion®-combo-sale-x-hunter-2",
+              "thunder-combo",
+              "x-hunter-2-long-range",
+              "jasion-ebike-combo-sale-yr20-2",
+              "combo-sale-eb7-2-0-folding-fat-tire-electric-bike",
+              "jasion-ebike®combo-sale-eb5-roamer-st",
+              "jasion-ebike®combo-sale-eb5-roamer",
+              "jasion-ebike®-combo-sale-x-hunter-eb7-2-0",
+              "jasion-ebike®combo-sale-eb5-roamer-eb5-roamer-st",
+              "eb5-roamer-st-2-long-range"
             ]
           }
         }
@@ -364,7 +401,7 @@
         "page_color": "#f9f7f6",
         "pc_discount_url": "shopify://shop_images/autumn-sale-product-bundle-back.png",
         "discount_title": "Bundle & Save – Stack Your Discounts!",
-        "discount_text": "<p>Get <strong>$200</strong> OFF on $1,000, <strong>$500</strong> OFF on $5,000</p>",
+        "discount_text": "<p>Extra <strong>$50</strong> OFF on $1,200, <strong>$150</strong> OFF on $3,000</p>",
         "pc_checkout_url": "shopify://shop_images/product-image1.png",
         "checkout_text": "Proceed to Checkout"
       }

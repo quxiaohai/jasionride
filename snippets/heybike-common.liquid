@@ -162,7 +162,7 @@
                 });
             });
         },
-        addToCart: async function ({items: e, button: r}, a, c) {
+        addToCart: async function ({items: e, button: r, discount: d}, a, c) {
             let sectionsToBundle = [];
             document.documentElement.dispatchEvent(
                 new CustomEvent('cart:bundled-sections', {
@@ -229,7 +229,12 @@
                 }
                 c && c();
                 if (a && !isError) {
-                    window.location = '/checkout/'
+                    if (d) {
+                        window.location = `/checkout/?discount=${d}`
+                    } else {
+                        window.location = '/checkout/'
+                    }
+
                 }
             });
         }

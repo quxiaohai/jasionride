@@ -612,7 +612,8 @@
             {%- if bs.full_price != blank and bs.discount_price != blank and bs.full_price >= bs.discount_price -%}
             {
                 price: {{ bs.full_price }},
-                discount: {{ bs.discount_price }}
+                discount: {{ bs.discount_price }},
+                code: '{{ bs.discount_code }}'
             },
             {%- endif -%}
             {%- endcase -%}
@@ -818,6 +819,7 @@
                         originalPrice: originalPrice > 0 ? getTotal(originalPrice + '', true) : '',
                         discount: maxDiscount > 0 ? getTotal(maxDiscount + '', true) : '',
                         totalDiscount: getTotal(originalPrice + maxDiscount + '', true),
+                        code: discountList.find(item => item.discount * 100 === maxDiscount)?.code
                     }
                 }
             },
@@ -858,7 +860,8 @@
                             quantity: 1,
                             id: this.variant2.id,
                         }],
-                        button: ev.target
+                        button: ev.target,
+                        discount: this.totalInfo.code
                     }, true);
                 }
             }
@@ -951,6 +954,11 @@
           "id": "discount_price",
           "label": "Discount Price",
           "default": 50
+        },
+        {
+          "type": "text",
+          "id": "discount_code",
+          "label": "Discount Code"
         }
       ]
     },

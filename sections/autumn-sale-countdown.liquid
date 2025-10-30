@@ -131,8 +131,6 @@
             const MILLISECONDS_MINUTE = 60 * MILLISECONDS_SECOND;
             const MILLISECONDS_HOUR = 60 * MILLISECONDS_MINUTE;
             const MILLISECONDS_DAY = 24 * MILLISECONDS_HOUR;
-            let count = 0,
-                timeout = null;
             const getDoubleDigit = (val) => {
                 if (val < 10) {
                     return `0${val}`;
@@ -140,7 +138,7 @@
                 return val;
             };
 
-            const formatTime = () => {
+            const formatTime = (count) => {
                 const days = Math.max(0, Math.floor(count / MILLISECONDS_DAY));
                 const hours = Math.max(0, Math.floor((count % MILLISECONDS_DAY) / MILLISECONDS_HOUR));
                 const minutes = Math.max(0, Math.floor((count % MILLISECONDS_HOUR) / MILLISECONDS_MINUTE));
@@ -150,23 +148,30 @@
                 nodeList.minute.value = getDoubleDigit(minutes);
                 nodeList.second.value = getDoubleDigit(seconds);
             };
+
+            let startDate = new Date("{{ countdown.settings.countdown_start_date }}");// 目标时间
+            const storeNow = new Date("{{ 'now' | date: '%Y-%m-%dT%H:%M:%S' }}").getTime(); // 初始店铺时间
+            const timeOffset = storeNow - Date.now();
+            const cycleDuration = {{countdown.settings.duration}} * 24 * 60 * 60 * 1000; // 周期长度，单位为毫秒
+
             const startTimer = () => {
                 const interval = 1000;
-                timeout = setInterval(() => {
-                    count -= interval;
-                    formatTime();
-                    if (count <= 0) {
-                        clearInterval(timeout);
+                const timeout = setInterval(() => {
+                    const now = Date.now() + timeOffset;
+                    // 计算从初始时间到当前时间的差值
+                    const elapsedTime = now - startDate;
+                    // 计算当前周期剩余的时间
+                    const remainingTime = cycleDuration - (elapsedTime % cycleDuration);  // 取余数确保倒计时保持周期性
+                    formatTime(remainingTime);
+                    // 如果倒计时完成，重新开始下一个周期
+                    if (remainingTime <= 0) {
+                        // 设置新的开始时间为当前时间
+                        startDate = Date.now();
                     }
                 }, interval);
             };
 
-            const storeNow = new Date("{{ 'now' | date: '%Y-%m-%dT%H:%M:%S' }}").getTime(); // 初始店铺时间
-            const date = new Date("{{ countdown.settings.end_date }}");// 目标时间
-            count = date.getTime() - storeNow;
-            if (count > 0) {
-                startTimer();
-            }
+            startTimer();
         })();
     </script>
 {%- endif -%}
@@ -217,10 +222,20 @@
       "settings": [
         {
           "type": "text",
-          "id": "end_date",
-          "label": "Countdown end time",
-          "default": "2025-12-30 12:01:01",
-          "info": "Format: yyyy-MM-dd HH:mm:ss"
+          "id": "countdown_start_date",
+          "label": "Select start date for countdown",
+          "default": "2024-12-02T00:00:00",
+          "info": "2024-12-02T00:00:00"
+        },
+        {
+          "type": "range",
+          "id": "duration",
+          "min": 1,
+          "max": 30,
+          "step": 1,
+          "unit": "Day",
+          "label": "Duration days",
+          "default": 7
         },
         {
           "type": "text",
